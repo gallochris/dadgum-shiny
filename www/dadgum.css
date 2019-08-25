@@ -1,0 +1,84 @@
+.main-header .logo {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+.center {
+  text-align: center;
+}
+
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+  .britt { 
+display:  none;
+ },
+
+h1{ 
+font-size: 18px;
+
+ }
+
+}
+
+@media (min-width: 576px) {  
+.d-sm-none {
+    display: none!important;
+}
+
+}
+
+.dataTables_info {
+  font-size: 16px;
+  background-color: #faf785;
+  font-weight: bolder;
+}
+hr {
+  border-top: 1px solid #13294B;
+}
+.bottom li {
+  list-style: none;
+}
+.yeahyeah {
+  padding: 12px 5px 12px 15px;
+  display: block;
+}
+.leaky {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.twoten {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: 12px;
+  text-align: center;
+}
+.dropdown {
+  font-size: 24px;
+}
+.info-box-text {
+  font-weight: bolder;
+}
+.alert-info, .bg-aqua, .callout.callout-info, .label-info, .modal-info .modal-body {
+  background-color: #7BAFD4 !important;
+}
+.skin-blue .main-header .navbar {
+  background-color: #7BAFD4;
+}
+.skin-blue .main-sidebar {
+  background-color: #13294B;
+}
+.skin-blue .main-header .logo {
+  background-color: #7BAFD4;
+}
+.skin-blue .main-header .logo:hover {
+  background-color: #7BAFD4;
+}
+.skin-blue .sidebar-menu>li.active>a {
+  background-color: #A2AAAD;
+}
+.skin-blue .sidebar-menu>li:hover>a {
+  background-color: #7BAFD4;
+}
