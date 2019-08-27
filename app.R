@@ -620,7 +620,7 @@ output$tableone = renderDT({
     }
   datatable(data,  rownames = FALSE, escape = FALSE, selection = 'none',
                     colnames = c('Season', 'Date', 'Opponent', 'Result', 'UNC', 'Opp', 'OT', 
-                      'Location','Type','RealType','Box Score'),
+                      'Location','RType','Type','Box Score'),
                     options = list(paging = FALSE, scrollX = TRUE, columnDefs = list(list(visible=FALSE, targets=c(1,8))),
                       sDom = '<"top"lif<"clear">>rt<"bottom"ipl<"clear">>')) %>%
   formatStyle(
