@@ -1,9 +1,7 @@
 # Load packages -------------------------------------------------------------------
 library(shiny)
-library(tidyverse)
 library(DT)
 library(readr)
-library(data.table)
 library(shinydashboard)
 library(dplyr)
 library(ggthemes)
@@ -11,10 +9,6 @@ library(reshape2)
 library(ggplot2)
 library(ggvis)
 library(htmlwidgets)
-library(purrr)
-library(tidyr)
-library(grid)
-library(psych)
 
 # Load data -----------------------------------------------------------------------
 gumdad <- read_csv("data/boxes.csv", col_types = 
