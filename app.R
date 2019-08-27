@@ -156,7 +156,7 @@ dashboardBody(style="background-color: #ecf0f5",
    tabItems(
 # BOX SCORES TAB ----------------------------------------------------------------------------
 tabItem(tabName = "boxscores", 
-fluidRow(column ( width = 12,
+fluidRow(column(width = 12,
 # HTML for box scores tab -------------------------------------------------------------------  
   fluidRow(
     div(class="center", h2("Every UNC Box Score Since 2003-04"), 
@@ -164,22 +164,12 @@ fluidRow(column ( width = 12,
       p(class="d-sm-none", "You're on a mobile screen, flip to landscape or scroll")
       ),
 # Filters for box scores tab ----------------------------------------------------------------  
-    column(width = 12, offset = 5, class = "center",
-       box(
-      width = 2,
+     box(width = 4,
       height = 125, 
-selectInput("season",
+      selectInput("season",
            label = "Season:",
           c("All",
          unique(as.character(gumdad$season))))
-)
-    ),
-     box(width = 4,
-      height = 125, 
-      selectInput("type",
-           label = "Type:",
-          c("All",
-         unique(as.character(gumdad$type))))
 ),
 box(
       width = 4,  
@@ -408,9 +398,6 @@ selectInput("opponentdef",
 
          selectInput("opponentinput", label = h5("Select Opponent"), 
                      choices = c("All", as.list(levels(as.factor(plot$opponent)))), selected = "All"),
-
-         selectInput("typeinput", label = h5("Select Type"), 
-                     choices = c("All", as.list(levels(as.factor(plot$type)))), selected = "All"),
          
          selectInput("selectx1", label = h5("Plot 1 X-Axis"), 
                      choices = list("Pace" = "pace", 
@@ -628,9 +615,6 @@ output$tableone = renderDT({
    if (input$opponent != "All") {
     data <- data[data$opponent == input$opponent,]
   }
-   if (input$type != "All") {
-    data <- data[data$type == input$type,]
-  }
  if(!is.null(input$result)) {
       data <- data[data$result == input$result,]
     }
@@ -804,18 +788,6 @@ mydf1 <- reactive({
       
     }
 
-     if (input$typeinput=="All") { 
-    mydf1
-  }
-  
-  else
-    
-    if (input$typeinput!="All"){
-      
-      mydf1 <- mydf1 %>% filter(type==input$typeinput)
-    }
-      
-
      if (input$opponentinput=="All") { 
     mydf1
   }
@@ -907,17 +879,6 @@ mydf2 <- reactive({
       
       mydf2 <- mydf2 %>% filter(opponent==input$opponentinput)
       
-    }
-
-    if (input$typeinput=="All") { 
-    mydf2
-  }
-  
-  else
-    
-    if (input$typeinput!="All"){
-      
-      mydf2 <- mydf2 %>% filter(type==input$typeinput)
     }
   
   mydf2 <-  mydf2 %>% select(

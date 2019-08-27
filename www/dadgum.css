@@ -8,14 +8,13 @@
 }
 
 
-@media screen and (max-device-width: 480px) and (orientation: portrait) {
+@media screen and (max-device-width: 767px) and (orientation: portrait) {
   .britt { 
 display:  none;
  },
 
-h1{ 
-font-size: 18px;
-
+body { 
+font-size: 0.75rem;
  }
 
 }
@@ -24,6 +23,7 @@ font-size: 18px;
 .d-sm-none {
     display: none!important;
 }
+
 
 }
 
