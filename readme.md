@@ -1,3 +1,5 @@
+## A Shiny App for Dadgum Box Scores
+
 This is a Shiny app built for [dadgumboxscores.com](https://dadgumboxscores.com). It was built with the help of the Internet. 
 
 The tool uses several R packages, including Shiny Dashboard, Readr, DT, and ggvis.
@@ -7,7 +9,7 @@ All data is from box scores via goheels.com and spreads via covers.com. If you h
 --------  
   
   
-###### What's in the app? 
+## What's in the app? 
 
 Check the `app.R` file to see both the `ui.R` and `server.R`. 
 
@@ -21,6 +23,6 @@ The focus of this app is on game-by-game data, so it includes the following:
       
 --------  
 
-###### How to get in touch?
+## How to get in touch?
 
 The fastest way to reach me about this project is via twitter [@dadgumboxscores](https://dadgumboxscores.com)
