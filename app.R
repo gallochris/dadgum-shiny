@@ -140,12 +140,7 @@ sidebarMenu(
       tags$a(href="https://twitter.com/dadgumboxscores/", 
         class="yeahyeah", target="_blank", "👉 @dadgumboxscores")
       ),
-    tags$br(),
-    tags$br(),
-    tags$br(), 
-    tags$br(),
-       tags$li(class="bottom",
-  tags$p(class="twoten", "© 2016-2019 | Built by Chris Gallo"))
+    tags$br()
   )
   ),
 # Start Dashboard body ---------------------------------------------------------------------
