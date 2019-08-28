@@ -133,8 +133,8 @@ sidebarMenu(
         class="yeahyeah", target="_blank", "📓 Stat Glossary")
       ),
     tags$li(class="leaky", 
-      tags$a(href="https://fyi.dadgumboxscores.com/", 
-        class="yeahyeah", target="_blank", "📚 Blog")
+      tags$a(href="https://dadgumboxscores.substack.com/", 
+        class="yeahyeah", target="_blank", "👀 The Dadgum Dispatch")
       ),
     tags$li(class="leaky", 
       tags$a(href="https://twitter.com/dadgumboxscores/", 
