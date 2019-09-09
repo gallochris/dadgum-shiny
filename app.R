@@ -666,7 +666,7 @@ output$tablethree = renderDT({
     datathree <- datathree[datathree$season == input$seasonrefs,]
   }
    if (input$opponentrefs != "All") {
-    datathree <- datathree[datatwo$opponent == input$opponentrefs,]
+    datathree <- datathree[datathree$opponent == input$opponentrefs,]
   }
  
  if(!is.null(input$resultrefs)) {
