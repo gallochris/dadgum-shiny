@@ -374,17 +374,16 @@ selectInput("opponentdef",
 ),
 # PLOT PARTY TAB -------------------------------------------------------------------------------------- 
   tabItem(tabName = "party",
-    fluidRow(column(width=4,
+    fluidRow(column(width=8,
   h2("Plots using individual game data"),
   p("Data shows game-by-game numbers for effective field goal (eFG), turnover (TO%), 
           offensive rebounding (OR%), two-point shots (2PT%), three-point shots (3PT%), 
-          and free throws (FT%). Rates for three-point shots and free throws."),
+          and free throws (FT%). Rates/attempts for three-point shots and free throws."),
   p(class="d-sm-none", "You're on a mobile screen, these plots will be a bit tougher to use.")
   )
 ),
     fluidRow(
-     box(title = "Plot 1", solidHeader=TRUE,  ggvisOutput("plot1"),uiOutput("plot1_ui"), width=5),
-     box(title = "Plot 2", solidHeader=TRUE,  ggvisOutput("plot2"),uiOutput("plot2_ui"), width=5, collapsible = T),
+     box(title = "The Plot Thickens", solidHeader=TRUE,  ggvisOutput("plot1"),uiOutput("plot1_ui"), width=8),
      box(title = "Filters", solidHeader=TRUE,  
          
          
@@ -394,7 +393,7 @@ selectInput("opponentdef",
          selectInput("opponentinput", label = h5("Select Opponent"), 
                      choices = c("All", as.list(levels(as.factor(plot$opponent)))), selected = "All"),
          
-         selectInput("selectx1", label = h5("Plot 1 X-Axis"), 
+         selectInput("selectx1", label = h5("X-Axis"), 
                      choices = list("Pace" = "pace", 
                                     "UNC PPP" = "ppp", 
                                     "UNC eFG" = "efg",
@@ -404,6 +403,8 @@ selectInput("opponentdef",
                                     "UNC 2PT%" = "pmp", 
                                     "UNC 3PT%" = "tmp", 
                                     "UNC 3PTRate" = "tmpa",
+                                    "UNC FTM" = "fpa", 
+                                    "UNC FTA" = "fpt",
                                     "UNC FT%" = "tft", 
                                     "OPP PPP" = "oppp", 
                                     "OPP eFG" = "oefg",
@@ -413,13 +414,15 @@ selectInput("opponentdef",
                                     "OPP 2PT%" = "opmp", 
                                     "OPP 3PT%" = "otmp", 
                                     "OPP 3PTRate" = "otmpa",
+                                    "OPP FTM" = "ofpa",
+                                    "OPP FTA" = "ofpt",
                                     "OPP FT%" = "otft"                  
                      ), 
                      selected = "efg"),
          
          
          
-         selectInput("selecty1", label = h5("Plot 1 Y-Axis"), 
+         selectInput("selecty1", label = h5("Y-Axis"), 
                      choices = list("Pace" = "pace", 
                                     "UNC PPP" = "ppp", 
                                     "UNC eFG" = "efg",
@@ -429,6 +432,8 @@ selectInput("opponentdef",
                                     "UNC 2PT%" = "pmp", 
                                     "UNC 3PT%" = "tmp", 
                                     "UNC 3PTRate" = "tmpa",
+                                    "UNC FTM" = "fpa", 
+                                    "UNC FTA" = "fpt",
                                     "UNC FT%" = "tft", 
                                     "OPP PPP" = "oppp", 
                                     "OPP eFG" = "oefg",
@@ -438,70 +443,14 @@ selectInput("opponentdef",
                                     "OPP 2PT%" = "opmp", 
                                     "OPP 3PT%" = "otmp", 
                                     "OPP 3PTRate" = "otmpa",
-                                    "OPP FT%" = "otft" 
+                                    "OPP FTM" = "ofpa",
+                                    "OPP FTA" = "ofpt",
+                                    "OPP FT%" = "otft"  
                                     
                      ), 
                      selected = "or"),
          
-      
-         
-         
-         selectInput("selectx2", label = h5("Plot 2 X-Axis"), 
-                     choices = list("Pace" = "pace", 
-                                    "UNC PPP" = "ppp", 
-                                    "UNC eFG" = "efg",
-                                    "UNC TO%" = "to", 
-                                    "UNC OR%" = "or", 
-                                    "UNC FTRate" = "ft",
-                                    "UNC 2PT%" = "pmp", 
-                                    "UNC 3PT%" = "tmp", 
-                                    "UNC 3PTRate" = "tmpa",
-                                    "UNC FT%" = "tft", 
-                                    "OPP PPP" = "oppp", 
-                                    "OPP eFG" = "oefg",
-                                    "OPP TO%" = "oto", 
-                                    "OPP OR%" = "oor", 
-                                    "OPP FTRate" = "oft",
-                                    "OPP 2PT%" = "opmp", 
-                                    "OPP 3PT%" = "otmp", 
-                                    "OPP 3PTRate" = "otmpa",
-                                    "OPP FT%" = "otft" 
-                                    
-                     ), 
-                     selected = "oefg"),
-         
-         
-            
-         selectInput("selecty2", label = h5("Plot 2 Y-Axis"), 
-                     choices = list("Pace" = "pace", 
-                                    "UNC PPP" = "ppp", 
-                                    "UNC eFG" = "efg",
-                                    "UNC TO%" = "to", 
-                                    "UNC OR%" = "or", 
-                                    "UNC FTRate" = "ft",
-                                    "UNC 2PT%" = "pmp", 
-                                    "UNC 3PT%" = "tmp", 
-                                    "UNC 3PTRate" = "tmpa",
-                                    "UNC FT%" = "tft", 
-                                    "OPP PPP" = "oppp", 
-                                    "OPP eFG" = "oefg",
-                                    "OPP TO%" = "oto", 
-                                    "OPP OR%" = "oor", 
-                                    "OPP FTRate" = "oft",
-                                    "OPP 2PT%" = "opmp", 
-                                    "OPP 3PT%" = "otmp", 
-                                    "OPP 3PTRate" = "otmpa",
-                                    "OPP FT%" = "otft" 
-                                    
-                     ), 
-                     selected = "oor"),
-         
-         radioButtons("radioscatter", label = h5("Trendlines"),
-                      choices = list("Add" = 1, "Remove" = 2), 
-                      selected = 2, inline=T),    
-         
-         
-         width=2)
+         width=4)
     
           )
 
@@ -748,23 +697,24 @@ output$tablefive = renderDT({
 
 # PLOT PARTY SERVER TAB ----------------------------------------------------------------------------------
 
-titledf <- data.frame(var1 = c("pace",  "ppp", "efg", "to", "or", "ft", "pmp", "tmp", "tmpa", 
+titledf <- data.frame(var1 = c("pace",  "ppp", "efg", "to", "or", "ft", "pmp", "tmp", "tmpa", "fpa", "fpt", 
                                   "tft", "oppp", "oefg", "oto", "oor", "oft", "opmp", "otmp", 
-                                  "otmpa", "otft"),
+                                  "otmpa", "ofpa", "ofpt", "otft"),
                         
                         var2 = c("Pace", "UNC PPP", "UNC eFG", "UNC TO%", "UNC OR%", "UNC FTRate", 
-                                  "UNC 2PT%", "UNC 3PT%", "UNC 3PTRate", "UNC FT%", "OPP PPP", 
+                                  "UNC 2PT%", "UNC 3PT%", "UNC 3PTRate", "UNC FTM", "UNC FTA", "UNC FT%", "OPP PPP", 
                                   "OPP eFG", "OPP TO%", "OPP OR%", "OPP FTRate", "OPP 2PT%", "OPP 3PT%", 
-                                  "OPP 3PTRate", "OPP FT%") 
+                                  "OPP 3PTRate", "OPP FTM", "OPP FTA", "OPP FT%") 
   )
   
 
+# Ensure factor levels are set for color consistency:
+
+
+
 # For Dynamic Titles
 titlex1 <- reactive({  as.character(titledf$var2[match(input$selectx1, titledf$var1)])    })
-titlex2 <- reactive({  as.character(titledf$var2[match(input$selectx2, titledf$var1)])    })
 titley1 <- reactive({  as.character(titledf$var2[match(input$selecty1, titledf$var1)])    })
-titley2 <- reactive({  as.character(titledf$var2[match(input$selecty2, titledf$var1)])    })
-
 
 ### Scatter 1 Get Data
 mydf1 <- reactive({
@@ -776,12 +726,13 @@ mydf1 <- reactive({
   }
   
   else
-    
+ 
     if (input$yearinput!="All"){
       
-      mydf1 <- mydf1 %>% filter(season==input$yearinput)
+      mydf1 <- mydf1 %>% filter(season %in% input$yearinput)
       
     }
+
 
      if (input$opponentinput=="All") { 
     mydf1
@@ -795,19 +746,20 @@ mydf1 <- reactive({
       
     }
   
-  mydf1 <-  mydf1 %>% select(x1 = which(colnames(plot)==input$selectx1), y1=which(colnames(plot)==input$selecty1), 
-                             label)
+  mydf1 <-  mydf1 %>% select(x1 = which(colnames(plot)==input$selectx1), y1=which(colnames(plot)==input$selecty1),
+                             label, blind) 
   
 })
 
 
-#Scatter1 Plot
+
 reactive({
-  
-  if(input$radioscatter==2){
+  mydf1 <- data.frame() 
     mydf1() %>% 
-    ggvis(~x1, ~y1, key:= ~label,  opacity := 0.65, fill := "#56a0d3") %>% 
-    layer_points(size.hover := 200, fill.hover := "#A95F2C") %>% 
+    ggvis(~x1, ~y1, key:= ~label,  opacity := 0.65) %>% 
+    layer_points(size.hover := 200, fill := ~blind) %>% 
+    scale_nominal("fill", domain = c("L", "W"), range =  c('lightpink', 'lightgreen')) %>% 
+    add_legend(c("fill"), title="Result") %>%
     set_options(width = "auto", height = "auto") %>%
     add_tooltip(function(data) data$label) %>% 
     add_axis("x", title = titlex1(), 
@@ -818,112 +770,8 @@ reactive({
              properties = axis_props(
                title = list(fontSize = 20, dy=-20),
                labels = list(fontSize = 16)) )  
- 
-  }
-    
-  
-  else
-    
-    if(input$radioscatter==1){
-      
-      mydf1() %>% 
-        ggvis(~x1, ~y1) %>% 
-        layer_points(size.hover := 200, fill.hover := "#A95F2C", key:= ~label,  opacity := 0.65) %>% 
-        set_options(width = "auto", height = "auto") %>%
-        add_tooltip(function(data) data$label) %>% 
-        add_axis("x", title = titlex1(), 
-                 properties = axis_props(
-                   title = list(fontSize = 20, dx=-5),
-                   labels = list(fontSize = 16)) )  %>% 
-        add_axis("y", title = titley1(), 
-                 properties = axis_props(
-                   title = list(fontSize = 20, dy=-20),
-                   labels = list(fontSize = 16)) )  %>%
-        layer_model_predictions(model = "lm",  stroke:="#A95F2C", fill.hover := "#A95F2C", se = TRUE, strokeWidth := 5)
-      
-    }  
   
   })  %>%  bind_shiny("plot1", "plot1_ui")
-  
-
-
-#### Scatter2 Get Data
-mydf2 <- reactive({
-  
-  mydf2  <- plot
-  
-  if (input$yearinput=="All") { 
-    mydf2
-  }
-  
-  else
-    
-    if (input$yearinput!="All"){
-      
-      mydf2 <- mydf2 %>% filter(season==input$yearinput)
-      
-    }
-
-     if (input$opponentinput=="All") { 
-    mydf2
-  }
-  
-  else
-    
-    if (input$opponentinput!="All"){
-      
-      mydf2 <- mydf2 %>% filter(opponent==input$opponentinput)
-      
-    }
-  
-  mydf2 <-  mydf2 %>% select(
-    x2 = which(colnames(plot)==input$selectx2), y2=which(colnames(plot)==input$selecty2), 
-    label)
-  
-})
-
-#Scatter2 Plot
-
-  reactive({
-
-    if(input$radioscatter==2){
-      
-      mydf2() %>% 
-    ggvis(~x2, ~y2, key:= ~label,  opacity := 0.65, fill := "#A95F2C") %>% 
-    layer_points(size.hover := 200, fill.hover := "#56a0d3") %>% 
-    set_options(width = "auto", height = "auto") %>%
-    add_tooltip(function(data) data$label) %>% 
-    add_axis("x", title = titlex2(), 
-             properties = axis_props(
-               title = list(fontSize = 20, dx=-5),
-               labels = list(fontSize = 16)) )  %>% 
-    add_axis("y", title = titley2(), 
-                 properties = axis_props(
-                 title = list(fontSize = 20, dy=-20),
-                  labels = list(fontSize = 16)) )  
-    }
-    else
-      if(input$radioscatter==1){
-    
-              mydf2() %>% 
-            ggvis(~x2, ~y2) %>% 
-            layer_points(size.hover := 200, fill.hover := "#56a0d3", key:= ~label,  opacity := 0.65) %>% 
-            set_options(width = "auto", height = "auto") %>%
-            add_tooltip(function(data) data$label) %>% 
-            add_axis("x", title = titlex2(), 
-                     properties = axis_props(
-                       title = list(fontSize = 20, dx=-5),
-                       labels = list(fontSize = 16)) )  %>% 
-            add_axis("y", title = titley2(), 
-                     properties = axis_props(
-                       title = list(fontSize = 20, dy=-20),
-                       labels = list(fontSize = 16)) )  %>%
-          layer_model_predictions(model = "lm", stroke:="#56a0d3", fill.hover := "#56a0d3", se = TRUE, strokeWidth := 4)
-        
-      } 
-    
-      })  %>%  bind_shiny("plot2", "plot2_ui")
-
 
 }
 shinyApp(ui = ui, server = server)
