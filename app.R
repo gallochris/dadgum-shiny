@@ -674,7 +674,7 @@ output$tablefive = renderDT({
     datafive <- datafive[datafive$season == input$seasondef,]
   }
    if (input$opponentdef != "All") {
-    datathfive <- datafive[datafive$opponent == input$opponentdef,]
+    datafive <- datafive[datafive$opponent == input$opponentdef,]
   }
  
  if(!is.null(input$resultdef)) {
