@@ -139,7 +139,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2015-16,4-Jan-16,Florida State,W,106,90,,away,League,League,boxes/2016/unc-106-fsu-90
 2015-16,2-Jan-16,Georgia Tech,W,86,68,,home,League,League,boxes/2016/unc-86-gt-78
 2015-16,30-Dec-15,Clemson,W,80,69,,home,League,League,boxes/2016/unc-80-clem-69
-2015-16,28-Dec-15,G,W,96,63,,home,Non-Conference,Non-Conference,boxes/2016/unc-96-uncg-63
+2015-16,28-Dec-15,UNC-G,W,96,63,,home,Non-Conference,Non-Conference,boxes/2016/unc-96-uncg-63
 2015-16,21-Dec-15,Appalachian State,W,94,70,,home,Non-Conference,Non-Conference,boxes/2016/unc-94-app-70
 2015-16,19-Dec-15,UCLA,W,89,76,,neutral,Non-Conference,Non-Conference,boxes/2016/unc-89-ucla-76
 2015-16,16-Dec-15,Tulane,W,96,72,,home,Non-Conference,Non-Conference,boxes/2016/unc-96-tulane-72
@@ -180,7 +180,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2014-15,30-Dec-14,William & Mary,W,86,64,,home,Non-Conference,Non-Conference,boxes/2015/unc-86-bill-and-mary-64
 2014-15,27-Dec-14,UAB,W,89,58,,home,Non-Conference,Non-Conference,boxes/2015/unc-89-uab-58
 2014-15,20-Dec-14,Ohio State,W,82,74,,neutral,Non-Conference,Non-Conference,boxes/2015/unc-82-osu-74
-2014-15,16-Dec-14,G,W,79,56,,away,Non-Conference,Non-Conference,boxes/2015/unc-79-uncg-56
+2014-15,16-Dec-14,UNC-G,W,79,56,,away,Non-Conference,Non-Conference,boxes/2015/unc-79-uncg-56
 2014-15,13-Dec-14,Kentucky,L,70,84,,away,Non-Conference,Non-Conference,boxes/2015/kentucky-84-unc-70
 2014-15,7-Dec-14,East Carolina,W,108,64,,home,Non-Conference,Non-Conference,boxes/2015/unc-108-ecu-64
 2014-15,3-Dec-14,Iowa,L,55,60,,home,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2015/iowa-60-unc-55
@@ -216,7 +216,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2013-14,21-Dec-13,Davidson,W,87,85,OT,home,Non-Conference,Non-Conference,boxes/2014/unc-87-davidson-85
 2013-14,18-Dec-13,Texas,L,83,86,,home,Non-Conference,Non-Conference,boxes/2014/texas-86-unc-83
 2013-14,14-Dec-13,Kentucky,W,82,77,,home,Non-Conference,Non-Conference,boxes/2014/unc-82-kentucky-77
-2013-14,7-Dec-13,G,W,81,50,,home,Non-Conference,Non-Conference,boxes/2014/unc-81-uncg-50
+2013-14,7-Dec-13,UNC-G,W,81,50,,home,Non-Conference,Non-Conference,boxes/2014/unc-81-uncg-50
 2013-14,4-Dec-13,Michigan State,W,79,65,,away,Non-Conference,Non-Conference,boxes/2014/unc-79-msu-65
 2013-14,1-Dec-13,UAB,L,59,63,,away,Non-Conference,Non-Conference,boxes/2014/uab-63-unc-59
 2013-14,24-Nov-13,Louisville,W,93,84,,neutral,Non-Conference,Non-Conference (Hall of Fame Tipoff),boxes/2014/unc-93-lville-84
