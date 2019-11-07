@@ -237,7 +237,7 @@ selectInput("opponentfactors",
             fluidRow(
     div( class="center", h2("Refs Game-By-Game"), 
       h3("Filter by season, wins, losses, or opponent"), 
-      h4("Most Frequent Ref (Total Games): ROGER AYERS, 84"),
+      h4("Most Frequent Ref (Total Games): ROGER AYERS, 85"),
       p(class="d-sm-none", "You're on a mobile screen, flip to landscape or scroll")
       )
     ),
@@ -570,7 +570,7 @@ output$tableone = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(gumdad$result), c('lightpink', 'lightgreen')))
+      unique(gumdad$result), c('lightgreen', 'lightpink')))
 
 })
  
@@ -601,7 +601,7 @@ formatRound(c('efg', 'to', 'or', 'ft', 'oefg', 'oto', 'oor', 'oft'), 1) %>%
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(factors$result), c('lightpink', 'lightgreen')))
+      unique(factors$result), c('lightgreen', 'lightpink')))
 
 })
 
@@ -630,7 +630,7 @@ output$tablethree = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(refs$result), c('lightpink', 'lightgreen')))
+      unique(refs$result), c('lightgreen', 'lightpink')))
 })
 
 
@@ -660,7 +660,7 @@ output$tablefour = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(defshots$result), c('lightpink', 'lightgreen')))
+      unique(defshots$result), c('lightgreen', 'lightpink')))
 })
 
 # DEFENSIVE SHOTS SERVER TAB -----------------------------------------------------------------------------
@@ -690,7 +690,7 @@ output$tablefive = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(defshots$result), c('lightpink', 'lightgreen')))
+      unique(defshots$result), c('lightgreen', 'lightpink')))
 
 
 })
