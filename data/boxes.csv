@@ -1,4 +1,5 @@
 season,date,opponent,result,unc,opp,OT,location,type,realtype,box
+2019-20,6-Nov-19,Notre Dame,W,76,65,,home,League,League,boxes/2020/unc-76-nd-65.pdf
 2018-19,29-Mar-19,Auburn,L,80,97,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2019/aub-97-unc-80.pdf
 2018-19,24-Mar-19,Washington,W,81,59,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2019/unc-81-wash-59.pdf
 2018-19,22-Mar-19,Iona,W,88,73,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2019/unc-88-iona-73.pdf
@@ -26,7 +27,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2018-19,29-Dec-18,Davidson,W,82,60,,home,Non-Conference,Non-Conference,boxes/2019/unc-82-dav-60.pdf
 2018-19,22-Dec-18,Kentucky,L,72,80,,neutral,Non-Conference,Non-Conference,boxes/2019/kentucky-80-unc-72.pdf
 2018-19,15-Dec-18,Gonzaga,W,103,90,,home,Non-Conference,Non-Conference,boxes/2019/unc-103-gonzaga-90.pdf
-2018-19,5-Dec-18,Wilmington,W,97,69,,home,Non-Conference,Non-Conference,boxes/2019/unc-97-uncw-69.pdf
+2018-19,5-Dec-18,UNC-Wilmington,W,97,69,,home,Non-Conference,Non-Conference,boxes/2019/unc-97-uncw-69.pdf
 2018-19,28-Nov-18,Michigan,L,67,84,,away,Non-Conference,Non-Conference,boxes/2019/mich-84-unc-67.pdf
 2018-19,23-Nov-18,UCLA,W,94,78,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2019/unc-94-ucla-78.pdf
 2018-19,22-Nov-18,Texas,L,89,92,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2019/texas-92-unc-89.pdf
@@ -211,7 +212,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2013-14,11-Jan-14,Syracuse,L,45,57,,away,League,League,boxes/2014/cuse-57-unc-45
 2013-14,8-Jan-14,Miami,L,57,63,,home,League,League,boxes/2014/miami-63-unc-57
 2013-14,5-Jan-14,Wake Forest,L,67,73,,away,League,League,boxes/2014/wake-73-unc-67
-2013-14,31-Dec-13,Wilmington,W,84,51,,home,Non-Conference,Non-Conference,boxes/2014/unc-84-uncw-51
+2013-14,31-Dec-13,UNC-Wilmington,W,84,51,,home,Non-Conference,Non-Conference,boxes/2014/unc-84-uncw-51
 2013-14,27-Dec-13,NKU,W,75,60,,home,Non-Conference,Non-Conference,boxes/2014/unc-75-nk-60
 2013-14,21-Dec-13,Davidson,W,87,85,OT,home,Non-Conference,Non-Conference,boxes/2014/unc-87-davidson-85
 2013-14,18-Dec-13,Texas,L,83,86,,home,Non-Conference,Non-Conference,boxes/2014/texas-86-unc-83
@@ -544,7 +545,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2004-05,8-Jan-05,Maryland,W,109,75,,home,League,League,boxes/2005/unc-109-maryland-75
 2004-05,2-Jan-05,William & Mary,W,105,66,,home,Non-Conference,Non-Conference,boxes/2005/unc-105-bill-and-mary-66
 2004-05,30-Dec-04,Cleveland State,W,107,64,,home,Non-Conference,Non-Conference,boxes/2005/unc-107-cs-64
-2004-05,28-Dec-04,Wilmington,W,96,75,,home,Non-Conference,Non-Conference,boxes/2005/unc-96-uncw-75
+2004-05,28-Dec-04,UNC-Wilmington,W,96,75,,home,Non-Conference,Non-Conference,boxes/2005/unc-96-uncw-75
 2004-05,21-Dec-04,Vermont,W,93,65,,home,Non-Conference,Non-Conference,boxes/2005/unc-93-vermont-65
 2004-05,19-Dec-04,Virginia Tech,W,85,51,,away,League,League,boxes/2005/unc-85-vt-51
 2004-05,12-Dec-04,Loyola Chicago,W,109,60,,home,Non-Conference,Non-Conference,boxes/2005/unc-109-lc-60
@@ -577,7 +578,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2003-04,7-Jan-04,Miami,W,89,64,,home,Non-Conference,Non-Conference,boxes/2004/unc-89-miami-64
 2003-04,3-Jan-04,Kentucky,L,56,61,,away,Non-Conference,Non-Conference,boxes/2004/kentucky-61-unc-56
 2003-04,30-Dec-03,Coastal Carolina,W,105,72,,home,Non-Conference,Non-Conference,boxes/2004/unc-105-coastal-72
-2003-04,28-Dec-03,Wilmington,W,71,54,,neutral,Non-Conference,Non-Conference,boxes/2004/unc-71-uncw-54
+2003-04,28-Dec-03,UNC-Wilmington,W,71,54,,neutral,Non-Conference,Non-Conference,boxes/2004/unc-71-uncw-54
 2003-04,20-Dec-03,Wake Forest,L,114,119,OT,home,League,League,boxes/2004/wake-119-unc-114
 2003-04,14-Dec-03,Akron,W,64,53,,home,Non-Conference,Non-Conference,boxes/2004/unc-64-akron-53
 2003-04,7-Dec-03,George Mason,W,115,81,,home,Non-Conference,Non-Conference,boxes/2004/unc-115-gmason-81
