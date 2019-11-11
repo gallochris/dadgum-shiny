@@ -125,7 +125,6 @@ sidebarMenu(
     menuItem("Offense: Shooting Stats", tabName = "shots", icon = icon("arrow-circle-up")),
     menuItem("Defense: Shooting Stats", tabName = "def", icon = icon("arrow-circle-down")), 
     menuItem("Plot Party", tabName = "party", icon = icon("chart-line")), 
-    menuItem("2019-20 Shot Charts", tabName = "chart", icon = icon("basketball-ball")), 
     menuItem("Dadgum Data", tabName = "datadump", icon = icon("database")), 
     tags$br(), 
     tags$br(),
@@ -457,38 +456,6 @@ selectInput("opponentdef",
           )
 
       ), 
-# SHOT CHART TAB ----------------------------------------------------------------------------------------
- tabItem(tabName = "chart",
-  h2("2019-20 Shot Charts"),
-  p("Charts courtesy of ncaahoopR. Please be patient for the updates as the information is being pulled via ESPN."),
-  # Sidebar with a checkbox input for game selection 
-      fluidRow(width = 4,
-    box(
-      selectInput("dateBoxes", 
-                         label = "2019-20 Games:",
-                         choices = c("Game 01: Notre Dame" = 401168159,
-                                     "Game 02: at UNCW" = 401168164
-                                     
-                         ),
-                         selected = c(401168164)
-      ),
-     
-      #Radio button input for presenting shot chart as heatmap
-      radioButtons("heatmapSelector",
-                   label = "Show Heatmap?",
-                   choices = c("Yes" = TRUE,
-                               "No" = FALSE),
-                   selected = c(FALSE)
-      )
-      )
-    ),
-    
-    # Show a plot of the generated distribution
-      fluidRow(width= 12,
-        box(
-        plotOutput("GameShotChart", height = 600, width = 900), width=10)
-      )
- ),
 # DATADUMP TAB ----------------------------------------------------------------------------------------
       tabItem(tabName = "datadump",
         fluidRow(column(width=6, 
@@ -806,13 +773,6 @@ reactive({
                labels = list(fontSize = 16)) )  
   
   })  %>%  bind_shiny("plot1", "plot1_ui")
-
-# CHART ART SERVER TAB ----------------------------------------------------------------------------------
-
-  output$GameShotChart <- renderPlot({
-    game_shot_chart(game_id = input$dateBoxes,
-                    heatmap = input$heatmapSelector)
-  })
 
 }
 shinyApp(ui = ui, server = server)
