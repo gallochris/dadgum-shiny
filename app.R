@@ -1,6 +1,5 @@
 # Load packages -------------------------------------------------------------------
 library(shiny)
-library(ncaahoopR)
 library(DT)
 library(readr)
 library(shinydashboard)
