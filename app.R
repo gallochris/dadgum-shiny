@@ -468,10 +468,11 @@ selectInput("opponentdef",
                          label = "2019-20 Games:",
                          choices = c("Game 01: Notre Dame" = 401168159,
                                      "Game 02: at UNCW" = 401168164,
-                                     "Game 03: Gardner-Webb" = 401168185
+                                     "Game 03: Gardner-Webb" = 401168185,
+                                     "Game 04: Elon" = 401168201,
                                      
                          ),
-                         selected = c(401168185)
+                         selected = c(401168201)
       ),
      
       #Radio button input for presenting shot chart as heatmap
