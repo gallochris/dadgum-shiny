@@ -470,7 +470,8 @@ selectInput("opponentdef",
                                      "Game 02: at UNCW" = 401168164,
                                      "Game 03: Gardner-Webb" = 401168185,
                                      "Game 04: Elon" = 401168201,
-                                     "Game 05: Alabama" = 401168222
+                                     "Game 05: Alabama" = 401168222,
+                                     "Game 06: Michigan" = 401183482
                                      
                          ),
                          selected = c(401168201)
