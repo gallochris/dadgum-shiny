@@ -474,7 +474,7 @@ selectInput("opponentdef",
                                      "Game 06: Michigan" = 401183482
                                      
                          ),
-                         selected = c(401168201)
+                         selected = c(401183482)
       ),
      
       #Radio button input for presenting shot chart as heatmap
@@ -608,7 +608,7 @@ output$tableone = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(gumdad$result), c('lightgreen', 'lightpink')))
+      unique(gumdad$result), c('lightpink', 'lightgreen')))
 
 })
  
@@ -639,7 +639,7 @@ formatRound(c('efg', 'to', 'or', 'ft', 'oefg', 'oto', 'oor', 'oft'), 1) %>%
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(factors$result), c('lightgreen', 'lightpink')))
+      unique(factors$result), c('lightpink', 'lightgreen')))
 
 })
 
@@ -668,7 +668,7 @@ output$tablethree = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(refs$result), c('lightgreen', 'lightpink')))
+      unique(refs$result), c('lightpink', 'lightgreen')))
 })
 
 
@@ -698,7 +698,7 @@ output$tablefour = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(defshots$result), c('lightgreen', 'lightpink')))
+      unique(defshots$result), c('lightpink', 'lightgreen')))
 })
 
 # DEFENSIVE SHOTS SERVER TAB -----------------------------------------------------------------------------
@@ -728,7 +728,7 @@ output$tablefive = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(defshots$result), c('lightgreen', 'lightpink')))
+      unique(defshots$result), c('lightpink', 'lightgreen')))
 
 
 })
