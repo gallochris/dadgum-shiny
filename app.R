@@ -472,10 +472,11 @@ selectInput("opponentdef",
                                      "Game 04: Elon" = 401168201,
                                      "Game 05: Alabama" = 401168222,
                                      "Game 06: Michigan" = 401183482,
-                                     "Game 07: Oregon" = 401183485
+                                     "Game 07: Oregon" = 401183485,
+                                     "Game 08: Ohio State" = 401168241
                                      
                          ),
-                         selected = c(401183485)
+                         selected = c(401168241)
       ),
      
       #Radio button input for presenting shot chart as heatmap
@@ -609,7 +610,7 @@ output$tableone = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(gumdad$result), c('lightgreen', 'lightpink')))
+      c("W", "L"), c('lightgreen', 'lightpink')))
 
 })
  
@@ -640,7 +641,7 @@ formatRound(c('efg', 'to', 'or', 'ft', 'oefg', 'oto', 'oor', 'oft'), 1) %>%
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(factors$result), c('lightgreen', 'lightpink')))
+      c("W", "L"), c('lightgreen', 'lightpink')))
 
 })
 
@@ -669,7 +670,7 @@ output$tablethree = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(refs$result), c('lightgreen', 'lightpink')))
+      c("W", "L"), c('lightgreen', 'lightpink')))
 })
 
 
@@ -699,7 +700,7 @@ output$tablefour = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(defshots$result), c('lightgreen', 'lightpink')))
+      c("W", "L"), c('lightgreen', 'lightpink')))
 })
 
 # DEFENSIVE SHOTS SERVER TAB -----------------------------------------------------------------------------
@@ -729,7 +730,7 @@ output$tablefive = renderDT({
   formatStyle(
     'result',
     backgroundColor = styleEqual(
-      unique(defshots$result), c('lightgreen', 'lightpink')))
+      c("W", "L"), c('lightgreen', 'lightpink')))
 
 
 })
