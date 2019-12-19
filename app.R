@@ -475,10 +475,11 @@ selectInput("opponentdef",
                                      "Game 07: Oregon" = 401183485,
                                      "Game 08: Ohio State" = 401168241,
                                      "Game 09: UVA" = 401184943, 
-                                     "Game 10: Wofford" = 401168255
+                                     "Game 10: Wofford" = 401168255, 
+                                     "Game 11: Gonzaga" = 401168261
                                      
                          ),
-                         selected = c(401168255)
+                         selected = c(401168261)
       ),
      
       #Radio button input for presenting shot chart as heatmap
