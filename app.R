@@ -479,7 +479,7 @@ selectInput("opponentdef",
                                      "Game 11: Gonzaga" = 401168261, 
                                      "Game 12: UCLA" = 401168270,
                                      "Game 13: Yale" = 401168285,
-                                     "Game 13: Georgia Tech" = 401168484
+                                     "Game 14: Georgia Tech" = 401168484
                                      
                          ),
                          selected = c(401168484)
