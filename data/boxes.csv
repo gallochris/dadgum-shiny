@@ -1,4 +1,5 @@
 season,date,opponent,result,unc,opp,OT,location,type,realtype,box
+2019-20,18-Jan-20,Pittsburgh,L,52,66,,away,League,League,boxes/pitt-66-unc-52.pdf
 2019-20,11-Jan-20,Clemson,L,76,79,OT,home,League,League,boxes/2020/clem-79-unc-76.pdf
 2019-20,8-Jan-20,Pittsburgh,L,65,73,,home,League,League,boxes/2020/pitt-73-unc-65.pdf
 2019-20,4-Jan-20,Georgia Tech,L,83,96,,home,League,League,boxes/2020/gt-96-unc-83.pdf
@@ -6,7 +7,7 @@ season,date,opponent,result,unc,opp,OT,location,type,realtype,box
 2019-20,21-Dec-19,UCLA,W,74,64,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2020/unc-74-ucla-64.pdf
 2019-20,18-Dec-19,Gonzaga,L,81,94,,away,Non-Conference,Non-Conference,boxes/2020/gonzaga-94-unc-81.pdf
 2019-20,15-Dec-19,Wofford,L,64,68,,home,Non-Conference,Non-Conference,boxes/2020/wofford-68-unc-64.pdf
-2019-20,8-Dec-19,UVA,L,47,56,,away,League,League,boxes/2020/virginia-56-unc-47.pdf
+2019-20,8-Dec-19,UVA,L,47,56,,away,League,League,boxes/2020/uva-56-unc-47.pdf
 2019-20,4-Dec-19,Ohio State,L,49,74,,neutral,Non-Conference,Non-Conference (Big 10 Challenge),boxes/2020/osu-74-unc-49.pdf
 2019-20,29-Nov-19,Oregon,W,78,74,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2020/unc-78-oregon-74.pdf
 2019-20,28-Nov-19,Michigan,L,64,73,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2020/mich-73-unc-64.pdf
