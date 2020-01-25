@@ -460,7 +460,7 @@ selectInput("opponentdef",
 # SHOT CHART TAB ----------------------------------------------------------------------------------------
  tabItem(tabName = "chart",
   h2("2019-20 Shot Charts"),
-  p("Charts courtesy of ncaahoopR. Please be patient for the updates as the information is being pulled via ESPN."),
+  p("Charts courtesy of ncaahoopR. Not all games available, please be patient for the updates as the information is being pulled via ESPN."),
   # Sidebar with a checkbox input for game selection 
       fluidRow(width = 4,
     box(
@@ -483,10 +483,11 @@ selectInput("opponentdef",
                                      "Game 15: Pittsburgh" = 401168489,
                                      "Game 16: Clemson" = 401168491,
                                      "Game 17: Pittsburgh" = 401168493,
-                                     "Game 18: Virginia Tech" = 401168494
+                                     "Game 18: Virginia Tech" = 401168494, 
+                                     "Game 19: Miami" = 401168495
                                      
                          ),
-                         selected = c(401168494)
+                         selected = c(401168495)
       ),
      
       #Radio button input for presenting shot chart as heatmap
