@@ -290,7 +290,7 @@ selectInput("opponentrefs",
        box(
                       width = 6,
             sliderInput( 
-              "efgshots", label = "Opponent Effective Field Goal Percentage (eFG)", min = 0, 
+              "efgshots", label = "Effective Field Goal Percentage (eFG)", min = 0, 
         max = 90, value = c(0, 80))
             )
     ),
@@ -339,7 +339,7 @@ selectInput("opponentshots",
        box(
             width = 6,
             sliderInput( 
-              "oefgshots", label = "Effective Field Goal Percentage (eFG)", min = 0, 
+              "oefgshots", label = "Opponent Effective Field Goal Percentage (eFG)", min = 0, 
         max = 90, value = c(0, 80))
             )
     ),
@@ -492,10 +492,11 @@ selectInput("opponentdef",
                                      "Game 24: Wake Forest" = 401168499,
                                      "Game 25: UVA" = 401168485,
                                      "Game 26: Notre Dame" = 401168500,
-                                     "Game 27: Louisville" = 401168501
+                                     "Game 27: Louisville" = 401168501, 
+                                     "Gane 28: NC State" = 401168502
                                      
                          ),
-                         selected = c(401168501)
+                         selected = c(401168502)
       ),
      
       #Radio button input for presenting shot chart as heatmap
