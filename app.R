@@ -498,7 +498,7 @@ selectInput("opponentdef",
                                      "Game 30: Wake Forest" = 401168504, 
                                      "Game 31: Duke" = 401168372, 
                                      "Game 32: Virginia Tech" = 401211586,
-                                     "Game 33: Syracuyse" = 401211590
+                                     "Game 33: Syracuse" = 401211590
                                      
                          ),
                          selected = c(401211590)
