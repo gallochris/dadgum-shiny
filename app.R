@@ -125,7 +125,6 @@ sidebarMenu(
     menuItem("Offense: Shooting Stats", tabName = "shots", icon = icon("arrow-circle-up")),
     menuItem("Defense: Shooting Stats", tabName = "def", icon = icon("arrow-circle-down")), 
     menuItem("Plot Party", tabName = "party", icon = icon("chart-line")), 
-    menuItem("2019-20 Shot Charts", tabName = "chart", icon = icon("basketball-ball")), 
     menuItem("Dadgum Data", tabName = "datadump", icon = icon("database")), 
     tags$br(), 
     tags$br(),
@@ -457,69 +456,6 @@ selectInput("opponentdef",
           )
 
       ), 
-# SHOT CHART TAB ----------------------------------------------------------------------------------------
- tabItem(tabName = "chart",
-  h2("2019-20 Shot Charts"),
-  p("Charts courtesy of ncaahoopR. Not all games available, please be patient for the updates as the information is being pulled via ESPN."),
-  # Sidebar with a checkbox input for game selection 
-      fluidRow(width = 4,
-    box(
-      selectInput("dateBoxes", 
-                         label = "2019-20 Games:",
-                         choices = c("Game 01: Notre Dame" = 401168159,
-                                     "Game 02: at UNCW" = 401168164,
-                                     "Game 03: Gardner-Webb" = 401168185,
-                                     "Game 04: Elon" = 401168201,
-                                     "Game 05: Alabama" = 401168222,
-                                     "Game 06: Michigan" = 401183482,
-                                     "Game 07: Oregon" = 401183485,
-                                     "Game 08: Ohio State" = 401168241,
-                                     "Game 09: UVA" = 401184943, 
-                                     "Game 10: Wofford" = 401168255, 
-                                     "Game 11: Gonzaga" = 401168261, 
-                                     "Game 12: UCLA" = 401168270,
-                                     "Game 13: Yale" = 401168285,
-                                     "Game 14: Georgia Tech" = 401168484, 
-                                     "Game 15: Pittsburgh" = 401168489,
-                                     "Game 16: Clemson" = 401168491,
-                                     "Game 17: Pittsburgh" = 401168493,
-                                     "Game 18: Virginia Tech" = 401168494, 
-                                     "Game 19: Miami" = 401168495, 
-                                     "Game 20: NC State" = 401168496,
-                                     "Game 21: Boston College" = 401168497,
-                                     "Game 22: Florida State" = 401168498,
-                                     "Game 23: Duke" = 401168364,
-                                     "Game 24: Wake Forest" = 401168499,
-                                     "Game 25: UVA" = 401168485,
-                                     "Game 26: Notre Dame" = 401168500,
-                                     "Game 27: Louisville" = 401168501, 
-                                     "Game 28: NC State" = 401168502, 
-                                     "Game 29: Syracuse" = 401168503,
-                                     "Game 30: Wake Forest" = 401168504, 
-                                     "Game 31: Duke" = 401168372, 
-                                     "Game 32: Virginia Tech" = 401211586,
-                                     "Game 33: Syracuse" = 401211590
-                                     
-                         ),
-                         selected = c(401211590)
-      ),
-     
-      #Radio button input for presenting shot chart as heatmap
-      radioButtons("heatmapSelector",
-                   label = "Show Heatmap?",
-                   choices = c("Yes" = TRUE,
-                               "No" = FALSE),
-                   selected = c(FALSE)
-      )
-      )
-    ),
-    
-    # Show a plot of the generated distribution
-      fluidRow(width= 12,
-        box(
-        plotOutput("GameShotChart", height = 600, width = 900), width=10)
-      )
- ),
 # DATADUMP TAB ----------------------------------------------------------------------------------------
       tabItem(tabName = "datadump",
         fluidRow(column(width=6, 

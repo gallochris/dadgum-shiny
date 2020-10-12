@@ -62,23 +62,24 @@ hr {
   font-weight: bolder;
 }
 .alert-info, .bg-aqua, .callout.callout-info, .label-info, .modal-info .modal-body {
-  background-color: #7BAFD4 !important;
+  background-color: #4B9CD3 !important;
 }
 .skin-blue .main-header .navbar {
-  background-color: #7BAFD4;
+  background-color: #4B9CD3;
 }
 .skin-blue .main-sidebar {
   background-color: #13294B;
 }
 .skin-blue .main-header .logo {
-  background-color: #7BAFD4;
+  background-color: #4B9CD3;
 }
 .skin-blue .main-header .logo:hover {
-  background-color: #7BAFD4;
+  background-color: #4B9CD3;
 }
 .skin-blue .sidebar-menu>li.active>a {
-  background-color: #A2AAAD;
+  border-left: 3px solid #4B9CD3;
+  background-color: #000;
 }
 .skin-blue .sidebar-menu>li:hover>a {
-  background-color: #7BAFD4;
+  background-color: #4B9CD3;
 }
