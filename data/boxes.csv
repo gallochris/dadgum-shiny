@@ -1,620 +1,620 @@
-season,date,opponent,result,unc,opp,OT,location,type,realtype,box
-2019-20,11-Mar-20,Syracuse,L,53,81,,neutral,ACC Tournament,ACC Tournament 2nd Round,boxes/2020/syracuse-81-unc-53.pdf
-2019-20,10-Mar-20,Virginia Tech,W,78,56,,neutral,ACC Tournament,ACC Tournament 1st Round,boxes/2020/unc-78-vt-56.pdf
-2019-20,8-Mar-20,Duke,L,76,89,,away,League,League,boxes/2020/duke-89-unc-76.pdf
-2019-20,4-Mar-20,Wake Forest,W,93,83,,home,League,League,boxes/2020/unc-93-wake-83.pdf
-2019-20,29-Feb-20,Syracuse,W,92,79,,away,League,League,boxes/2020/unc-92-cuse-79.pdf
-2019-20,25-Feb-20,NC State,W,85,79,,home,League,League,boxes/2020/unc-85-state-79.pdf
-2019-20,22-Feb-20,Louisville,L,55,72,,away,League,League,boxes/2020/lville-72-unc-55.pdf
-2019-20,17-Feb-20,Notre Dame,L,76,77,,away,League,League,boxes/2020/nd-77-unc-76.pdf
-2019-20,15-Feb-20,UVA,L,62,64,,home,League,League,boxes/2020/uva-64-unc-62.pdf
-2019-20,11-Feb-20,Wake Forest,L,57,74,,away,League,League,boxes/2020/wake-74-unc-57.pdf
-2019-20,8-Feb-20,Duke,L,96,98,OT,home,League,League,boxes/2020/duke-98-unc-96.pdf
-2019-20,3-Feb-20,Florida State,L,59,65,,away,League,League,boxes/2020/fsu-65-unc-59.pdf
-2019-20,1-Feb-20,Boston College,L,70,71,,home,League,League,boxes/2020/bc-71-unc-70.pdf
-2019-20,27-Jan-20,NC State,W,75,65,,away,League,League,boxes/2020/unc-75-ncsu-65.pdf
-2019-20,25-Jan-20,Miami,W,94,71,,home,League,League,boxes/2020/unc-94-miami-71.pdf
-2019-20,22-Jan-20,Virginia Tech,L,77,79,OT,away,League,League,boxes/2020/vt-79-unc-77.pdf
-2019-20,18-Jan-20,Pittsburgh,L,52,66,,away,League,League,boxes/2020/pitt-66-unc-52.pdf
-2019-20,11-Jan-20,Clemson,L,76,79,OT,home,League,League,boxes/2020/clem-79-unc-76.pdf
-2019-20,8-Jan-20,Pittsburgh,L,65,73,,home,League,League,boxes/2020/pitt-73-unc-65.pdf
-2019-20,4-Jan-20,Georgia Tech,L,83,96,,home,League,League,boxes/2020/gt-96-unc-83.pdf
-2019-20,30-Dec-19,Yale,W,70,67,,home,Non-Conference,Non-Conference,boxes/2020/unc-70-yale-67.pdf
-2019-20,21-Dec-19,UCLA,W,74,64,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2020/unc-74-ucla-64.pdf
-2019-20,18-Dec-19,Gonzaga,L,81,94,,away,Non-Conference,Non-Conference,boxes/2020/gonzaga-94-unc-81.pdf
-2019-20,15-Dec-19,Wofford,L,64,68,,home,Non-Conference,Non-Conference,boxes/2020/wofford-68-unc-64.pdf
-2019-20,8-Dec-19,UVA,L,47,56,,away,League,League,boxes/2020/uva-56-unc-47.pdf
-2019-20,4-Dec-19,Ohio State,L,49,74,,home,Non-Conference,Non-Conference (Big 10 Challenge),boxes/2020/osu-74-unc-49.pdf
-2019-20,29-Nov-19,Oregon,W,78,74,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2020/unc-78-oregon-74.pdf
-2019-20,28-Nov-19,Michigan,L,64,73,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2020/mich-73-unc-64.pdf
-2019-20,27-Nov-19,Alabama,W,76,67,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2020/unc-76-bama-67.pdf
-2019-20,20-Nov-19,Elon,W,75,61,,home,Non-Conference,Non-Conference,boxes/2020/unc-75-elon-61.pdf
-2019-20,15-Nov-19,Gardner Webb,W,77,61,,home,Non-Conference,Non-Conference,boxes/2020/unc-77-gw-61.pdf
-2019-20,8-Nov-19,UNC-Wilmington,W,78,62,,away,Non-Conference,Non-Conference,boxes/2020/unc-78-uncw-62.pdf
-2019-20,6-Nov-19,Notre Dame,W,76,65,,home,League,League,boxes/2020/unc-76-nd-65.pdf
-2018-19,29-Mar-19,Auburn,L,80,97,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2019/aub-97-unc-80.pdf
-2018-19,24-Mar-19,Washington,W,81,59,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2019/unc-81-wash-59.pdf
-2018-19,22-Mar-19,Iona,W,88,73,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2019/unc-88-iona-73.pdf
-2018-19,15-Mar-19,Duke,L,73,74,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2019/duke-74-unc-73.pdf
-2018-19,14-Mar-19,Louisville,W,83,70,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2019/unc-83-lville-70.pdf
-2018-19,9-Mar-19,Duke,W,79,70,,home,League,League,boxes/2019/unc-79-duke-70.pdf
-2018-19,5-Mar-19,Boston College,W,79,66,,away,League,League,boxes/2019/unc-79-bc-66.pdf
-2018-19,2-Mar-19,Clemson,W,81,79,,away,League,League,boxes/2019/unc-81-clem-79.pdf
-2018-19,26-Feb-19,Syracuse,W,93,85,,home,League,League,boxes/2019/unc-93-cuse-85.pdf
-2018-19,23-Feb-19,Florida State,W,77,59,,home,League,League,boxes/2019/unc-77-fsu-59.pdf
-2018-19,20-Feb-19,Duke,W,88,72,,away,League,League,boxes/2019/unc-88-duke-72.pdf
-2018-19,16-Feb-19,Wake Forest,W,95,57,,away,League,League,boxes/2019/unc-95-wake-57.pdf
-2018-19,11-Feb-19,UVA,L,61,69,,home,League,League,boxes/2019/uva-69-unc-61.pdf
-2018-19,9-Feb-19,Miami,W,88,85,OT,home,League,League,boxes/2019/unc-88-miami-85.pdf
-2018-19,5-Feb-19,NC State,W,113,96,,home,League,League,boxes/2019/unc-113-ncsu-96.pdf
-2018-19,2-Feb-19,Louisville,W,79,69,,away,League,League,boxes/2019/unc-79-lville-69.pdf
-2018-19,29-Jan-19,Georgia Tech,W,77,54,,away,League,League,boxes/2019/unc-77-gt-54.pdf
-2018-19,21-Jan-19,Virginia Tech,W,103,82,,home,League,League,boxes/2019/unc-103-vt-82.pdf
-2018-19,19-Jan-19,Miami,W,85,76,,away,League,League,boxes/2019/unc-85-um-76.pdf
-2018-19,15-Jan-19,Notre Dame,W,75,69,,home,League,League,boxes/2019/unc-75-nd-69.pdf
-2018-19,12-Jan-19,Louisville,L,62,83,,home,League,League,boxes/2019/lville-83-unc-62.pdf
-2018-19,8-Jan-19,NC State,W,90,82,,away,League,League,boxes/2019/unc-90-ncsu-82.pdf
-2018-19,5-Jan-19,Pittsburgh,W,85,60,,away,League,League,boxes/2019/unc-85-pitt-60.pdf
-2018-19,2-Jan-19,Harvard,W,77,57,,home,Non-Conference,Non-Conference,boxes/2019/unc-77-harvard-57.pdf
-2018-19,29-Dec-18,Davidson,W,82,60,,home,Non-Conference,Non-Conference,boxes/2019/unc-82-dav-60.pdf
-2018-19,22-Dec-18,Kentucky,L,72,80,,neutral,Non-Conference,Non-Conference,boxes/2019/kentucky-80-unc-72.pdf
-2018-19,15-Dec-18,Gonzaga,W,103,90,,home,Non-Conference,Non-Conference,boxes/2019/unc-103-gonzaga-90.pdf
-2018-19,5-Dec-18,UNC-Wilmington,W,97,69,,home,Non-Conference,Non-Conference,boxes/2019/unc-97-uncw-69.pdf
-2018-19,28-Nov-18,Michigan,L,67,84,,away,Non-Conference,Non-Conference,boxes/2019/mich-84-unc-67.pdf
-2018-19,23-Nov-18,UCLA,W,94,78,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2019/unc-94-ucla-78.pdf
-2018-19,22-Nov-18,Texas,L,89,92,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2019/texas-92-unc-89.pdf
-2018-19,19-Nov-18,St. Francis PA,W,101,76,,home,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2019/unc-101-sf-76.pdf
-2018-19,16-Nov-18,Tennessee Tech,W,108,58,,home,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2019/unc-108-tt-58.pdf
-2018-19,12-Nov-18,Stanford,W,90,72,,home,Non-Conference,Non-Conference,boxes/2019/unc-90-stan-72.pdf
-2018-19,9-Nov-18,Elon,W,116,67,,away,Non-Conference,Non-Conference,boxes/2019/unc-116-elon-67.pdf
-2018-19,5-Nov-18,Wofford,W,78,67,,away,Non-Conference,Non-Conference,boxes/2019/unc-78-woff-67.pdf
-2017-18,18-Mar-18,Texas A&M,L,65,85,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2018/unc-65-tam-85.pdf
-2017-18,16-Mar-18,Lipscomb,W,84,66,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2018/unc-84-ls-66.pdf
-2017-18,10-Mar-18,UVA,L,63,71,,neutral,ACC Tournament,ACC Tournament Final,boxes/2018/uva-71-unc-63.pdf
-2017-18,9-Mar-18,Duke,W,74,69,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2018/unc-74-duke-69.pdf
-2017-18,8-Mar-18,Miami,W,82,65,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2018/unc-82-um-65.pdf
-2017-18,7-Mar-18,Syracuse,W,78,59,,neutral,ACC Tournament,ACC Tournament 2nd Round,boxes/2018/unc-78-cuse-59.pdf
-2017-18,3-Mar-18,Duke,L,64,74,,away,League,League,boxes/2018/duke-74-unc-64.pdf
-2017-18,27-Feb-18,Miami,L,88,91,,home,League,League,boxes/2018/um-91-unc-88.pdf
-2017-18,21-Feb-18,Syracuse,W,78,74,,away,League,League,boxes/2018/unc-78-cuse-74.pdf
-2017-18,17-Feb-18,Louisville,W,93,76,,away,League,League,boxes/2018/unc-93-lville-76.pdf
-2017-18,12-Feb-18,Notre Dame,W,83,66,,home,League,League,boxes/2018/unc-83-nd-66.pdf
-2017-18,10-Feb-18,NC State,W,96,89,,away,League,League,boxes/2018/unc-96-ncsu-89.pdf
-2017-18,8-Feb-18,Duke,W,82,78,,home,League,League,boxes/2018/unc-82-duke-78.pdf
-2017-18,3-Feb-18,Pittsburgh,W,96,65,,home,League,League,boxes/2018/unc-96-pitt-65.pdf
-2017-18,30-Jan-18,Clemson,L,78,82,,away,League,League,boxes/2018/clem-82-unc-78.pdf
-2017-18,27-Jan-18,NC State,L,91,95,OT,home,League,League,boxes/2018/ncsu-95-unc-91.pdf
-2017-18,22-Jan-18,Virginia Tech,L,69,80,,away,League,League,boxes/2018/vt-80-unc-69.pdf
-2017-18,20-Jan-18,Georgia Tech,W,80,66,,home,League,League,boxes/2018/unc-80-gt-66.pdf
-2017-18,16-Jan-18,Clemson,W,87,79,,home,League,League,boxes/2018/unc-87-clem-79.pdf
-2017-18,13-Jan-18,Notre Dame,W,69,68,,away,League,League,boxes/2018/unc-69-nd-68
-2017-18,9-Jan-18,Boston College,W,96,66,,home,League,League,boxes/2018/unc-96-bc-66.pdf
-2017-18,6-Jan-18,UVA,L,49,61,,away,League,League,boxes/2018/uva-61-unc-49
-2017-18,3-Jan-18,Florida State,L,80,81,,away,League,League,boxes/2018/fsu-81-unc-80.pdf
-2017-18,30-Dec-17,Wake Forest,W,73,69,,home,League,League,boxes/2018/unc-73-wake-69.pdf
-2017-18,23-Dec-17,Ohio State,W,86,72,,neutral,Non-Conference,Non-Conference,boxes/2018/unc-86-osu-72.pdf
-2017-18,20-Dec-17,Wofford,L,75,79,,home,Non-Conference,Non-Conference,boxes/2018/woff-79-unc-75.pdf
-2017-18,17-Dec-17,Tennessee,W,78,73,,away,Non-Conference,Non-Conference,boxes/2018/unc-78-tenn-73.pdf
-2017-18,6-Dec-17,Western Carolina,W,104,61,,home,Non-Conference,Non-Conference,boxes/2018/unc-104-wcu-61.pdf
-2017-18,3-Dec-17,Tulane,W,97,73,,home,Non-Conference,Non-Conference,boxes/2018/unc-97-tulane-73.pdf
-2017-18,1-Dec-17,Davidson,W,85,75,,neutral,Non-Conference,Non-Conference,boxes/2018/unc-85-dav-75.pdf
-2017-18,29-Nov-17,Michigan,W,86,71,,home,Non-Conference,Non-Conference (Big 10 Challenge),boxes/2018/unc-86-mich-71.pdf
-2017-18,26-Nov-17,Michigan State,L,45,63,,neutral,Non-Conference,Non-Conference (PK 80),boxes/2018/msu-63-unc-45.pdf
-2017-18,24-Nov-17,Arkansas,W,87,68,,neutral,Non-Conference,Non-Conference (PK 80),boxes/2018/unc-87-ark-68.pdf
-2017-18,23-Nov-17,Portland,W,102,78,,neutral,Non-Conference,Non-Conference (PK 80),boxes/2018/unc-102-port-78.pdf
-2017-18,20-Nov-17,Stanford,W,96,72,,away,Non-Conference,Non-Conference,boxes/2018/unc-96-stanford-72.pdf
-2017-18,15-Nov-17,Bucknell,W,93,81,,home,Non-Conference,Non-Conference,boxes/2018/unc-93-buck-81
-2017-18,10-Nov-17,Northern Iowa,W,86,69,,home,Non-Conference,Non-Conference,boxes/2018/unc-86-uni-69.pdf
-2016-17,3-Apr-17,Gonzaga,W,71,65,,neutral,NCAA Tournament,NCAA Tournament Championship,boxes/2017/unc-71-zags-65
-2016-17,1-Apr-17,Oregon,W,77,76,,neutral,NCAA Tournament,NCAA Tournament Final 4,boxes/2017/unc-77-oregon-76
-2016-17,26-Mar-17,Kentucky,W,75,73,,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2017/unc-75-kentucky-73
-2016-17,24-Mar-17,Butler,W,92,80,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2017/unc-92-butler-80
-2016-17,19-Mar-17,Arkansas,W,72,65,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2017/unc-72-ark-65
-2016-17,17-Mar-17,Texas Southern,W,103,64,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2017/unc-103-ts-64
-2016-17,10-Mar-17,Duke,L,83,93,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2017/duke-93-unc-83/
-2016-17,9-Mar-17,Miami,W,78,53,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2017/unc-78-um-53.pdf
-2016-17,4-Mar-17,Duke,W,90,83,,home,League,League,boxes/2017/unc-90-duke-83/
-2016-17,27-Feb-17,UVA,L,43,53,,away,League,League,boxes/2017/uva-53-unc-43
-2016-17,25-Feb-17,Pittsburgh,W,85,67,,away,League,League,boxes/2017/unc-85-pitt-67
-2016-17,22-Feb-17,Louisville,W,74,63,,home,League,League,boxes/2017/unc-74-ville-63
-2016-17,18-Feb-17,UVA,W,65,41,,home,League,League,boxes/2017/unc-65-uva-41
-2016-17,15-Feb-17,NC State,W,97,73,,away,League,League,boxes/2017/unc-97-ncsu-73
-2016-17,9-Feb-17,Duke,L,78,86,,away,League,League,boxes/2017/duke-86-unc-78
-2016-17,6-Feb-17,Notre Dame,W,83,76,,neutral,League,League,boxes/2017/unc-83-nd-76
-2016-17,31-Jan-17,Pittsburgh,W,80,78,,home,League,League,boxes/2017/unc-80-pitt-78
-2016-17,28-Jan-17,Miami,L,62,77,,away,League,League,boxes/2017/unc-62-um-77
-2016-17,26-Jan-17,Virginia Tech,W,91,72,,home,League,League,boxes/2017/unc-91-vt-72
-2016-17,21-Jan-17,Boston College,W,90,82,,away,League,League,boxes/2017/unc-90-bc-82
-2016-17,16-Jan-17,Syracuse,W,85,68,,home,League,League,boxes/2017/unc-85-cuse-68
-2016-17,14-Jan-17,Florida State,W,96,83,,home,League,League,boxes/2017/unc-96-fsu-83
-2016-17,11-Jan-17,Wake Forest,W,93,87,,away,League,League,boxes/2017/unc-93-wfu-87
-2016-17,8-Jan-17,NC State,W,107,56,,home,League,League,boxes/2017/unc-107-ncsu-56
-2016-17,3-Jan-17,Clemson,W,89,86,OT,away,League,League,boxes/2017/unc-89-clem-86
-2016-17,31-Dec-16,Georgia Tech,L,63,75,,away,League,League,boxes/2017/gt-75-unc-63
-2016-17,28-Dec-16,Monmouth,W,102,74,,home,Non-Conference,Non-Conference,boxes/2017/unc-102-mon-74
-2016-17,21-Dec-16,Northern Iowa,W,85,42,,home,Non-Conference,Non-Conference,boxes/2017/unc-85-uni-42
-2016-17,17-Dec-16,Kentucky,L,100,103,,neutral,Non-Conference,Non-Conference,boxes/2017/kentucky-103-unc-100
-2016-17,11-Dec-16,Tennessee,W,73,71,,home,Non-Conference,Non-Conference,boxes/2017/unc-73-tenn-71
-2016-17,7-Dec-16,Davidson,W,83,74,,home,Non-Conference,Non-Conference,boxes/2017/unc-83-dav-74
-2016-17,4-Dec-16,Radford,W,95,50,,home,Non-Conference,Non-Conference,boxes/2017/unc-95-radford-50
-2016-17,30-Nov-16,Indiana,L,67,76,,away,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2017/ind-76-unc-67
-2016-17,23-Nov-16,Wisconsin,W,71,56,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2017/unc-71-wisco-56
-2016-17,22-Nov-16,Oklahoma State,W,107,75,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2017/unc-107-okstate-75.pdf
-2016-17,21-Nov-16,Chaminade,W,104,61,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2017/unc-104-cham-61
-2016-17,19-Nov-16,Hawai'i,W,83,68,,away,Non-Conference,Non-Conference,boxes/2017/unc-83-haw-68
-2016-17,15-Nov-16,Long Beach State,W,93,67,,home,Non-Conference,Non-Conference,boxes/2017/unc-93-lbsu-67
-2016-17,13-Nov-16,Chattanooga,W,97,57,,home,Non-Conference,Non-Conference,boxes/2017/unc-97-chatt-57
-2016-17,11-Nov-16,Tulane,W,95,75,,away,Non-Conference,Non-Conference,boxes/2017/unc-95-tulane-75
-2015-16,4-Apr-16,Villanova,L,74,77,,neutral,NCAA Tournament,NCAA Tournament Championship,boxes/2016/nova-77-unc-74
-2015-16,2-Apr-16,Syracuse,W,83,66,,neutral,NCAA Tournament,NCAA Tournament Final 4,boxes/2016/unc-83-cuse-66
-2015-16,27-Mar-16,Notre Dame,W,88,74,,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2016/unc-88-nd-74
-2015-16,25-Mar-16,Indiana,W,101,86,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2016/unc-101-iu-86
-2015-16,19-Mar-16,Providence,W,85,66,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2016/unc-85-providence-66
-2015-16,17-Mar-16,Florida Gulf-Coast,W,83,67,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2016/unc-83-fgcu-67
-2015-16,12-Mar-16,UVA,W,61,57,,neutral,ACC Tournament,ACC Tournament Championship,boxes/2016/unc-61-uva-57
-2015-16,11-Mar-16,Notre Dame,W,78,47,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2016/unc-78-nd-47
-2015-16,10-Mar-16,Pittsburgh,W,88,71,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2016/unc-88-pitt-71
-2015-16,5-Mar-16,Duke,W,76,72,,away,League,League,boxes/2016/unc-76-duke-72
-2015-16,29-Feb-16,Syracuse,W,75,70,,home,League,League,boxes/2016/unc-75-cuse-70
-2015-16,27-Feb-16,UVA,L,74,79,,away,League,League,boxes/2016/uva-79-unc-74
-2015-16,24-Feb-16,NC State,W,80,68,,away,League,League,boxes/2016/unc-80-state-68
-2015-16,20-Feb-16,Miami,W,96,71,,home,League,League,boxes/2016/unc-96-miami-71
-2015-16,17-Feb-16,Duke,L,73,74,,home,League,League,boxes/2016/duke-74-unc-73
-2015-16,14-Feb-16,Pittsburgh,W,85,64,,home,League,League,boxes/2016/unc-85-pitt-64
-2015-16,9-Feb-16,Boston College,W,68,65,,away,League,League,boxes/2016/unc-68-bc-65
-2015-16,6-Feb-16,Notre Dame,L,76,80,,away,League,League,boxes/2016/nd-80-unc-76
-2015-16,1-Feb-16,Louisville,L,65,71,,away,League,League,boxes/2016/lville-71-unc-65
-2015-16,30-Jan-16,Boston College,W,89,62,,home,League,League,boxes/2016/unc-89-bc-62
-2015-16,24-Jan-16,Virginia Tech,W,75,70,,away,League,League,boxes/2016/unc-75-vt-70
-2015-16,20-Jan-16,Wake Forest,W,83,68,,home,League,League,boxes/2016/unc-83-wake-68
-2015-16,16-Jan-16,NC State,W,67,55,,home,League,League,boxes/2016/unc-67-state-55
-2015-16,9-Jan-16,Syracuse,W,84,73,,away,League,League,boxes/2016/unc-84-cuse-73
-2015-16,4-Jan-16,Florida State,W,106,90,,away,League,League,boxes/2016/unc-106-fsu-90
-2015-16,2-Jan-16,Georgia Tech,W,86,68,,home,League,League,boxes/2016/unc-86-gt-78
-2015-16,30-Dec-15,Clemson,W,80,69,,home,League,League,boxes/2016/unc-80-clem-69
-2015-16,28-Dec-15,UNC-G,W,96,63,,home,Non-Conference,Non-Conference,boxes/2016/unc-96-uncg-63
-2015-16,21-Dec-15,Appalachian State,W,94,70,,home,Non-Conference,Non-Conference,boxes/2016/unc-94-app-70
-2015-16,19-Dec-15,UCLA,W,89,76,,neutral,Non-Conference,Non-Conference,boxes/2016/unc-89-ucla-76
-2015-16,16-Dec-15,Tulane,W,96,72,,home,Non-Conference,Non-Conference,boxes/2016/unc-96-tulane-72
-2015-16,12-Dec-15,Texas,L,82,84,,away,Non-Conference,Non-Conference,boxes/2016/texas-84-unc-82
-2015-16,6-Dec-15,Davidson,W,98,65,,home,Non-Conference,Non-Conference,boxes/2016/unc-98-davidson-65
-2015-16,1-Dec-15,Maryland,W,89,81,,home,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2016/unc-89-maryland-81
-2015-16,24-Nov-15,Kansas State,W,80,70,,neutral,Non-Conference,Non-Conference (CBE Hall of Fame),boxes/2016/unc-80-kstate-70
-2015-16,23-Nov-15,Northwestern,W,80,69,,neutral,Non-Conference,Non-Conference (CBE Hall of Fame),boxes/2016/unc-80-nw-69
-2015-16,21-Nov-15,Northern Iowa,L,67,71,,away,Non-Conference,Non-Conference,boxes/2016/uni-71-unc-67
-2015-16,18-Nov-15,Wofford,W,78,58,,home,Non-Conference,Non-Conference,boxes/2016/unc-78-woff-58
-2015-16,15-Nov-15,Fairfield,W,92,65,,home,Non-Conference,Non-Conference,boxes/2016/unc-92-fairfield-65
-2015-16,13-Nov-15,Temple,W,91,67,,neutral,Non-Conference,Non-Conference (Veterans Classic),boxes/2016/unc-91-temple-67
-2014-15,26-Mar-15,Wisconsin,L,72,79,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2015/wisco-79-unc-72
-2014-15,21-Mar-15,Arkansas,W,87,78,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2015/unc-87-ark-78
-2014-15,19-Mar-15,Harvard,W,67,65,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2015/unc-67-harvard-65
-2014-15,14-Mar-15,Notre Dame,L,82,90,,neutral,ACC Tournament,ACC Tournament Championship,boxes/2015/nd-90-unc-82
-2014-15,13-Mar-15,UVA,W,71,67,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2015/unc-71-uva-67
-2014-15,12-Mar-15,Louisville,W,70,60,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2015/unc-70-lville-60
-2014-15,11-Mar-15,Boston College,W,81,63,,neutral,ACC Tournament,ACC Tournament 2nd Round,boxes/2015/unc-81-bc-63
-2014-15,7-Mar-15,Duke,L,77,84,,home,League,League,boxes/2015/duke-84-unc-77
-2014-15,3-Mar-15,Georgia Tech,W,81,49,,away,League,League,boxes/2015/unc-81-gt-49
-2014-15,28-Feb-15,Miami,W,73,64,,away,League,League,boxes/2015/unc-73-miami-64
-2014-15,24-Feb-15,NC State,L,46,58,,home,League,League,boxes/2015/state-58-unc-46
-2014-15,21-Feb-15,Georgia Tech,W,89,60,,home,League,League,boxes/2015/unc-89-gt-60
-2014-15,18-Feb-15,Duke,L,90,92,OT,away,League,League,boxes/2015/duke-92-unc-90
-2014-15,14-Feb-15,Pittsburgh,L,76,89,,away,League,League,boxes/2015/pitt-89-unc-76
-2014-15,7-Feb-15,Boston College,W,79,68,,away,League,League,boxes/2015/unc-79-bc-68
-2014-15,2-Feb-15,UVA,L,64,75,,home,League,League,boxes/2015/uva-75-unc-64
-2014-15,31-Jan-15,Louisville,L,68,78,,away,League,League,boxes/2015/lville-78-unc-68
-2014-15,26-Jan-15,Syracuse,W,93,83,,home,League,League,boxes/2015/unc-93-cuse-83
-2014-15,24-Jan-15,Florida State,W,78,74,,home,League,League,boxes/2015/unc-78-fsu-74
-2014-15,21-Jan-15,Wake Forest,W,87,71,,away,League,League,boxes/2015/unc-87-wake-71
-2014-15,18-Jan-15,Virginia Tech,W,68,53,,home,League,League,boxes/2015/unc-68-vt-63
-2014-15,14-Jan-15,NC State,W,81,79,,away,League,League,boxes/2015/unc-81-state-79
-2014-15,10-Jan-15,Louisville,W,72,71,,home,League,League,boxes/2015/unc-72-lville-71
-2014-15,5-Jan-15,Notre Dame,L,70,71,,home,League,League,boxes/2015/nd-71-unc-70
-2014-15,3-Jan-15,Clemson,W,74,50,,away,League,League,boxes/2015/unc-74-clem-50
-2014-15,30-Dec-14,William & Mary,W,86,64,,home,Non-Conference,Non-Conference,boxes/2015/unc-86-bill-and-mary-64
-2014-15,27-Dec-14,UAB,W,89,58,,home,Non-Conference,Non-Conference,boxes/2015/unc-89-uab-58
-2014-15,20-Dec-14,Ohio State,W,82,74,,neutral,Non-Conference,Non-Conference,boxes/2015/unc-82-osu-74
-2014-15,16-Dec-14,UNC-G,W,79,56,,away,Non-Conference,Non-Conference,boxes/2015/unc-79-uncg-56
-2014-15,13-Dec-14,Kentucky,L,70,84,,away,Non-Conference,Non-Conference,boxes/2015/kentucky-84-unc-70
-2014-15,7-Dec-14,East Carolina,W,108,64,,home,Non-Conference,Non-Conference,boxes/2015/unc-108-ecu-64
-2014-15,3-Dec-14,Iowa,L,55,60,,home,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2015/iowa-60-unc-55
-2014-15,28-Nov-14,Florida,W,75,64,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2015/unc-75-fla-64
-2014-15,27-Nov-14,UCLA,W,78,56,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2015/unc-78-ucla-56
-2014-15,26-Nov-14,Butler,L,66,74,,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),boxes/2015/butler-74-unc-66
-2014-15,22-Nov-14,Davidson,W,90,72,,neutral,Non-Conference,Non-Conference,boxes/2015/unc-90-davidson-72
-2014-15,16-Nov-14,Robert Morris,W,103,59,,home,Non-Conference,Non-Conference,boxes/2015/unc-103-rm-59
-2014-15,14-Nov-14,NC Central,W,76,60,,home,Non-Conference,Non-Conference,boxes/2015/unc-76-nccu-60
-2013-14,23-Mar-14,Iowa State,L,83,85,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2014/isu-85-unc-83
-2013-14,21-Mar-14,Providence,W,79,77,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2014/unc-79-prov-77
-2013-14,14-Mar-14,Pittsburgh,L,75,80,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2014/pitt-80-unc-75
-2013-14,8-Mar-14,Duke,L,81,93,,away,League,League,boxes/2014/duke-93-unc-81
-2013-14,3-Mar-14,Notre Dame,W,63,61,,home,League,League,boxes/2014/unc-63-nd-61
-2013-14,1-Mar-14,Virginia Tech,W,60,56,,away,League,League,boxes/2014/unc-60-vt-56
-2013-14,26-Feb-14,NC State,W,85,84,OT,away,League,League,boxes/2014/unc-85-state-84
-2013-14,22-Feb-14,Wake Forest,W,105,72,,home,League,League,boxes/2014/unc-105-wake-72
-2013-14,20-Feb-14,Duke,W,74,66,,home,League,League,boxes/2014/unc-74-duke-66
-2013-14,17-Feb-14,Florida State,W,81,75,,away,League,League,boxes/2014/unc-81-fsu-75
-2013-14,15-Feb-14,Pittsburgh,W,75,71,,home,League,League,boxes/2014/unc-75-pitt-71
-2013-14,8-Feb-14,Notre Dame,W,73,62,,away,League,League,boxes/2014/unc-73-nd-62
-2013-14,4-Feb-14,Maryland,W,75,63,,home,League,League,boxes/2014/unc-75-maryland-63
-2013-14,1-Feb-14,NC State,W,84,70,,home,League,League,boxes/2014/unc-84-state-70
-2013-14,29-Jan-14,Georgia Tech,W,78,65,,away,League,League,boxes/2014/unc-78-gt-65
-2013-14,26-Jan-14,Clemson,W,80,61,,home,League,League,boxes/2014/unc-80-clem-61
-2013-14,20-Jan-14,UVA,L,61,76,,away,League,League,boxes/2014/uva-76-unc-61
-2013-14,18-Jan-14,Boston College,W,82,71,,home,League,League,boxes/2014/unc-82-bc-71
-2013-14,11-Jan-14,Syracuse,L,45,57,,away,League,League,boxes/2014/cuse-57-unc-45
-2013-14,8-Jan-14,Miami,L,57,63,,home,League,League,boxes/2014/miami-63-unc-57
-2013-14,5-Jan-14,Wake Forest,L,67,73,,away,League,League,boxes/2014/wake-73-unc-67
-2013-14,31-Dec-13,UNC-Wilmington,W,84,51,,home,Non-Conference,Non-Conference,boxes/2014/unc-84-uncw-51
-2013-14,27-Dec-13,NKU,W,75,60,,home,Non-Conference,Non-Conference,boxes/2014/unc-75-nk-60
-2013-14,21-Dec-13,Davidson,W,87,85,OT,home,Non-Conference,Non-Conference,boxes/2014/unc-87-davidson-85
-2013-14,18-Dec-13,Texas,L,83,86,,home,Non-Conference,Non-Conference,boxes/2014/texas-86-unc-83
-2013-14,14-Dec-13,Kentucky,W,82,77,,home,Non-Conference,Non-Conference,boxes/2014/unc-82-kentucky-77
-2013-14,7-Dec-13,UNC-G,W,81,50,,home,Non-Conference,Non-Conference,boxes/2014/unc-81-uncg-50
-2013-14,4-Dec-13,Michigan State,W,79,65,,away,Non-Conference,Non-Conference,boxes/2014/unc-79-msu-65
-2013-14,1-Dec-13,UAB,L,59,63,,away,Non-Conference,Non-Conference,boxes/2014/uab-63-unc-59
-2013-14,24-Nov-13,Louisville,W,93,84,,neutral,Non-Conference,Non-Conference (Hall of Fame Tipoff),boxes/2014/unc-93-lville-84
-2013-14,23-Nov-13,Richmond,W,82,72,,neutral,Non-Conference,Non-Conference (Hall of Fame Tipoff),boxes/2014/unc-82-richmond-72
-2013-14,17-Nov-13,Belmont,L,80,83,,home,Non-Conference,Non-Conference (Hall of Fame Tipoff),boxes/2014/belmont-83-unc-80
-2013-14,15-Nov-13,Holy Cross,W,62,54,,home,Non-Conference,Non-Conference (Hall of Fame Tipoff),boxes/2014/unc-62-hc-54
-2013-14,8-Nov-13,Oakland,W,84,61,,home,Non-Conference,Non-Conference,boxes/2014/unc-84-oak-61
-2012-13,24-Mar-13,Kansas,L,58,70,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2013/kansas-70-unc-58
-2012-13,22-Mar-13,Villanova,W,78,71,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2013/unc-78-nova-71
-2012-13,17-Mar-13,Miami,L,77,87,,neutral,ACC Tournament,ACC Tournament Championship,boxes/2013/miami-87-unc-77
-2012-13,16-Mar-13,Maryland,W,79,76,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2013/unc-79-maryland-76
-2012-13,15-Mar-13,Florida State,W,83,62,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2013/unc-83-fsu-62
-2012-13,9-Mar-13,Duke,L,53,69,,home,League,League,boxes/2013/duke-69-unc-53
-2012-13,6-Mar-13,Maryland,W,79,68,,away,League,League,boxes/2013/unc-79-maryland-68
-2012-13,3-Mar-13,Florida State,W,79,58,,home,League,League,boxes/2013/unc-79-fsu-58
-2012-13,28-Feb-13,Clemson,W,68,59,,away,League,League,boxes/2013/unc-68-clem-59
-2012-13,23-Feb-13,NC State,W,76,65,,home,League,League,boxes/2013/unc-76-state-65
-2012-13,19-Feb-13,Georgia Tech,W,70,58,,away,League,League,boxes/2013/unc-70-gt-58
-2012-13,16-Feb-13,UVA,W,93,81,,home,League,League,boxes/2013/unc-93-uva-81
-2012-13,13-Feb-13,Duke,L,68,73,,away,League,League,boxes/2013/duke-73-unc-68
-2012-13,9-Feb-13,Miami,L,61,87,,away,League,League,boxes/2013/miami-87-unc-61
-2012-13,5-Feb-13,Wake Forest,W,87,62,,home,League,League,boxes/2013/unc-87-wake-62
-2012-13,2-Feb-13,Virginia Tech,W,72,60,OT,home,League,League,boxes/2013/unc-72-vt-60
-2012-13,29-Jan-13,Boston College,W,82,70,,away,League,League,boxes/2013/unc-82-bc-70
-2012-13,26-Jan-13,NC State,L,83,91,,away,League,League,boxes/2013/state-91-unc-83
-2012-13,23-Jan-13,Georgia Tech,W,79,63,,home,League,League,boxes/2013/unc-79-gt-63
-2012-13,19-Jan-13,Maryland,W,62,52,,home,League,League,boxes/2013/unc-62-maryland-52
-2012-13,12-Jan-13,Florida State,W,77,72,,away,League,League,boxes/2013/unc-77-fsu-72
-2012-13,10-Jan-13,Miami,L,59,68,,home,League,League,boxes/2013/miami-68-unc-59
-2012-13,6-Jan-13,UVA,L,52,61,,away,League,League,boxes/2013/uva-61-unc-52
-2012-13,29-Dec-12,UNLV,W,79,73,,home,Non-Conference,Non-Conference,boxes/2013/unc-79-unlv-73
-2012-13,22-Dec-12,McNeese State,W,97,63,,home,Non-Conference,Non-Conference,boxes/2013/unc-97-mcst-63
-2012-13,19-Dec-12,Texas,L,67,85,,away,Non-Conference,Non-Conference,boxes/2013/texas-85-unc-67
-2012-13,15-Dec-12,East Carolina,W,93,87,,home,Non-Conference,Non-Conference,boxes/2013/unc-93-ecu-87
-2012-13,8-Dec-12,East Tenn. St.,W,78,55,,home,Non-Conference,Non-Conference,boxes/2013/unc-78-etsu-55
-2012-13,1-Dec-12,UAB,W,102,84,,home,Non-Conference,Non-Conference,boxes/2013/unc-102-uab-84
-2012-13,27-Nov-12,Indiana,L,59,83,,away,Non-Conference,Non-Conference,boxes/2013/ind-83-unc-59
-2012-13,21-Nov-12,Chaminade,W,112,70,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2013/unc-112-cham-70
-2012-13,20-Nov-12,Butler,L,71,82,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2013/butler-82-unc-71
-2012-13,19-Nov-12,Mississippi State,W,95,49,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2013/unc-95-ms-49
-2012-13,16-Nov-12,Long Beach State,W,78,63,,away,Non-Conference,Non-Conference,boxes/2013/unc-78-lbsu-63
-2012-13,11-Nov-12,Florida Atlantic,W,70,56,,home,Non-Conference,Non-Conference,boxes/2013/unc-70-fau-56
-2012-13,9-Nov-12,Gardner Webb,W,76,59,,home,Non-Conference,Non-Conference,boxes/2013/unc-76-gw-59
-2011-12,25-Mar-12,Kansas,L,67,80,,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2012/kansas-80-unc-67
-2011-12,23-Mar-12,Ohio,W,73,65,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2012/unc-73-ohio-65
-2011-12,18-Mar-12,Creighton,W,87,73,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2012/unc-87-creighton-73
-2011-12,16-Mar-12,Vermont,W,77,58,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2012/unc-77-vermont-58
-2011-12,11-Mar-12,Florida State,L,82,85,,neutral,ACC Tournament,ACC Tournament Championship,boxes/2012/fsu-85-unc-82
-2011-12,10-Mar-12,NC State,W,69,67,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2012/unc-69-state-67
-2011-12,9-Mar-12,Maryland,W,85,69,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2012/unc-85-maryland-69
-2011-12,3-Mar-12,Duke,W,88,70,,away,League,League,boxes/2012/unc-88-duke-70
-2011-12,29-Feb-12,Maryland,W,88,64,,home,League,League,boxes/2012/unc-88-maryland-64
-2011-12,25-Feb-12,UVA,W,54,51,,away,League,League,boxes/2012/unc-54-uva-51
-2011-12,21-Feb-12,NC State,W,86,74,,away,League,League,boxes/2012/unc-86-state-74
-2011-12,18-Feb-12,Clemson,W,74,52,,home,League,League,boxes/2012/unc-74-clem-52
-2011-12,15-Feb-12,Miami,W,73,64,,away,League,League,boxes/2012/unc-73-miami-64
-2011-12,11-Feb-12,UVA,W,70,52,,home,League,League,boxes/2012/unc-70-uva-52
-2011-12,8-Feb-12,Duke,L,84,85,,home,League,League,boxes/2012/duke-85-unc-84
-2011-12,4-Feb-12,Maryland,W,83,74,,away,League,League,boxes/2012/unc-83-maryland-74
-2011-12,31-Jan-12,Wake Forest,W,68,53,,away,League,League,boxes/2012/unc-68-wake-53
-2011-12,29-Jan-12,Georgia Tech,W,93,81,,home,League,League,boxes/2012/unc-93-gt-81
-2011-12,26-Jan-12,NC State,W,74,55,,home,League,League,boxes/2012/unc-74-state-55
-2011-12,19-Jan-12,Virginia Tech,W,82,68,,away,League,League,boxes/2012/unc-82-vt-68
-2011-12,14-Jan-12,Florida State,L,57,90,,away,League,League,boxes/2012/fsu-90-unc-57
-2011-12,10-Jan-12,Miami,W,73,56,,home,League,League,boxes/2012/unc-73-miami-56
-2011-12,7-Jan-12,Boston College,W,83,60,,home,League,League,boxes/2012/unc-83-bc-60
-2011-12,1-Jan-12,Monmouth,W,102,65,,home,Non-Conference,Non-Conference,boxes/2012/unc-102-monmouth-65
-2011-12,29-Dec-11,Elon,W,100,62,,home,Non-Conference,Non-Conference,boxes/2012/unc-100-elon-62
-2011-12,21-Dec-11,Texas,W,82,63,,home,Non-Conference,Non-Conference,boxes/2012/unc-82-texas-63
-2011-12,19-Dec-11,Nicholls State,W,99,49,,home,Non-Conference,Non-Conference,boxes/2012/unc-99-ns-49
-2011-12,17-Dec-11,Appalachian State,W,97,82,,home,Non-Conference,Non-Conference,boxes/2012/unc-97-app-state-82
-2011-12,10-Dec-11,Long Beach State,W,84,78,,home,Non-Conference,Non-Conference,boxes/2012/unc-84-lbsu-78
-2011-12,6-Dec-11,Evansville,W,97,48,,home,Non-Conference,Non-Conference,boxes/2012/unc-97-eville-48
-2011-12,3-Dec-11,Kentucky,L,72,73,,away,Non-Conference,Non-Conference,boxes/2012/kentucky-73-unc-72
-2011-12,30-Nov-11,Wisconsin,W,60,57,,home,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2012/unc-60-wisco-57
-2011-12,26-Nov-11,UNLV,L,80,90,,away,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2012/unlv-90-unc-80
-2011-12,25-Nov-11,South Carolina,W,87,62,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2012/unc-87-usc-62
-2011-12,22-Nov-11,Tennessee State,W,102,69,,home,Non-Conference,Non-Conference,boxes/2012/unc-102-tenn-state-69
-2011-12,20-Nov-11,Mississippi Valley St.,W,101,75,,home,Non-Conference,Non-Conference,boxes/2012/unc-101-mvs-75
-2011-12,13-Nov-11,Asheville,W,91,75,,away,Non-Conference,Non-Conference,boxes/2012/unc-91-unca-75
-2011-12,11-Nov-11,Michigan State,W,67,55,,neutral,Non-Conference,Non-Conference (Carrier Classic),boxes/2012/unc-67-msu-55
-2010-11,27-Mar-11,Kentucky,L,69,76,,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2011/kentucky-76-unc-69
-2010-11,25-Mar-11,Marquette,W,81,63,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2011/unc-81-marq-63
-2010-11,20-Mar-11,Washington,W,86,83,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2011/unc-86-wash-83
-2010-11,18-Mar-11,LIU,W,102,87,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2011/unc-102-liu-87
-2010-11,13-Mar-11,Duke,L,58,75,,neutral,ACC Tournament,ACC Tournament Championship,boxes/2011/duke-75-unc-58
-2010-11,12-Mar-11,Clemson,W,92,87,OT,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2011/unc-92-clem-87
-2010-11,11-Mar-11,Miami,W,61,59,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2011/unc-61-miami-59
-2010-11,5-Mar-11,Duke,W,81,67,,home,League,League,boxes/2011/unc-81-duke-67
-2010-11,2-Mar-11,Florida State,W,72,70,,away,League,League,boxes/2011/unc-72-fsu-70
-2010-11,27-Feb-11,Maryland,W,87,76,,home,League,League,boxes/2011/unc-87-maryland-76
-2010-11,23-Feb-11,NC State,W,75,63,,away,League,League,boxes/2011/unc-75-state-63
-2010-11,19-Feb-11,Boston College,W,48,46,,home,League,League,boxes/2011/unc-48-bc-46
-2010-11,15-Feb-11,Wake Forest,W,78,64,,home,League,League,boxes/2011/unc-78-wake-64
-2010-11,12-Feb-11,Clemson,W,64,62,,away,League,League,boxes/2011/unc-64-clem-62
-2010-11,9-Feb-11,Duke,L,73,79,,away,League,League,boxes/2011/duke-79-unc-73
-2010-11,6-Feb-11,Florida State,W,89,69,,home,League,League,boxes/2011/unc-89-fsu-69
-2010-11,1-Feb-11,Boston College,W,106,74,,away,League,League,boxes/2011/unc-106-bc-74
-2010-11,29-Jan-11,NC State,W,84,64,,home,League,League,boxes/2011/unc-84-state-64
-2010-11,26-Jan-11,Miami,W,74,71,,away,League,League,boxes/2011/unc-74-miami-71
-2010-11,18-Jan-11,Clemson,W,75,65,,home,League,League,boxes/2011/unc-75-clem-65
-2010-11,16-Jan-11,Georgia Tech,L,58,78,,away,League,League,boxes/2011/gt-78-unc-58
-2010-11,13-Jan-11,Virginia Tech,W,64,61,,home,League,League,boxes/2011/unc-64-vt-61
-2010-11,8-Jan-11,UVA,W,62,56,,away,League,League,boxes/2011/unc-62-uva-56
-2010-11,2-Jan-11,St. Francis PA,W,103,54,,home,Non-Conference,Non-Conference,boxes/2011/unc-103-sf-54
-2010-11,28-Dec-10,Rutgers,W,78,55,,neutral,Non-Conference,Non-Conference,boxes/2011/unc-78-rutgers-55
-2010-11,21-Dec-10,William & Mary,W,85,60,,home,Non-Conference,Non-Conference,boxes/2011/unc-85-bill-and-mary-60
-2010-11,18-Dec-10,Texas,L,76,78,,neutral,Non-Conference,Non-Conference,boxes/2011/texas-78-unc-76
-2010-11,11-Dec-10,Long Beach State,W,96,91,,home,Non-Conference,Non-Conference,boxes/2011/unc-96-lbsu-91
-2010-11,8-Dec-10,Evansville,W,76,49,,away,Non-Conference,Non-Conference,boxes/2011/unc-76-eville-49
-2010-11,4-Dec-10,Kentucky,W,75,73,,home,Non-Conference,Non-Conference,boxes/2011/unc-75-kentucky-73
-2010-11,30-Nov-10,Illinois,L,67,79,,away,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2011/ill-79-unc-67
-2010-11,28-Nov-10,College of Charleston,W,74,69,,home,Non-Conference,Non-Conference,boxes/2011/unc-74-cofc-69
-2010-11,23-Nov-10,Asheville,W,80,69,,home,Non-Conference,Non-Conference,boxes/2011/unc-80-unca-69
-2010-11,21-Nov-10,Vanderbilt,L,65,72,,neutral,Non-Conference,Non-Conference (Puerto Rico Tip-Off),boxes/2011/vandy-72-unc-65
-2010-11,19-Nov-10,Minnesota,L,67,72,,neutral,Non-Conference,Non-Conference (Puerto Rico Tip-Off),boxes/2011/minn-72-unc-67
-2010-11,18-Nov-10,Hofstra,W,107,63,,neutral,Non-Conference,Non-Conference (Puerto Rico Tip-Off),boxes/2011/unc-107-hof-63
-2010-11,12-Nov-10,Lipscomb,W,80,66,,home,Non-Conference,Non-Conference,boxes/2011/unc-80-lip-66
-2009-10,1-Apr-10,Dayton,L,68,79,,neutral,NIT,NIT Final,boxes/2010/dayton-79-unc-68
-2009-10,30-Mar-10,Rhode Island,W,68,67,OT,neutral,NIT,NIT Semifinal,boxes/2010/unc-68-rhody-67
-2009-10,23-Mar-10,UAB,W,60,55,,away,NIT,NIT 3rd Round,boxes/2010/unc-60-uab-55
-2009-10,20-Mar-10,Mississippi State,W,76,74,,away,NIT,NIT 2nd Round,boxes/2010/unc-76-ms-74
-2009-10,16-Mar-10,William & Mary,W,80,72,,home,NIT,NIT 1st Round,boxes/2010/unc-80-bill-and-mary-72
-2009-10,11-Mar-10,Georgia Tech,L,58,62,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2010/gt-62-unc-58
-2009-10,6-Mar-10,Duke,L,50,82,,away,League,League,boxes/2010/duke-82-unc-50
-2009-10,2-Mar-10,Miami,W,69,62,,home,League,League,boxes/2010/unc-69-miami-62
-2009-10,27-Feb-10,Wake Forest,W,77,68,,away,League,League,boxes/2010/unc-77-wake-68
-2009-10,24-Feb-10,Florida State,L,67,77,,home,League,League,boxes/2010/fsu-77-unc-67
-2009-10,20-Feb-10,Boston College,L,67,71,,away,League,League,boxes/2010/bc-71-unc-67
-2009-10,16-Feb-10,Georgia Tech,L,51,68,,away,League,League,boxes/2010/gt-68-unc-51
-2009-10,13-Feb-10,NC State,W,74,61,,home,League,League,boxes/2010/unc-74-state-61
-2009-10,10-Feb-10,Duke,L,54,64,,home,League,League,boxes/2010/duke-64-unc-54
-2009-10,7-Feb-10,Maryland,L,71,92,,away,League,League,boxes/2010/maryland-92-unc-71
-2009-10,4-Feb-10,Virginia Tech,L,70,74,,away,League,League,boxes/2010/vt-74-unc-70
-2009-10,31-Jan-10,UVA,L,60,75,,home,League,League,boxes/2010/uva-75-unc-60
-2009-10,26-Jan-10,NC State,W,77,63,,away,League,League,boxes/2010/unc-77-state-63
-2009-10,20-Jan-10,Wake Forest,L,69,82,,home,League,League,boxes/2010/wake-82-unc-69
-2009-10,16-Jan-10,Georgia Tech,L,71,73,,home,League,League,boxes/2010/gt-73-unc-71
-2009-10,13-Jan-10,Clemson,L,64,83,,away,League,League,boxes/2010/clem-83-unc-64
-2009-10,10-Jan-10,Virginia Tech,W,78,64,,home,League,League,boxes/2010/unc-78-vt-64
-2009-10,4-Jan-10,College of Charleston,L,79,82,OT,away,Non-Conference,Non-Conference,boxes/2010/cofc-82-unc-79
-2009-10,30-Dec-09,Albany,W,87,70,,home,Non-Conference,Non-Conference,boxes/2010/unc-87-albany-70
-2009-10,28-Dec-09,Rutgers,W,81,67,,home,Non-Conference,Non-Conference,boxes/2010/unc-81-rutgers-67
-2009-10,22-Dec-09,Marshall,W,98,61,,home,Non-Conference,Non-Conference,boxes/2010/unc-98-marshall-61
-2009-10,19-Dec-09,Texas,L,90,103,,neutral,Non-Conference,Non-Conference,boxes/2010/texas-103-unc-90
-2009-10,12-Dec-09,Presbyterian,W,103,64,,home,Non-Conference,Non-Conference,boxes/2010/unc-103-pres-64
-2009-10,5-Dec-09,Kentucky,L,66,68,,away,Non-Conference,Non-Conference,boxes/2010/kentucky-68-unc-66
-2009-10,1-Dec-09,Michigan State,W,89,82,,home,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2010/unc-89-msu-82
-2009-10,29-Nov-09,Nevada,W,80,73,,home,Non-Conference,Non-Conference,boxes/2010/unc-80-nv-73
-2009-10,23-Nov-09,Gardner Webb,W,93,72,,home,Non-Conference,Non-Conference,boxes/2010/unc-93-gw-72
-2009-10,20-Nov-09,Syracuse,L,71,87,,neutral,Non-Conference,Non-Conference (2K Sports Classic),boxes/2010/cuse-87-unc-71
-2009-10,19-Nov-09,Ohio State,W,77,73,,neutral,Non-Conference,Non-Conference (2K Sports Classic),boxes/2010/unc-77-osu-73
-2009-10,15-Nov-09,Valparaiso,W,88,77,,home,Non-Conference,Non-Conference,boxes/2010/unc-88-valpo-77
-2009-10,11-Nov-09,NC Central,W,89,42,,home,Non-Conference,Non-Conference,boxes/2010/unc-89-nccu-42
-2009-10,9-Nov-09,FIU,W,88,72,,home,Non-Conference,Non-Conference,boxes/2010/unc-88-fiu-72
-2008-09,6-Apr-09,Michigan State,W,89,72,,neutral,NCAA Tournament,NCAA Tournament Championship,boxes/2009/unc-89-msu-72
-2008-09,4-Apr-09,Villanova,W,83,69,,neutral,NCAA Tournament,NCAA Tournament Final 4,boxes/2009/unc-83-nova-69
-2008-09,29-Mar-09,Oklahoma,W,72,60,,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2009/unc-72-ok-60
-2008-09,27-Mar-09,Gonzaga,W,98,77,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2009/unc-98-zaga-77
-2008-09,21-Mar-09,LSU,W,84,70,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2009/unc-84-lsu-70
-2008-09,19-Mar-09,Radford,W,101,58,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2009/unc-101-radford-58
-2008-09,14-Mar-09,Florida State,L,70,73,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2009/fsu-73-unc-70
-2008-09,13-Mar-09,Virginia Tech,W,79,76,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2009/unc-79-vt-76
-2008-09,8-Mar-09,Duke,W,79,71,,home,League,League,boxes/2009/unc-79-duke-71
-2008-09,4-Mar-09,Virginia Tech,W,86,78,,away,League,League,boxes/2009/unc-86-vt-78
-2008-09,28-Feb-09,Georgia Tech,W,104,74,,home,League,League,boxes/2009/unc-104-gt-74
-2008-09,21-Feb-09,Maryland,L,85,88,OT,away,League,League,boxes/2009/maryland-88-unc-85
-2008-09,18-Feb-09,NC State,W,89,80,,home,League,League,boxes/2009/unc-89-state-80
-2008-09,15-Feb-09,Miami,W,69,65,,away,League,League,boxes/2009/unc-69-miami-65
-2008-09,11-Feb-09,Duke,W,101,87,,away,League,League,boxes/2009/unc-101-duke-87
-2008-09,7-Feb-09,UVA,W,76,61,,home,League,League,boxes/2009/unc-76-uva-61
-2008-09,3-Feb-09,Maryland,W,108,91,,home,League,League,boxes/2009/unc-108-maryland-91
-2008-09,31-Jan-09,NC State,W,93,76,,away,League,League,boxes/2009/unc-93-state-76/
-2008-09,28-Jan-09,Florida State,W,80,77,,away,League,League,boxes/2009/unc-80-fsu-77
-2008-09,21-Jan-09,Clemson,W,94,70,,home,League,League,boxes/2009/unc-94-clem-70
-2008-09,17-Jan-09,Miami,W,82,65,,home,League,League,boxes/2009/unc-82-miami-65
-2008-09,15-Jan-09,UVA,W,83,61,,away,League,League,boxes/2009/unc-83-uva-61
-2008-09,11-Jan-09,Wake Forest,L,89,92,,away,League,League,boxes/2009/wake-92-unc-89
-2008-09,7-Jan-09,College of Charleston,W,108,70,,home,Non-Conference,Non-Conference,boxes/2009/unc-108-cofc-70
-2008-09,4-Jan-09,Boston College,L,78,85,,home,League,League,boxes/2009/bc-85-unc-78
-2008-09,31-Dec-08,Nevada,W,84,61,,away,Non-Conference,Non-Conference,boxes/2009/unc-84-nv-61
-2008-09,28-Dec-08,Rutgers,W,97,75,,home,Non-Conference,Non-Conference,boxes/2009/unc-97-rutgers-75
-2008-09,20-Dec-08,Valparaiso,W,85,63,,neutral,Non-Conference,Non-Conference,boxes/2009/unc-85-valpo-63
-2008-09,18-Dec-08,Evansville,W,91,73,,home,Non-Conference,Non-Conference,boxes/2009/unc-91-eville-73
-2008-09,13-Dec-08,Oral Roberts,W,100,84,,home,Non-Conference,Non-Conference,boxes/2009/unc-100-or-84
-2008-09,3-Dec-08,Michigan State,W,98,63,,neutral,Non-Conference,Non-Conference,boxes/2009/unc-98-msu-63
-2008-09,30-Nov-08,Asheville,W,116,48,,home,Non-Conference,Non-Conference,boxes/2009/unc-116-unca-48
-2008-09,26-Nov-08,Notre Dame,W,102,87,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2009/unc-102-nd-87
-2008-09,25-Nov-08,Oregon,W,98,69,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2009/unc-98-oregon-69
-2008-09,24-Nov-08,Chaminade,W,115,70,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2009/unc-115-cham-70
-2008-09,21-Nov-08,UC Santa Barbara,W,84,67,,away,Non-Conference,Non-Conference,boxes/2009/unc-84-ucsb-67
-2008-09,18-Nov-08,Kentucky,W,77,58,,home,Non-Conference,Non-Conference,boxes/2009/unc-77-kentucky-58
-2008-09,15-Nov-08,Penn,W,86,71,,home,Non-Conference,Non-Conference,boxes/2009/unc-86-penn-71
-2007-08,5-Apr-08,Kansas,L,66,84,,neutral,NCAA Tournament,NCAA Tournament Final 4,boxes/2008/kansas-84-unc-66
-2007-08,29-Mar-08,Louisville,W,83,73,,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2008/unc-83-lville-73
-2007-08,27-Mar-08,Washington State,W,68,47,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2008/unc-68-wsu-47
-2007-08,23-Mar-08,Arkansas,W,108,77,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2008/unc-108-arkansas-77
-2007-08,21-Mar-08,Mount St. Mary's,W,113,74,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2008/unc-113-msm-74
-2007-08,16-Mar-08,Clemson,W,86,81,,neutral,ACC Tournament,ACC Tournament Championship,boxes/2008/unc-86-clem-81
-2007-08,15-Mar-08,Virginia Tech,W,68,66,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2008/unc-68-vt-66
-2007-08,14-Mar-08,Florida State,W,82,70,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2008/unc-82-fsu-70
-2007-08,8-Mar-08,Duke,W,76,68,,away,League,League,boxes/2008/unc-76-duke-68
-2007-08,4-Mar-08,Florida State,W,90,77,,home,League,League,boxes/2008/unc-90-fsu-77
-2007-08,1-Mar-08,Boston College,W,90,80,,away,League,League,boxes/2008/unc-90-bc-80
-2007-08,24-Feb-08,Wake Forest,W,89,73,,home,League,League,boxes/2008/unc-89-wake-73
-2007-08,20-Feb-08,NC State,W,84,70,,away,League,League,boxes/2008/unc-84-state-70
-2007-08,16-Feb-08,Virginia Tech,W,92,53,,home,League,League,boxes/2008/unc-92-vt-53
-2007-08,12-Feb-08,UVA,W,75,74,,away,League,League,boxes/2008/unc-75-uva-74
-2007-08,10-Feb-08,Clemson,W,103,93,OT,home,League,League,boxes/2008/unc-103-clem-93
-2007-08,6-Feb-08,Duke,L,78,89,,home,League,League,boxes/2008/duke-89-unc-78
-2007-08,3-Feb-08,Florida State,W,84,73,OT,away,League,League,boxes/2008/unc-84-fsu-73
-2007-08,31-Jan-08,Boston College,W,91,69,,home,League,League,boxes/2008/unc-91-bc-69
-2007-08,23-Jan-08,Miami,W,98,82,,away,League,League,boxes/2008/unc-98-miami-82
-2007-08,19-Jan-08,Maryland,L,80,82,,home,League,League,boxes/2008/maryland-82-unc-80
-2007-08,16-Jan-08,Georgia Tech,W,83,82,,away,League,League,boxes/2008/unc-83-gt-82
-2007-08,12-Jan-08,NC State,W,93,62,,home,League,League,boxes/2008/unc-93-state-62
-2007-08,9-Jan-08,Asheville,W,93,81,,home,Non-Conference,Non-Conference,boxes/2008/unc-93-unca-81
-2007-08,6-Jan-08,Clemson,W,90,88,OT,away,League,League,boxes/2008/unc-90-clem-88
-2007-08,2-Jan-08,Kent State,W,90,61,,home,Non-Conference,Non-Conference,boxes/2008/unc-90-kstate-61
-2007-08,30-Dec-07,Valparaiso,W,90,58,,home,Non-Conference,Non-Conference,boxes/2008/unc-90-valpo-58
-2007-08,27-Dec-07,Nevada,W,106,70,,home,Non-Conference,Non-Conference,boxes/2008/unc-106-nv-70
-2007-08,22-Dec-07,UC Santa Barbara,W,105,70,,home,Non-Conference,Non-Conference,boxes/2008/unc-105-sb-70
-2007-08,19-Dec-07,Nicholls State,W,88,78,,home,Non-Conference,Non-Conference,boxes/2008/unc-88-ns-78
-2007-08,16-Dec-07,Rutgers,W,93,71,,away,Non-Conference,Non-Conference,boxes/2008/unc-93-rutgers-71
-2007-08,4-Dec-07,Penn,W,106,71,,away,Non-Conference,Non-Conference,boxes/2008/unc-106-penn-71
-2007-08,1-Dec-07,Kentucky,W,86,77,,away,Non-Conference,Non-Conference,boxes/2008/unc-86-kentucky-77
-2007-08,28-Nov-07,Ohio State,W,66,55,,away,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2008/unc-66-osu-55
-2007-08,24-Nov-07,BYU,W,73,63,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2008/unc-73-byu-63
-2007-08,23-Nov-07,Old Dominion,W,99,82,,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),boxes/2008/unc-99-odu-82
-2007-08,20-Nov-07,South Carolina State,W,110,64,,home,Non-Conference,Non-Conference,boxes/2008/unc-110-scs-64
-2007-08,18-Nov-07,Iona,W,107,72,,home,Non-Conference,Non-Conference,boxes/2008/unc-107-iona-72
-2007-08,14-Nov-07,Davidson,W,72,68,,neutral,Non-Conference,Non-Conference,boxes/2008/unc-72-davidson-68
-2006-07,25-Mar-07,Georgetown,L,84,96,OT,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2007/gtown-96-unc-84
-2006-07,23-Mar-07,USC,W,74,64,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2007/unc-74-usc-64
-2006-07,17-Mar-07,Michigan State,W,81,67,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2007/unc-81-msu-67
-2006-07,15-Mar-07,EKU,W,86,65,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2007/unc-86-eku-65
-2006-07,11-Mar-07,NC State,W,89,80,,neutral,ACC Tournament,ACC Tournament Championship,boxes/2007/unc-89-state-80
-2006-07,10-Mar-07,Boston College,W,71,56,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2007/unc-71-bc-56
-2006-07,9-Mar-07,Florida State,W,73,58,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2007/unc-73-fsu-58
-2006-07,4-Mar-07,Duke,W,86,72,,home,League,League,boxes/2007/unc-86-duke-72
-2006-07,1-Mar-07,Georgia Tech,L,77,84,,away,League,League,boxes/2007/gt-84-unc-77
-2006-07,25-Feb-07,Maryland,L,87,89,,away,League,League,boxes/2007/maryland-89-unc-87
-2006-07,21-Feb-07,NC State,W,83,64,,home,League,League,boxes/2007/unc-83-state-64
-2006-07,17-Feb-07,Boston College,W,77,72,,away,League,League,boxes/2007/unc-77-bc-72
-2006-07,13-Feb-07,Virginia Tech,L,80,81,OT,home,League,League,boxes/2007/vt-81-unc-80
-2006-07,10-Feb-07,Wake Forest,W,104,67,,home,League,League,boxes/2007/unc-104-wake-67
-2006-07,7-Feb-07,Duke,W,79,73,,away,League,League,boxes/2007/unc-79-duke-73
-2006-07,3-Feb-07,NC State,L,79,83,,away,League,League,boxes/2007/state-83-unc-79
-2006-07,31-Jan-07,Miami,W,105,64,,home,League,League,boxes/2007/unc-105-miami-64
-2006-07,27-Jan-07,Arizona,W,92,64,,away,Non-Conference,Non-Conference,boxes/2007/unc-92-zona-64
-2006-07,24-Jan-07,Wake Forest,W,88,60,,away,League,League,boxes/2007/unc-88-wake-60
-2006-07,20-Jan-07,Georgia Tech,W,77,61,,home,League,League,boxes/2007/unc-77-gt-61
-2006-07,17-Jan-07,Clemson,W,77,55,,away,League,League,boxes/2007/unc-77-clem-55
-2006-07,13-Jan-07,Virginia Tech,L,88,94,,away,League,League,boxes/2007/vt-94-unc-88
-2006-07,10-Jan-07,UVA,W,79,69,,home,League,League,boxes/2007/unc-79-uva-69
-2006-07,7-Jan-07,Florida State,W,84,58,,home,League,League,boxes/2007/unc-84-fsu-58
-2006-07,3-Jan-07,Penn,W,102,64,,home,Non-Conference,Non-Conference,boxes/2007/unc-102-penn-64
-2006-07,31-Dec-06,Dayton,W,81,51,,home,Non-Conference,Non-Conference,boxes/2007/unc-81-dayton-51
-2006-07,28-Dec-06,Rutgers,W,87,48,,home,Non-Conference,Non-Conference,boxes/2007/unc-87-rutgers-48
-2006-07,22-Dec-06,Saint Louis,W,69,48,,away,Non-Conference,Non-Conference,boxes/2007/unc-69-slu-48
-2006-07,19-Dec-06,Florida Atlantic,W,105,52,,home,Non-Conference,Non-Conference,boxes/2007/unc-105-fau-52
-2006-07,16-Dec-06,Asheville,W,93,62,,home,Non-Conference,Non-Conference,boxes/2007/unc-93-unca-62
-2006-07,9-Dec-06,High Point,W,94,69,,home,Non-Conference,Non-Conference,boxes/2007/unc-94-hpu-69
-2006-07,2-Dec-06,Kentucky,W,75,63,,home,Non-Conference,Non-Conference,boxes/2007/unc-75-kentucky-63
-2006-07,29-Nov-06,Ohio State,W,98,89,,home,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2007/unc-98-osu-89
-2006-07,24-Nov-06,Tennessee,W,101,87,,neutral,Non-Conference,Non-Conference,boxes/2007/unc-101-tenn-87
-2006-07,22-Nov-06,Gonzaga,L,74,82,,neutral,Non-Conference,Non-Conference,boxes/2007/zaga-82-unc-74
-2006-07,19-Nov-06,Gardner Webb,W,103,50,,home,Non-Conference,Non-Conference,boxes/2007/unc-103-gw-50
-2006-07,15-Nov-06,Winthrop,W,73,66,,neutral,Non-Conference,Non-Conference,boxes/2007/unc-73-win-66
-2006-07,14-Nov-06,Sacred Heart,W,103,81,,neutral,Non-Conference,Non-Conference,boxes/2007/unc-103-sc-81
-2005-06,19-Mar-06,George Mason,L,60,65,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2006/gmason-65-unc-60
-2005-06,17-Mar-06,Murray State,W,69,65,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2006/unc-69-mstate-65
-2005-06,11-Mar-06,Boston College,L,82,85,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2006/bc-85-unc-82
-2005-06,10-Mar-06,UVA,W,79,67,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2006/unc-79-uva-67
-2005-06,4-Mar-06,Duke,W,83,76,,away,League,League,boxes/2006/unc-83-duke-76
-2005-06,1-Mar-06,UVA,W,99,54,,home,League,League,boxes/2006/unc-99-uva-54
-2005-06,26-Feb-06,Maryland,W,81,57,,home,League,League,boxes/2006/unc-81-maryland-57
-2005-06,22-Feb-06,NC State,W,95,71,,away,League,League,boxes/2006/unc-95-state-71
-2005-06,19-Feb-06,Wake Forest,W,83,72,,away,League,League,boxes/2006/unc-83-wake-72
-2005-06,15-Feb-06,Georgia Tech,W,82,75,,home,League,League,boxes/2006/unc-82-gt-75
-2005-06,12-Feb-06,Miami,W,80,70,,away,League,League,boxes/2006/unc-80-miami-70
-2005-06,7-Feb-06,Duke,L,83,87,,home,League,League,boxes/2006/duke-87-unc-83
-2005-06,4-Feb-06,Clemson,W,76,61,,home,League,League,boxes/2006/unc-76-clem-61
-2005-06,2-Feb-06,Maryland,W,77,62,,away,League,League,boxes/2006/unc-77-maryland-62
-2005-06,28-Jan-06,Arizona,W,86,69,,home,Non-Conference,Non-Conference,boxes/2006/unc-86-zona-69
-2005-06,25-Jan-06,Boston College,L,74,81,,home,League,League,boxes/2006/bc-81-unc-74
-2005-06,22-Jan-06,Florida State,W,81,80,,away,League,League,boxes/2006/unc-81-fsu-80
-2005-06,19-Jan-06,UVA,L,68,72,,away,League,League,boxes/2006/uva-72-unc-68
-2005-06,14-Jan-06,Miami,L,70,81,,home,League,League,boxes/2006/miami-81-unc-70
-2005-06,10-Jan-06,Virginia Tech,W,64,61,,away,League,League,boxes/2006/unc-64-vt-61
-2005-06,7-Jan-06,NC State,W,82,69,,home,League,League,boxes/2006/unc-82-state-69
-2005-06,3-Jan-06,Davidson,W,82,58,,home,Non-Conference,Non-Conference,boxes/2006/unc-82-davidson-58
-2005-06,28-Dec-05,Asheville,W,89,47,,home,Non-Conference,Non-Conference,boxes/2006/unc-89-unca-47
-2005-06,21-Dec-05,USC,L,59,74,,away,Non-Conference,Non-Conference,boxes/2006/usc-74-unc-59
-2005-06,17-Dec-05,Santa Clara,W,76,58,,home,Non-Conference,Non-Conference,boxes/2006/unc-76-sc-58
-2005-06,7-Dec-05,Saint Louis,W,75,63,,home,Non-Conference,Non-Conference,boxes/2006/unc-75-slu-63
-2005-06,3-Dec-05,Kentucky,W,83,79,,away,Non-Conference,Non-Conference,boxes/2006/unc-83-kentucky-79
-2005-06,29-Nov-05,Illinois,L,64,68,,home,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2006/ill-68-unc-64
-2005-06,25-Nov-05,UC Santa Barbara,W,83,66,,home,Non-Conference,Non-Conference,boxes/2006/unc-83-ucsb-66
-2005-06,22-Nov-05,Cleveland State,W,112,55,,home,Non-Conference,Non-Conference,boxes/2006/unc-112-cs-55
-2005-06,19-Nov-05,Gardner Webb,W,83,80,,home,Non-Conference,Non-Conference,boxes/2006/unc-83-gw-80
-2004-05,4-Apr-05,Illinois,W,75,70,,neutral,NCAA Tournament,NCAA Tournament Championship,boxes/2005/unc-75-ill-70
-2004-05,2-Apr-05,Michigan State,W,87,71,,neutral,NCAA Tournament,NCAA Tournament Final 4,boxes/2005/unc-87-msu-71
-2004-05,27-Mar-05,Wisconsin,W,88,82,,neutral,NCAA Tournament,NCAA Tournament Elite 8,boxes/2005/unc-88-wisco-82
-2004-05,25-Mar-05,Villanova,W,67,66,,neutral,NCAA Tournament,NCAA Tournament Sweet 16,boxes/2005/unc-67-nova-66
-2004-05,20-Mar-05,Iowa State,W,92,65,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2005/unc-92-isu-65
-2004-05,18-Mar-05,Oakland,W,96,68,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2005/unc-96-oak-68
-2004-05,12-Mar-05,Georgia Tech,L,75,78,,neutral,ACC Tournament,ACC Tournament Semifinal,boxes/2005/gt-78-unc-75
-2004-05,11-Mar-05,Clemson,W,88,81,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2005/unc-88-clem-81
-2004-05,6-Mar-05,Duke,W,75,73,,home,League,League,boxes/2005/unc-75-duke-73
-2004-05,3-Mar-05,Florida State,W,91,76,,home,League,League,boxes/2005/unc-91-fsu-76
-2004-05,27-Feb-05,Maryland,W,85,83,,away,League,League,boxes/2005/unc-85-maryland-83
-2004-05,22-Feb-05,NC State,W,81,71,,away,League,League,boxes/2005/unc-81-state-71
-2004-05,19-Feb-05,Clemson,W,88,56,,home,League,League,boxes/2005/unc-88-clem-56
-2004-05,16-Feb-05,UVA,W,85,61,,home,League,League,boxes/2005/unc-85-uva-61
-2004-05,13-Feb-05,Connecticut,W,77,70,,away,Non-Conference,Non-Conference,boxes/2005/unc-77-uconn-70.pdf
-2004-05,9-Feb-05,Duke,L,70,71,,away,League,League,boxes/2005/duke-71-unc-70
-2004-05,6-Feb-05,Florida State,W,81,60,,away,League,League,boxes/2005/unc-81-fsu-60.pdf
-2004-05,3-Feb-05,NC State,W,95,71,,home,League,League,boxes/2005/unc-95-state-71
-2004-05,29-Jan-05,UVA,W,110,76,,away,League,League,boxes/2005/unc-110-uva-76
-2004-05,22-Jan-05,Miami,W,87,67,,home,League,League,boxes/2005/unc-87-miami-67
-2004-05,19-Jan-05,Clemson,W,77,58,,away,League,League,boxes/2005/unc-77-clem-58
-2004-05,15-Jan-05,Wake Forest,L,82,95,,away,League,League,boxes/2005/wake-95-unc-82
-2004-05,12-Jan-05,Georgia Tech,W,91,69,,home,League,League,boxes/2005/unc-91-gt-69
-2004-05,8-Jan-05,Maryland,W,109,75,,home,League,League,boxes/2005/unc-109-maryland-75
-2004-05,2-Jan-05,William & Mary,W,105,66,,home,Non-Conference,Non-Conference,boxes/2005/unc-105-bill-and-mary-66
-2004-05,30-Dec-04,Cleveland State,W,107,64,,home,Non-Conference,Non-Conference,boxes/2005/unc-107-cs-64
-2004-05,28-Dec-04,UNC-Wilmington,W,96,75,,home,Non-Conference,Non-Conference,boxes/2005/unc-96-uncw-75
-2004-05,21-Dec-04,Vermont,W,93,65,,home,Non-Conference,Non-Conference,boxes/2005/unc-93-vermont-65
-2004-05,19-Dec-04,Virginia Tech,W,85,51,,away,League,League,boxes/2005/unc-85-vt-51
-2004-05,12-Dec-04,Loyola Chicago,W,109,60,,home,Non-Conference,Non-Conference,boxes/2005/unc-109-lc-60
-2004-05,4-Dec-04,Kentucky,W,91,78,,home,Non-Conference,Non-Conference,boxes/2005/unc-91-kentucky-78
-2004-05,1-Dec-04,Indiana,W,70,63,,away,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2005/unc-70-ind-63
-2004-05,28-Nov-04,USC,W,97,65,,home,Non-Conference,Non-Conference,boxes/2005/unc-97-usc-65
-2004-05,24-Nov-04,Iowa,W,106,92,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2005/unc-106-iowa-92
-2004-05,23-Nov-04,Tennessee,W,94,81,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2005/unc-94-tenn-81
-2004-05,22-Nov-04,BYU,W,86,50,,neutral,Non-Conference,Non-Conference (Maui Invitational),boxes/2005/unc-86-byu-50
-2004-05,19-Nov-04,Santa Clara,L,66,77,,neutral,Non-Conference,Non-Conference,boxes/2005/sc-77-unc-66
-2003-04,20-Mar-04,Texas,L,75,78,,neutral,NCAA Tournament,NCAA Tournament 2nd Round,boxes/2004/texas-78-unc-75
-2003-04,18-Mar-04,Air Force,W,63,52,,neutral,NCAA Tournament,NCAA Tournament 1st Round,boxes/2004/unc-63-af-52
-2003-04,12-Mar-04,Georgia Tech,L,82,83,,neutral,ACC Tournament,ACC Tournament Quarterfinal,boxes/2004/gt-83-unc-82
-2003-04,6-Mar-04,Duke,L,65,70,,away,League,League,boxes/2004/duke-70-unc-65
-2003-04,2-Mar-04,Clemson,W,69,53,,home,League,League,boxes/2004/unc-69-clem-53
-2003-04,29-Feb-04,NC State,W,71,64,,away,League,League,boxes/2004/unc-71-state-64
-2003-04,24-Feb-04,UVA,L,72,74,,away,League,League,boxes/2004/uva-74-unc-72
-2003-04,21-Feb-04,Florida State,W,78,71,,home,League,League,boxes/2004/unc-78-fsu-71
-2003-04,15-Feb-04,Maryland,W,97,86,,home,League,League,boxes/2004/unc-97-maryland-86
-2003-04,7-Feb-04,Georgia Tech,L,77,88,,away,League,League,boxes/2004/gt-88-unc-77
-2003-04,7-Feb-04,Wake Forest,W,79,73,,away,League,League,boxes/2004/unc-79-wake-73
-2003-04,5-Feb-04,Duke,L,81,83,OT,home,League,League,boxes/2004/duke-83-unc-81
-2003-04,31-Jan-04,Clemson,L,72,81,,away,League,League,boxes/2004/clem-81-unc-72
-2003-04,28-Jan-04,NC State,W,68,66,,home,League,League,boxes/2004/unc-68-state-66
-2003-04,24-Jan-04,UVA,W,96,77,,home,League,League,boxes/2004/unc-96-uva-77
-2003-04,22-Jan-04,Florida State,L,81,90,OT,away,League,League,boxes/2004/fsu-90-unc-81
-2003-04,17-Jan-04,Connecticut,W,86,83,,home,Non-Conference,Non-Conference,boxes/2004/unc-86-uconn-83
-2003-04,14-Jan-04,Maryland,L,84,90,,away,League,League,boxes/2004/maryland-90-unc-84
-2003-04,11-Jan-04,Georgia Tech,W,103,88,,home,League,League,boxes/2004/unc-103-gt-88
-2003-04,7-Jan-04,Miami,W,89,64,,home,Non-Conference,Non-Conference,boxes/2004/unc-89-miami-64
-2003-04,3-Jan-04,Kentucky,L,56,61,,away,Non-Conference,Non-Conference,boxes/2004/kentucky-61-unc-56
-2003-04,30-Dec-03,Coastal Carolina,W,105,72,,home,Non-Conference,Non-Conference,boxes/2004/unc-105-coastal-72
-2003-04,28-Dec-03,UNC-Wilmington,W,71,54,,neutral,Non-Conference,Non-Conference,boxes/2004/unc-71-uncw-54
-2003-04,20-Dec-03,Wake Forest,L,114,119,OT,home,League,League,boxes/2004/wake-119-unc-114
-2003-04,14-Dec-03,Akron,W,64,53,,home,Non-Conference,Non-Conference,boxes/2004/unc-64-akron-53
-2003-04,7-Dec-03,George Mason,W,115,81,,home,Non-Conference,Non-Conference,boxes/2004/unc-115-gmason-81
-2003-04,2-Dec-03,Illinois,W,88,81,,neutral,Non-Conference,Non-Conference (Big Ten Challenge),boxes/2004/unc-88-ill-81
-2003-04,29-Nov-03,Cleveland State,W,82,76,,away,Non-Conference,Non-Conference,boxes/2004/unc-82-cs-76
-2003-04,24-Nov-03,Davidson,W,91,68,,neutral,Non-Conference,Non-Conference,boxes/2004/unc-91-davidson-68
-2003-04,22-Nov-03,Old Dominion,W,90,64,,home,Non-Conference,Non-Conference,boxes/2004/unc-90-odu-64
+season,date,opponent,location,type,longtype,result,unc,opp,OT,box
+2019-20,11-Mar-20,Syracuse,neutral,ACC Tournament,ACC Tournament 2nd Round,L,53,81,,https://dadgumboxscores.com/boxes/2020/syracuse-81-unc-53.pdf
+2019-20,10-Mar-20,Virginia Tech,neutral,ACC Tournament,ACC Tournament 1st Round,W,78,56,,https://dadgumboxscores.com/boxes/2020/unc-78-vt-56.pdf
+2019-20,8-Mar-20,Duke,away,League,League,L,76,89,,https://dadgumboxscores.com/boxes/2020/duke-89-unc-76.pdf
+2019-20,4-Mar-20,Wake Forest,home,League,League,W,93,83,,https://dadgumboxscores.com/boxes/2020/unc-93-wake-83.pdf
+2019-20,29-Feb-20,Syracuse,away,League,League,W,92,79,,https://dadgumboxscores.com/boxes/2020/unc-92-cuse-79.pdf
+2019-20,25-Feb-20,NC State,home,League,League,W,85,79,,https://dadgumboxscores.com/boxes/2020/unc-85-state-79.pdf
+2019-20,22-Feb-20,Louisville,away,League,League,L,55,72,,https://dadgumboxscores.com/boxes/2020/lville-72-unc-55.pdf
+2019-20,17-Feb-20,Notre Dame,away,League,League,L,76,77,,https://dadgumboxscores.com/boxes/2020/nd-77-unc-76.pdf
+2019-20,15-Feb-20,UVA,home,League,League,L,62,64,,https://dadgumboxscores.com/boxes/2020/uva-64-unc-62.pdf
+2019-20,11-Feb-20,Wake Forest,away,League,League,L,57,74,,https://dadgumboxscores.com/boxes/2020/wake-74-unc-57.pdf
+2019-20,8-Feb-20,Duke,home,League,League,L,96,98,OT,https://dadgumboxscores.com/boxes/2020/duke-98-unc-96.pdf
+2019-20,3-Feb-20,Florida State,away,League,League,L,59,65,,https://dadgumboxscores.com/boxes/2020/fsu-65-unc-59.pdf
+2019-20,1-Feb-20,Boston College,home,League,League,L,70,71,,https://dadgumboxscores.com/boxes/2020/bc-71-unc-70.pdf
+2019-20,27-Jan-20,NC State,away,League,League,W,75,65,,https:///dadgumboxscores.com/boxes/2020/unc-75-ncsu-65.pdf
+2019-20,25-Jan-20,Miami,home,League,League,W,94,71,,https:///dadgumboxscores.com/boxes/2020/unc-94-miami-71.pdf
+2019-20,22-Jan-20,Virginia Tech,away,League,League,L,77,79,OT,https:///dadgumboxscores.com/boxes/2020/vt-79-unc-77.pdf
+2019-20,18-Jan-20,Pittsburgh,away,League,League,L,52,66,,https:///dadgumboxscores.com/boxes/2020/pitt-66-unc-52.pdf
+2019-20,11-Jan-20,Clemson,home,League,League,L,76,79,OT,https:///dadgumboxscores.com/boxes/2020/clem-79-unc-76.pdf
+2019-20,8-Jan-20,Pittsburgh,home,League,League,L,65,73,,https:///dadgumboxscores.com/boxes/2020/pitt-73-unc-65.pdf
+2019-20,4-Jan-20,Georgia Tech,home,League,League,L,83,96,,https:///dadgumboxscores.com/boxes/2020/gt-96-unc-83.pdf
+2019-20,30-Dec-19,Yale,home,Non-Conference,Non-Conference,W,70,67,,https:///dadgumboxscores.com/boxes/2020/unc-70-yale-67.pdf
+2019-20,21-Dec-19,UCLA,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),W,74,64,,https:///dadgumboxscores.com/boxes/2020/unc-74-ucla-64.pdf
+2019-20,18-Dec-19,Gonzaga,away,Non-Conference,Non-Conference,L,81,94,,https:///dadgumboxscores.com/boxes/2020/gonzaga-94-unc-81.pdf
+2019-20,15-Dec-19,Wofford,home,Non-Conference,Non-Conference,L,64,68,,https:///dadgumboxscores.com/boxes/2020/wofford-68-unc-64.pdf
+2019-20,8-Dec-19,UVA,away,League,League,L,47,56,,https:///dadgumboxscores.com/boxes/2020/uva-56-unc-47.pdf
+2019-20,4-Dec-19,Ohio State,home,Non-Conference,Non-Conference (Big 10 Challenge),L,49,74,,https:///dadgumboxscores.com/boxes/2020/osu-74-unc-49.pdf
+2019-20,29-Nov-19,Oregon,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),W,78,74,,https:///dadgumboxscores.com/boxes/2020/unc-78-oregon-74.pdf
+2019-20,28-Nov-19,Michigan,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),L,64,73,,https:///dadgumboxscores.com/boxes/2020/mich-73-unc-64.pdf
+2019-20,27-Nov-19,Alabama,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),W,76,67,,https:///dadgumboxscores.com/boxes/2020/unc-76-bama-67.pdf
+2019-20,20-Nov-19,Elon,home,Non-Conference,Non-Conference,W,75,61,,https:///dadgumboxscores.com/boxes/2020/unc-75-elon-61.pdf
+2019-20,15-Nov-19,Gardner Webb,home,Non-Conference,Non-Conference,W,77,61,,https:///dadgumboxscores.com/boxes/2020/unc-77-gw-61.pdf
+2019-20,8-Nov-19,UNC-Wilmington,away,Non-Conference,Non-Conference,W,78,62,,https:///dadgumboxscores.com/boxes/2020/unc-78-uncw-62.pdf
+2019-20,6-Nov-19,Notre Dame,home,League,League,W,76,65,,https:///dadgumboxscores.com/boxes/2020/unc-76-nd-65.pdf
+2018-19,29-Mar-19,Auburn,neutral,NCAA Tournament,NCAA Tournament Sweet 16,L,80,97,,https:///dadgumboxscores.com/boxes/2019/aub-97-unc-80.pdf
+2018-19,24-Mar-19,Washington,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,81,59,,https:///dadgumboxscores.com/boxes/2019/unc-81-wash-59.pdf
+2018-19,22-Mar-19,Iona,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,88,73,,https:///dadgumboxscores.com/boxes/2019/unc-88-iona-73.pdf
+2018-19,15-Mar-19,Duke,neutral,ACC Tournament,ACC Tournament Semifinal,L,73,74,,https:///dadgumboxscores.com/boxes/2019/duke-74-unc-73.pdf
+2018-19,14-Mar-19,Louisville,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,83,70,,https:///dadgumboxscores.com/boxes/2019/unc-83-lville-70.pdf
+2018-19,9-Mar-19,Duke,home,League,League,W,79,70,,https:///dadgumboxscores.com/boxes/2019/unc-79-duke-70.pdf
+2018-19,5-Mar-19,Boston College,away,League,League,W,79,66,,https:///dadgumboxscores.com/boxes/2019/unc-79-bc-66.pdf
+2018-19,2-Mar-19,Clemson,away,League,League,W,81,79,,https:///dadgumboxscores.com/boxes/2019/unc-81-clem-79.pdf
+2018-19,26-Feb-19,Syracuse,home,League,League,W,93,85,,https:///dadgumboxscores.com/boxes/2019/unc-93-cuse-85.pdf
+2018-19,23-Feb-19,Florida State,home,League,League,W,77,59,,https:///dadgumboxscores.com/boxes/2019/unc-77-fsu-59.pdf
+2018-19,20-Feb-19,Duke,away,League,League,W,88,72,,https:///dadgumboxscores.com/boxes/2019/unc-88-duke-72.pdf
+2018-19,16-Feb-19,Wake Forest,away,League,League,W,95,57,,https:///dadgumboxscores.com/boxes/2019/unc-95-wake-57.pdf
+2018-19,11-Feb-19,UVA,home,League,League,L,61,69,,https:///dadgumboxscores.com/boxes/2019/uva-69-unc-61.pdf
+2018-19,9-Feb-19,Miami,home,League,League,W,88,85,OT,https:///dadgumboxscores.com/boxes/2019/unc-88-miami-85.pdf
+2018-19,5-Feb-19,NC State,home,League,League,W,113,96,,https:///dadgumboxscores.com/boxes/2019/unc-113-ncsu-96.pdf
+2018-19,2-Feb-19,Louisville,away,League,League,W,79,69,,https:///dadgumboxscores.com/boxes/2019/unc-79-lville-69.pdf
+2018-19,29-Jan-19,Georgia Tech,away,League,League,W,77,54,,https:///dadgumboxscores.com/boxes/2019/unc-77-gt-54.pdf
+2018-19,21-Jan-19,Virginia Tech,home,League,League,W,103,82,,https:///dadgumboxscores.com/boxes/2019/unc-103-vt-82.pdf
+2018-19,19-Jan-19,Miami,away,League,League,W,85,76,,https:///dadgumboxscores.com/boxes/2019/unc-85-um-76.pdf
+2018-19,15-Jan-19,Notre Dame,home,League,League,W,75,69,,https:///dadgumboxscores.com/boxes/2019/unc-75-nd-69.pdf
+2018-19,12-Jan-19,Louisville,home,League,League,L,62,83,,https:///dadgumboxscores.com/boxes/2019/lville-83-unc-62.pdf
+2018-19,8-Jan-19,NC State,away,League,League,W,90,82,,https:///dadgumboxscores.com/boxes/2019/unc-90-ncsu-82.pdf
+2018-19,5-Jan-19,Pittsburgh,away,League,League,W,85,60,,https:///dadgumboxscores.com/boxes/2019/unc-85-pitt-60.pdf
+2018-19,2-Jan-19,Harvard,home,Non-Conference,Non-Conference,W,77,57,,https:///dadgumboxscores.com/boxes/2019/unc-77-harvard-57.pdf
+2018-19,29-Dec-18,Davidson,home,Non-Conference,Non-Conference,W,82,60,,https:///dadgumboxscores.com/boxes/2019/unc-82-dav-60.pdf
+2018-19,22-Dec-18,Kentucky,neutral,Non-Conference,Non-Conference,L,72,80,,https:///dadgumboxscores.com/boxes/2019/kentucky-80-unc-72.pdf
+2018-19,15-Dec-18,Gonzaga,home,Non-Conference,Non-Conference,W,103,90,,https:///dadgumboxscores.com/boxes/2019/unc-103-gonzaga-90.pdf
+2018-19,5-Dec-18,UNC-Wilmington,home,Non-Conference,Non-Conference,W,97,69,,https:///dadgumboxscores.com/boxes/2019/unc-97-uncw-69.pdf
+2018-19,28-Nov-18,Michigan,away,Non-Conference,Non-Conference,L,67,84,,https:///dadgumboxscores.com/boxes/2019/mich-84-unc-67.pdf
+2018-19,23-Nov-18,UCLA,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),W,94,78,,https:///dadgumboxscores.com/boxes/2019/unc-94-ucla-78.pdf
+2018-19,22-Nov-18,Texas,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),L,89,92,,https:///dadgumboxscores.com/boxes/2019/texas-92-unc-89.pdf
+2018-19,19-Nov-18,St. Francis PA,home,Non-Conference,Non-Conference (Las Vegas Invitational),W,101,76,,https:///dadgumboxscores.com/boxes/2019/unc-101-sf-76.pdf
+2018-19,16-Nov-18,Tennessee Tech,home,Non-Conference,Non-Conference (Las Vegas Invitational),W,108,58,,https:///dadgumboxscores.com/boxes/2019/unc-108-tt-58.pdf
+2018-19,12-Nov-18,Stanford,home,Non-Conference,Non-Conference,W,90,72,,https:///dadgumboxscores.com/boxes/2019/unc-90-stan-72.pdf
+2018-19,9-Nov-18,Elon,away,Non-Conference,Non-Conference,W,116,67,,https:///dadgumboxscores.com/boxes/2019/unc-116-elon-67.pdf
+2018-19,5-Nov-18,Wofford,away,Non-Conference,Non-Conference,W,78,67,,https:///dadgumboxscores.com/boxes/2019/unc-78-woff-67.pdf
+2017-18,18-Mar-18,Texas A&M,neutral,NCAA Tournament,NCAA Tournament 2nd Round,L,65,85,,https:///dadgumboxscores.com/boxes/2018/unc-65-tam-85.pdf
+2017-18,16-Mar-18,Lipscomb,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,84,66,,https:///dadgumboxscores.com/boxes/2018/unc-84-ls-66.pdf
+2017-18,10-Mar-18,UVA,neutral,ACC Tournament,ACC Tournament Final,L,63,71,,https:///dadgumboxscores.com/boxes/2018/uva-71-unc-63.pdf
+2017-18,9-Mar-18,Duke,neutral,ACC Tournament,ACC Tournament Semifinal,W,74,69,,https:///dadgumboxscores.com/boxes/2018/unc-74-duke-69.pdf
+2017-18,8-Mar-18,Miami,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,82,65,,https:///dadgumboxscores.com/boxes/2018/unc-82-um-65.pdf
+2017-18,7-Mar-18,Syracuse,neutral,ACC Tournament,ACC Tournament 2nd Round,W,78,59,,https:///dadgumboxscores.com/boxes/2018/unc-78-cuse-59.pdf
+2017-18,3-Mar-18,Duke,away,League,League,L,64,74,,https:///dadgumboxscores.com/boxes/2018/duke-74-unc-64.pdf
+2017-18,27-Feb-18,Miami,home,League,League,L,88,91,,https:///dadgumboxscores.com/boxes/2018/um-91-unc-88.pdf
+2017-18,21-Feb-18,Syracuse,away,League,League,W,78,74,,https:///dadgumboxscores.com/boxes/2018/unc-78-cuse-74.pdf
+2017-18,17-Feb-18,Louisville,away,League,League,W,93,76,,https:///dadgumboxscores.com/boxes/2018/unc-93-lville-76.pdf
+2017-18,12-Feb-18,Notre Dame,home,League,League,W,83,66,,https:///dadgumboxscores.com/boxes/2018/unc-83-nd-66.pdf
+2017-18,10-Feb-18,NC State,away,League,League,W,96,89,,https:///dadgumboxscores.com/boxes/2018/unc-96-ncsu-89.pdf
+2017-18,8-Feb-18,Duke,home,League,League,W,82,78,,https:///dadgumboxscores.com/boxes/2018/unc-82-duke-78.pdf
+2017-18,3-Feb-18,Pittsburgh,home,League,League,W,96,65,,https:///dadgumboxscores.com/boxes/2018/unc-96-pitt-65.pdf
+2017-18,30-Jan-18,Clemson,away,League,League,L,78,82,,https:///dadgumboxscores.com/boxes/2018/clem-82-unc-78.pdf
+2017-18,27-Jan-18,NC State,home,League,League,L,91,95,OT,https:///dadgumboxscores.com/boxes/2018/ncsu-95-unc-91.pdf
+2017-18,22-Jan-18,Virginia Tech,away,League,League,L,69,80,,https:///dadgumboxscores.com/boxes/2018/vt-80-unc-69.pdf
+2017-18,20-Jan-18,Georgia Tech,home,League,League,W,80,66,,https:///dadgumboxscores.com/boxes/2018/unc-80-gt-66.pdf
+2017-18,16-Jan-18,Clemson,home,League,League,W,87,79,,https:///dadgumboxscores.com/boxes/2018/unc-87-clem-79.pdf
+2017-18,13-Jan-18,Notre Dame,away,League,League,W,69,68,,https:///dadgumboxscores.com/boxes/2018/unc-69-nd-68
+2017-18,9-Jan-18,Boston College,home,League,League,W,96,66,,https:///dadgumboxscores.com/boxes/2018/unc-96-bc-66.pdf
+2017-18,6-Jan-18,UVA,away,League,League,L,49,61,,https:///dadgumboxscores.com/boxes/2018/uva-61-unc-49
+2017-18,3-Jan-18,Florida State,away,League,League,L,80,81,,https:///dadgumboxscores.com/boxes/2018/fsu-81-unc-80.pdf
+2017-18,30-Dec-17,Wake Forest,home,League,League,W,73,69,,https:///dadgumboxscores.com/boxes/2018/unc-73-wake-69.pdf
+2017-18,23-Dec-17,Ohio State,neutral,Non-Conference,Non-Conference,W,86,72,,https:///dadgumboxscores.com/boxes/2018/unc-86-osu-72.pdf
+2017-18,20-Dec-17,Wofford,home,Non-Conference,Non-Conference,L,75,79,,https:///dadgumboxscores.com/boxes/2018/woff-79-unc-75.pdf
+2017-18,17-Dec-17,Tennessee,away,Non-Conference,Non-Conference,W,78,73,,https:///dadgumboxscores.com/boxes/2018/unc-78-tenn-73.pdf
+2017-18,6-Dec-17,Western Carolina,home,Non-Conference,Non-Conference,W,104,61,,https:///dadgumboxscores.com/boxes/2018/unc-104-wcu-61.pdf
+2017-18,3-Dec-17,Tulane,home,Non-Conference,Non-Conference,W,97,73,,https:///dadgumboxscores.com/boxes/2018/unc-97-tulane-73.pdf
+2017-18,1-Dec-17,Davidson,neutral,Non-Conference,Non-Conference,W,85,75,,https:///dadgumboxscores.com/boxes/2018/unc-85-dav-75.pdf
+2017-18,29-Nov-17,Michigan,home,Non-Conference,Non-Conference (Big 10 Challenge),W,86,71,,https:///dadgumboxscores.com/boxes/2018/unc-86-mich-71.pdf
+2017-18,26-Nov-17,Michigan State,neutral,Non-Conference,Non-Conference (PK 80),L,45,63,,https:///dadgumboxscores.com/boxes/2018/msu-63-unc-45.pdf
+2017-18,24-Nov-17,Arkansas,neutral,Non-Conference,Non-Conference (PK 80),W,87,68,,https:///dadgumboxscores.com/boxes/2018/unc-87-ark-68.pdf
+2017-18,23-Nov-17,Portland,neutral,Non-Conference,Non-Conference (PK 80),W,102,78,,https:///dadgumboxscores.com/boxes/2018/unc-102-port-78.pdf
+2017-18,20-Nov-17,Stanford,away,Non-Conference,Non-Conference,W,96,72,,https:///dadgumboxscores.com/boxes/2018/unc-96-stanford-72.pdf
+2017-18,15-Nov-17,Bucknell,home,Non-Conference,Non-Conference,W,93,81,,https:///dadgumboxscores.com/boxes/2018/unc-93-buck-81
+2017-18,10-Nov-17,Northern Iowa,home,Non-Conference,Non-Conference,W,86,69,,https:///dadgumboxscores.com/boxes/2018/unc-86-uni-69.pdf
+2016-17,3-Apr-17,Gonzaga,neutral,NCAA Tournament,NCAA Tournament Championship,W,71,65,,https:///dadgumboxscores.com/boxes/2017/unc-71-zags-65
+2016-17,1-Apr-17,Oregon,neutral,NCAA Tournament,NCAA Tournament Final 4,W,77,76,,https:///dadgumboxscores.com/boxes/2017/unc-77-oregon-76
+2016-17,26-Mar-17,Kentucky,neutral,NCAA Tournament,NCAA Tournament Elite 8,W,75,73,,https:///dadgumboxscores.com/boxes/2017/unc-75-kentucky-73
+2016-17,24-Mar-17,Butler,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,92,80,,https:///dadgumboxscores.com/boxes/2017/unc-92-butler-80
+2016-17,19-Mar-17,Arkansas,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,72,65,,https:///dadgumboxscores.com/boxes/2017/unc-72-ark-65
+2016-17,17-Mar-17,Texas Southern,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,103,64,,https:///dadgumboxscores.com/boxes/2017/unc-103-ts-64
+2016-17,10-Mar-17,Duke,neutral,ACC Tournament,ACC Tournament Semifinal,L,83,93,,https:///dadgumboxscores.com/boxes/2017/duke-93-unc-83/
+2016-17,9-Mar-17,Miami,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,78,53,,https:///dadgumboxscores.com/boxes/2017/unc-78-um-53.pdf
+2016-17,4-Mar-17,Duke,home,League,League,W,90,83,,https:///dadgumboxscores.com/boxes/2017/unc-90-duke-83/
+2016-17,27-Feb-17,UVA,away,League,League,L,43,53,,https:///dadgumboxscores.com/boxes/2017/uva-53-unc-43
+2016-17,25-Feb-17,Pittsburgh,away,League,League,W,85,67,,https:///dadgumboxscores.com/boxes/2017/unc-85-pitt-67
+2016-17,22-Feb-17,Louisville,home,League,League,W,74,63,,https:///dadgumboxscores.com/boxes/2017/unc-74-ville-63
+2016-17,18-Feb-17,UVA,home,League,League,W,65,41,,https:///dadgumboxscores.com/boxes/2017/unc-65-uva-41
+2016-17,15-Feb-17,NC State,away,League,League,W,97,73,,https:///dadgumboxscores.com/boxes/2017/unc-97-ncsu-73
+2016-17,9-Feb-17,Duke,away,League,League,L,78,86,,https:///dadgumboxscores.com/boxes/2017/duke-86-unc-78
+2016-17,6-Feb-17,Notre Dame,neutral,League,League,W,83,76,,https:///dadgumboxscores.com/boxes/2017/unc-83-nd-76
+2016-17,31-Jan-17,Pittsburgh,home,League,League,W,80,78,,https:///dadgumboxscores.com/boxes/2017/unc-80-pitt-78
+2016-17,28-Jan-17,Miami,away,League,League,L,62,77,,https:///dadgumboxscores.com/boxes/2017/unc-62-um-77
+2016-17,26-Jan-17,Virginia Tech,home,League,League,W,91,72,,https:///dadgumboxscores.com/boxes/2017/unc-91-vt-72
+2016-17,21-Jan-17,Boston College,away,League,League,W,90,82,,https:///dadgumboxscores.com/boxes/2017/unc-90-bc-82
+2016-17,16-Jan-17,Syracuse,home,League,League,W,85,68,,https:///dadgumboxscores.com/boxes/2017/unc-85-cuse-68
+2016-17,14-Jan-17,Florida State,home,League,League,W,96,83,,https:///dadgumboxscores.com/boxes/2017/unc-96-fsu-83
+2016-17,11-Jan-17,Wake Forest,away,League,League,W,93,87,,https:///dadgumboxscores.com/boxes/2017/unc-93-wfu-87
+2016-17,8-Jan-17,NC State,home,League,League,W,107,56,,https:///dadgumboxscores.com/boxes/2017/unc-107-ncsu-56
+2016-17,3-Jan-17,Clemson,away,League,League,W,89,86,OT,https:///dadgumboxscores.com/boxes/2017/unc-89-clem-86
+2016-17,31-Dec-16,Georgia Tech,away,League,League,L,63,75,,https:///dadgumboxscores.com/boxes/2017/gt-75-unc-63
+2016-17,28-Dec-16,Monmouth,home,Non-Conference,Non-Conference,W,102,74,,https:///dadgumboxscores.com/boxes/2017/unc-102-mon-74
+2016-17,21-Dec-16,Northern Iowa,home,Non-Conference,Non-Conference,W,85,42,,https:///dadgumboxscores.com/boxes/2017/unc-85-uni-42
+2016-17,17-Dec-16,Kentucky,neutral,Non-Conference,Non-Conference,L,100,103,,https:///dadgumboxscores.com/boxes/2017/kentucky-103-unc-100
+2016-17,11-Dec-16,Tennessee,home,Non-Conference,Non-Conference,W,73,71,,https:///dadgumboxscores.com/boxes/2017/unc-73-tenn-71
+2016-17,7-Dec-16,Davidson,home,Non-Conference,Non-Conference,W,83,74,,https:///dadgumboxscores.com/boxes/2017/unc-83-dav-74
+2016-17,4-Dec-16,Radford,home,Non-Conference,Non-Conference,W,95,50,,https:///dadgumboxscores.com/boxes/2017/unc-95-radford-50
+2016-17,30-Nov-16,Indiana,away,Non-Conference,Non-Conference (Big Ten Challenge),L,67,76,,https:///dadgumboxscores.com/boxes/2017/ind-76-unc-67
+2016-17,23-Nov-16,Wisconsin,neutral,Non-Conference,Non-Conference (Maui Invitational),W,71,56,,https:///dadgumboxscores.com/boxes/2017/unc-71-wisco-56
+2016-17,22-Nov-16,Oklahoma State,neutral,Non-Conference,Non-Conference (Maui Invitational),W,107,75,,https:///dadgumboxscores.com/boxes/2017/unc-107-okstate-75.pdf
+2016-17,21-Nov-16,Chaminade,neutral,Non-Conference,Non-Conference (Maui Invitational),W,104,61,,https:///dadgumboxscores.com/boxes/2017/unc-104-cham-61
+2016-17,19-Nov-16,Hawai'i,away,Non-Conference,Non-Conference,W,83,68,,https:///dadgumboxscores.com/boxes/2017/unc-83-haw-68
+2016-17,15-Nov-16,Long Beach State,home,Non-Conference,Non-Conference,W,93,67,,https:///dadgumboxscores.com/boxes/2017/unc-93-lbsu-67
+2016-17,13-Nov-16,Chattanooga,home,Non-Conference,Non-Conference,W,97,57,,https:///dadgumboxscores.com/boxes/2017/unc-97-chatt-57
+2016-17,11-Nov-16,Tulane,away,Non-Conference,Non-Conference,W,95,75,,https:///dadgumboxscores.com/boxes/2017/unc-95-tulane-75
+2015-16,4-Apr-16,Villanova,neutral,NCAA Tournament,NCAA Tournament Championship,L,74,77,,https:///dadgumboxscores.com/boxes/2016/nova-77-unc-74
+2015-16,2-Apr-16,Syracuse,neutral,NCAA Tournament,NCAA Tournament Final 4,W,83,66,,https:///dadgumboxscores.com/boxes/2016/unc-83-cuse-66
+2015-16,27-Mar-16,Notre Dame,neutral,NCAA Tournament,NCAA Tournament Elite 8,W,88,74,,https:///dadgumboxscores.com/boxes/2016/unc-88-nd-74
+2015-16,25-Mar-16,Indiana,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,101,86,,https:///dadgumboxscores.com/boxes/2016/unc-101-iu-86
+2015-16,19-Mar-16,Providence,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,85,66,,https:///dadgumboxscores.com/boxes/2016/unc-85-providence-66
+2015-16,17-Mar-16,Florida Gulf-Coast,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,83,67,,https:///dadgumboxscores.com/boxes/2016/unc-83-fgcu-67
+2015-16,12-Mar-16,UVA,neutral,ACC Tournament,ACC Tournament Championship,W,61,57,,https:///dadgumboxscores.com/boxes/2016/unc-61-uva-57
+2015-16,11-Mar-16,Notre Dame,neutral,ACC Tournament,ACC Tournament Semifinal,W,78,47,,https:///dadgumboxscores.com/boxes/2016/unc-78-nd-47
+2015-16,10-Mar-16,Pittsburgh,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,88,71,,https:///dadgumboxscores.com/boxes/2016/unc-88-pitt-71
+2015-16,5-Mar-16,Duke,away,League,League,W,76,72,,https:///dadgumboxscores.com/boxes/2016/unc-76-duke-72
+2015-16,29-Feb-16,Syracuse,home,League,League,W,75,70,,https:///dadgumboxscores.com/boxes/2016/unc-75-cuse-70
+2015-16,27-Feb-16,UVA,away,League,League,L,74,79,,https:///dadgumboxscores.com/boxes/2016/uva-79-unc-74
+2015-16,24-Feb-16,NC State,away,League,League,W,80,68,,https:///dadgumboxscores.com/boxes/2016/unc-80-state-68
+2015-16,20-Feb-16,Miami,home,League,League,W,96,71,,https:///dadgumboxscores.com/boxes/2016/unc-96-miami-71
+2015-16,17-Feb-16,Duke,home,League,League,L,73,74,,https:///dadgumboxscores.com/boxes/2016/duke-74-unc-73
+2015-16,14-Feb-16,Pittsburgh,home,League,League,W,85,64,,https:///dadgumboxscores.com/boxes/2016/unc-85-pitt-64
+2015-16,9-Feb-16,Boston College,away,League,League,W,68,65,,https:///dadgumboxscores.com/boxes/2016/unc-68-bc-65
+2015-16,6-Feb-16,Notre Dame,away,League,League,L,76,80,,https:///dadgumboxscores.com/boxes/2016/nd-80-unc-76
+2015-16,1-Feb-16,Louisville,away,League,League,L,65,71,,https:///dadgumboxscores.com/boxes/2016/lville-71-unc-65
+2015-16,30-Jan-16,Boston College,home,League,League,W,89,62,,https:///dadgumboxscores.com/boxes/2016/unc-89-bc-62
+2015-16,24-Jan-16,Virginia Tech,away,League,League,W,75,70,,https:///dadgumboxscores.com/boxes/2016/unc-75-vt-70
+2015-16,20-Jan-16,Wake Forest,home,League,League,W,83,68,,https:///dadgumboxscores.com/boxes/2016/unc-83-wake-68
+2015-16,16-Jan-16,NC State,home,League,League,W,67,55,,https:///dadgumboxscores.com/boxes/2016/unc-67-state-55
+2015-16,9-Jan-16,Syracuse,away,League,League,W,84,73,,https:///dadgumboxscores.com/boxes/2016/unc-84-cuse-73
+2015-16,4-Jan-16,Florida State,away,League,League,W,106,90,,https:///dadgumboxscores.com/boxes/2016/unc-106-fsu-90
+2015-16,2-Jan-16,Georgia Tech,home,League,League,W,86,68,,https:///dadgumboxscores.com/boxes/2016/unc-86-gt-78
+2015-16,30-Dec-15,Clemson,home,League,League,W,80,69,,https:///dadgumboxscores.com/boxes/2016/unc-80-clem-69
+2015-16,28-Dec-15,UNC-G,home,Non-Conference,Non-Conference,W,96,63,,https:///dadgumboxscores.com/boxes/2016/unc-96-uncg-63
+2015-16,21-Dec-15,Appalachian State,home,Non-Conference,Non-Conference,W,94,70,,https:///dadgumboxscores.com/boxes/2016/unc-94-app-70
+2015-16,19-Dec-15,UCLA,neutral,Non-Conference,Non-Conference,W,89,76,,https:///dadgumboxscores.com/boxes/2016/unc-89-ucla-76
+2015-16,16-Dec-15,Tulane,home,Non-Conference,Non-Conference,W,96,72,,https:///dadgumboxscores.com/boxes/2016/unc-96-tulane-72
+2015-16,12-Dec-15,Texas,away,Non-Conference,Non-Conference,L,82,84,,https:///dadgumboxscores.com/boxes/2016/texas-84-unc-82
+2015-16,6-Dec-15,Davidson,home,Non-Conference,Non-Conference,W,98,65,,https:///dadgumboxscores.com/boxes/2016/unc-98-davidson-65
+2015-16,1-Dec-15,Maryland,home,Non-Conference,Non-Conference (Big Ten Challenge),W,89,81,,https:///dadgumboxscores.com/boxes/2016/unc-89-maryland-81
+2015-16,24-Nov-15,Kansas State,neutral,Non-Conference,Non-Conference (CBE Hall of Fame),W,80,70,,https:///dadgumboxscores.com/boxes/2016/unc-80-kstate-70
+2015-16,23-Nov-15,Northwestern,neutral,Non-Conference,Non-Conference (CBE Hall of Fame),W,80,69,,https:///dadgumboxscores.com/boxes/2016/unc-80-nw-69
+2015-16,21-Nov-15,Northern Iowa,away,Non-Conference,Non-Conference,L,67,71,,https:///dadgumboxscores.com/boxes/2016/uni-71-unc-67
+2015-16,18-Nov-15,Wofford,home,Non-Conference,Non-Conference,W,78,58,,https:///dadgumboxscores.com/boxes/2016/unc-78-woff-58
+2015-16,15-Nov-15,Fairfield,home,Non-Conference,Non-Conference,W,92,65,,https:///dadgumboxscores.com/boxes/2016/unc-92-fairfield-65
+2015-16,13-Nov-15,Temple,neutral,Non-Conference,Non-Conference (Veterans Classic),W,91,67,,https:///dadgumboxscores.com/boxes/2016/unc-91-temple-67
+2014-15,26-Mar-15,Wisconsin,neutral,NCAA Tournament,NCAA Tournament Sweet 16,L,72,79,,https:///dadgumboxscores.com/boxes/2015/wisco-79-unc-72
+2014-15,21-Mar-15,Arkansas,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,87,78,,https:///dadgumboxscores.com/boxes/2015/unc-87-ark-78
+2014-15,19-Mar-15,Harvard,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,67,65,,https:///dadgumboxscores.com/boxes/2015/unc-67-harvard-65
+2014-15,14-Mar-15,Notre Dame,neutral,ACC Tournament,ACC Tournament Championship,L,82,90,,https:///dadgumboxscores.com/boxes/2015/nd-90-unc-82
+2014-15,13-Mar-15,UVA,neutral,ACC Tournament,ACC Tournament Semifinal,W,71,67,,https:///dadgumboxscores.com/boxes/2015/unc-71-uva-67
+2014-15,12-Mar-15,Louisville,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,70,60,,https:///dadgumboxscores.com/boxes/2015/unc-70-lville-60
+2014-15,11-Mar-15,Boston College,neutral,ACC Tournament,ACC Tournament 2nd Round,W,81,63,,https:///dadgumboxscores.com/boxes/2015/unc-81-bc-63
+2014-15,7-Mar-15,Duke,home,League,League,L,77,84,,https:///dadgumboxscores.com/boxes/2015/duke-84-unc-77
+2014-15,3-Mar-15,Georgia Tech,away,League,League,W,81,49,,https:///dadgumboxscores.com/boxes/2015/unc-81-gt-49
+2014-15,28-Feb-15,Miami,away,League,League,W,73,64,,https:///dadgumboxscores.com/boxes/2015/unc-73-miami-64
+2014-15,24-Feb-15,NC State,home,League,League,L,46,58,,https:///dadgumboxscores.com/boxes/2015/state-58-unc-46
+2014-15,21-Feb-15,Georgia Tech,home,League,League,W,89,60,,https:///dadgumboxscores.com/boxes/2015/unc-89-gt-60
+2014-15,18-Feb-15,Duke,away,League,League,L,90,92,OT,https:///dadgumboxscores.com/boxes/2015/duke-92-unc-90
+2014-15,14-Feb-15,Pittsburgh,away,League,League,L,76,89,,https:///dadgumboxscores.com/boxes/2015/pitt-89-unc-76
+2014-15,7-Feb-15,Boston College,away,League,League,W,79,68,,https:///dadgumboxscores.com/boxes/2015/unc-79-bc-68
+2014-15,2-Feb-15,UVA,home,League,League,L,64,75,,https:///dadgumboxscores.com/boxes/2015/uva-75-unc-64
+2014-15,31-Jan-15,Louisville,away,League,League,L,68,78,,https:///dadgumboxscores.com/boxes/2015/lville-78-unc-68
+2014-15,26-Jan-15,Syracuse,home,League,League,W,93,83,,https:///dadgumboxscores.com/boxes/2015/unc-93-cuse-83
+2014-15,24-Jan-15,Florida State,home,League,League,W,78,74,,https:///dadgumboxscores.com/boxes/2015/unc-78-fsu-74
+2014-15,21-Jan-15,Wake Forest,away,League,League,W,87,71,,https:///dadgumboxscores.com/boxes/2015/unc-87-wake-71
+2014-15,18-Jan-15,Virginia Tech,home,League,League,W,68,53,,https:///dadgumboxscores.com/boxes/2015/unc-68-vt-63
+2014-15,14-Jan-15,NC State,away,League,League,W,81,79,,https:///dadgumboxscores.com/boxes/2015/unc-81-state-79
+2014-15,10-Jan-15,Louisville,home,League,League,W,72,71,,https:///dadgumboxscores.com/boxes/2015/unc-72-lville-71
+2014-15,5-Jan-15,Notre Dame,home,League,League,L,70,71,,https:///dadgumboxscores.com/boxes/2015/nd-71-unc-70
+2014-15,3-Jan-15,Clemson,away,League,League,W,74,50,,https:///dadgumboxscores.com/boxes/2015/unc-74-clem-50
+2014-15,30-Dec-14,William & Mary,home,Non-Conference,Non-Conference,W,86,64,,https:///dadgumboxscores.com/boxes/2015/unc-86-bill-and-mary-64
+2014-15,27-Dec-14,UAB,home,Non-Conference,Non-Conference,W,89,58,,https:///dadgumboxscores.com/boxes/2015/unc-89-uab-58
+2014-15,20-Dec-14,Ohio State,neutral,Non-Conference,Non-Conference,W,82,74,,https:///dadgumboxscores.com/boxes/2015/unc-82-osu-74
+2014-15,16-Dec-14,UNC-G,away,Non-Conference,Non-Conference,W,79,56,,https:///dadgumboxscores.com/boxes/2015/unc-79-uncg-56
+2014-15,13-Dec-14,Kentucky,away,Non-Conference,Non-Conference,L,70,84,,https:///dadgumboxscores.com/boxes/2015/kentucky-84-unc-70
+2014-15,7-Dec-14,East Carolina,home,Non-Conference,Non-Conference,W,108,64,,https:///dadgumboxscores.com/boxes/2015/unc-108-ecu-64
+2014-15,3-Dec-14,Iowa,home,Non-Conference,Non-Conference (Big Ten Challenge),L,55,60,,https:///dadgumboxscores.com/boxes/2015/iowa-60-unc-55
+2014-15,28-Nov-14,Florida,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),W,75,64,,https:///dadgumboxscores.com/boxes/2015/unc-75-fla-64
+2014-15,27-Nov-14,UCLA,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),W,78,56,,https:///dadgumboxscores.com/boxes/2015/unc-78-ucla-56
+2014-15,26-Nov-14,Butler,neutral,Non-Conference,Non-Conference (Battle 4 Atlantis),L,66,74,,https:///dadgumboxscores.com/boxes/2015/butler-74-unc-66
+2014-15,22-Nov-14,Davidson,neutral,Non-Conference,Non-Conference,W,90,72,,https:///dadgumboxscores.com/boxes/2015/unc-90-davidson-72
+2014-15,16-Nov-14,Robert Morris,home,Non-Conference,Non-Conference,W,103,59,,https:///dadgumboxscores.com/boxes/2015/unc-103-rm-59
+2014-15,14-Nov-14,NC Central,home,Non-Conference,Non-Conference,W,76,60,,https:///dadgumboxscores.com/boxes/2015/unc-76-nccu-60
+2013-14,23-Mar-14,Iowa State,neutral,NCAA Tournament,NCAA Tournament 2nd Round,L,83,85,,https:///dadgumboxscores.com/boxes/2014/isu-85-unc-83
+2013-14,21-Mar-14,Providence,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,79,77,,https:///dadgumboxscores.com/boxes/2014/unc-79-prov-77
+2013-14,14-Mar-14,Pittsburgh,neutral,ACC Tournament,ACC Tournament Quarterfinal,L,75,80,,https:///dadgumboxscores.com/boxes/2014/pitt-80-unc-75
+2013-14,8-Mar-14,Duke,away,League,League,L,81,93,,https:///dadgumboxscores.com/boxes/2014/duke-93-unc-81
+2013-14,3-Mar-14,Notre Dame,home,League,League,W,63,61,,https:///dadgumboxscores.com/boxes/2014/unc-63-nd-61
+2013-14,1-Mar-14,Virginia Tech,away,League,League,W,60,56,,https:///dadgumboxscores.com/boxes/2014/unc-60-vt-56
+2013-14,26-Feb-14,NC State,away,League,League,W,85,84,OT,https:///dadgumboxscores.com/boxes/2014/unc-85-state-84
+2013-14,22-Feb-14,Wake Forest,home,League,League,W,105,72,,https:///dadgumboxscores.com/boxes/2014/unc-105-wake-72
+2013-14,20-Feb-14,Duke,home,League,League,W,74,66,,https:///dadgumboxscores.com/boxes/2014/unc-74-duke-66
+2013-14,17-Feb-14,Florida State,away,League,League,W,81,75,,https:///dadgumboxscores.com/boxes/2014/unc-81-fsu-75
+2013-14,15-Feb-14,Pittsburgh,home,League,League,W,75,71,,https:///dadgumboxscores.com/boxes/2014/unc-75-pitt-71
+2013-14,8-Feb-14,Notre Dame,away,League,League,W,73,62,,https:///dadgumboxscores.com/boxes/2014/unc-73-nd-62
+2013-14,4-Feb-14,Maryland,home,League,League,W,75,63,,https:///dadgumboxscores.com/boxes/2014/unc-75-maryland-63
+2013-14,1-Feb-14,NC State,home,League,League,W,84,70,,https:///dadgumboxscores.com/boxes/2014/unc-84-state-70
+2013-14,29-Jan-14,Georgia Tech,away,League,League,W,78,65,,https:///dadgumboxscores.com/boxes/2014/unc-78-gt-65
+2013-14,26-Jan-14,Clemson,home,League,League,W,80,61,,https:///dadgumboxscores.com/boxes/2014/unc-80-clem-61
+2013-14,20-Jan-14,UVA,away,League,League,L,61,76,,https:///dadgumboxscores.com/boxes/2014/uva-76-unc-61
+2013-14,18-Jan-14,Boston College,home,League,League,W,82,71,,https:///dadgumboxscores.com/boxes/2014/unc-82-bc-71
+2013-14,11-Jan-14,Syracuse,away,League,League,L,45,57,,https:///dadgumboxscores.com/boxes/2014/cuse-57-unc-45
+2013-14,8-Jan-14,Miami,home,League,League,L,57,63,,https:///dadgumboxscores.com/boxes/2014/miami-63-unc-57
+2013-14,5-Jan-14,Wake Forest,away,League,League,L,67,73,,https:///dadgumboxscores.com/boxes/2014/wake-73-unc-67
+2013-14,31-Dec-13,UNC-Wilmington,home,Non-Conference,Non-Conference,W,84,51,,https:///dadgumboxscores.com/boxes/2014/unc-84-uncw-51
+2013-14,27-Dec-13,NKU,home,Non-Conference,Non-Conference,W,75,60,,https:///dadgumboxscores.com/boxes/2014/unc-75-nk-60
+2013-14,21-Dec-13,Davidson,home,Non-Conference,Non-Conference,W,87,85,OT,https:///dadgumboxscores.com/boxes/2014/unc-87-davidson-85
+2013-14,18-Dec-13,Texas,home,Non-Conference,Non-Conference,L,83,86,,https:///dadgumboxscores.com/boxes/2014/texas-86-unc-83
+2013-14,14-Dec-13,Kentucky,home,Non-Conference,Non-Conference,W,82,77,,https:///dadgumboxscores.com/boxes/2014/unc-82-kentucky-77
+2013-14,7-Dec-13,UNC-G,home,Non-Conference,Non-Conference,W,81,50,,https:///dadgumboxscores.com/boxes/2014/unc-81-uncg-50
+2013-14,4-Dec-13,Michigan State,away,Non-Conference,Non-Conference,W,79,65,,https:///dadgumboxscores.com/boxes/2014/unc-79-msu-65
+2013-14,1-Dec-13,UAB,away,Non-Conference,Non-Conference,L,59,63,,https:///dadgumboxscores.com/boxes/2014/uab-63-unc-59
+2013-14,24-Nov-13,Louisville,neutral,Non-Conference,Non-Conference (Hall of Fame Tipoff),W,93,84,,https:///dadgumboxscores.com/boxes/2014/unc-93-lville-84
+2013-14,23-Nov-13,Richmond,neutral,Non-Conference,Non-Conference (Hall of Fame Tipoff),W,82,72,,https:///dadgumboxscores.com/boxes/2014/unc-82-richmond-72
+2013-14,17-Nov-13,Belmont,home,Non-Conference,Non-Conference (Hall of Fame Tipoff),L,80,83,,https:///dadgumboxscores.com/boxes/2014/belmont-83-unc-80
+2013-14,15-Nov-13,Holy Cross,home,Non-Conference,Non-Conference (Hall of Fame Tipoff),W,62,54,,https:///dadgumboxscores.com/boxes/2014/unc-62-hc-54
+2013-14,8-Nov-13,Oakland,home,Non-Conference,Non-Conference,W,84,61,,https:///dadgumboxscores.com/boxes/2014/unc-84-oak-61
+2012-13,24-Mar-13,Kansas,neutral,NCAA Tournament,NCAA Tournament 2nd Round,L,58,70,,https:///dadgumboxscores.com/boxes/2013/kansas-70-unc-58
+2012-13,22-Mar-13,Villanova,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,78,71,,https:///dadgumboxscores.com/boxes/2013/unc-78-nova-71
+2012-13,17-Mar-13,Miami,neutral,ACC Tournament,ACC Tournament Championship,L,77,87,,https:///dadgumboxscores.com/boxes/2013/miami-87-unc-77
+2012-13,16-Mar-13,Maryland,neutral,ACC Tournament,ACC Tournament Semifinal,W,79,76,,https:///dadgumboxscores.com/boxes/2013/unc-79-maryland-76
+2012-13,15-Mar-13,Florida State,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,83,62,,https:///dadgumboxscores.com/boxes/2013/unc-83-fsu-62
+2012-13,9-Mar-13,Duke,home,League,League,L,53,69,,https:///dadgumboxscores.com/boxes/2013/duke-69-unc-53
+2012-13,6-Mar-13,Maryland,away,League,League,W,79,68,,https:///dadgumboxscores.com/boxes/2013/unc-79-maryland-68
+2012-13,3-Mar-13,Florida State,home,League,League,W,79,58,,https:///dadgumboxscores.com/boxes/2013/unc-79-fsu-58
+2012-13,28-Feb-13,Clemson,away,League,League,W,68,59,,https:///dadgumboxscores.com/boxes/2013/unc-68-clem-59
+2012-13,23-Feb-13,NC State,home,League,League,W,76,65,,https:///dadgumboxscores.com/boxes/2013/unc-76-state-65
+2012-13,19-Feb-13,Georgia Tech,away,League,League,W,70,58,,https:///dadgumboxscores.com/boxes/2013/unc-70-gt-58
+2012-13,16-Feb-13,UVA,home,League,League,W,93,81,,https:///dadgumboxscores.com/boxes/2013/unc-93-uva-81
+2012-13,13-Feb-13,Duke,away,League,League,L,68,73,,https:///dadgumboxscores.com/boxes/2013/duke-73-unc-68
+2012-13,9-Feb-13,Miami,away,League,League,L,61,87,,https:///dadgumboxscores.com/boxes/2013/miami-87-unc-61
+2012-13,5-Feb-13,Wake Forest,home,League,League,W,87,62,,https:///dadgumboxscores.com/boxes/2013/unc-87-wake-62
+2012-13,2-Feb-13,Virginia Tech,home,League,League,W,72,60,OT,https:///dadgumboxscores.com/boxes/2013/unc-72-vt-60
+2012-13,29-Jan-13,Boston College,away,League,League,W,82,70,,https:///dadgumboxscores.com/boxes/2013/unc-82-bc-70
+2012-13,26-Jan-13,NC State,away,League,League,L,83,91,,https:///dadgumboxscores.com/boxes/2013/state-91-unc-83
+2012-13,23-Jan-13,Georgia Tech,home,League,League,W,79,63,,https:///dadgumboxscores.com/boxes/2013/unc-79-gt-63
+2012-13,19-Jan-13,Maryland,home,League,League,W,62,52,,https:///dadgumboxscores.com/boxes/2013/unc-62-maryland-52
+2012-13,12-Jan-13,Florida State,away,League,League,W,77,72,,https:///dadgumboxscores.com/boxes/2013/unc-77-fsu-72
+2012-13,10-Jan-13,Miami,home,League,League,L,59,68,,https:///dadgumboxscores.com/boxes/2013/miami-68-unc-59
+2012-13,6-Jan-13,UVA,away,League,League,L,52,61,,https:///dadgumboxscores.com/boxes/2013/uva-61-unc-52
+2012-13,29-Dec-12,UNLV,home,Non-Conference,Non-Conference,W,79,73,,https:///dadgumboxscores.com/boxes/2013/unc-79-unlv-73
+2012-13,22-Dec-12,McNeese State,home,Non-Conference,Non-Conference,W,97,63,,https:///dadgumboxscores.com/boxes/2013/unc-97-mcst-63
+2012-13,19-Dec-12,Texas,away,Non-Conference,Non-Conference,L,67,85,,https:///dadgumboxscores.com/boxes/2013/texas-85-unc-67
+2012-13,15-Dec-12,East Carolina,home,Non-Conference,Non-Conference,W,93,87,,https:///dadgumboxscores.com/boxes/2013/unc-93-ecu-87
+2012-13,8-Dec-12,East Tenn. St.,home,Non-Conference,Non-Conference,W,78,55,,https:///dadgumboxscores.com/boxes/2013/unc-78-etsu-55
+2012-13,1-Dec-12,UAB,home,Non-Conference,Non-Conference,W,102,84,,https:///dadgumboxscores.com/boxes/2013/unc-102-uab-84
+2012-13,27-Nov-12,Indiana,away,Non-Conference,Non-Conference,L,59,83,,https:///dadgumboxscores.com/boxes/2013/ind-83-unc-59
+2012-13,21-Nov-12,Chaminade,neutral,Non-Conference,Non-Conference (Maui Invitational),W,112,70,,https:///dadgumboxscores.com/boxes/2013/unc-112-cham-70
+2012-13,20-Nov-12,Butler,neutral,Non-Conference,Non-Conference (Maui Invitational),L,71,82,,https:///dadgumboxscores.com/boxes/2013/butler-82-unc-71
+2012-13,19-Nov-12,Mississippi State,neutral,Non-Conference,Non-Conference (Maui Invitational),W,95,49,,https:///dadgumboxscores.com/boxes/2013/unc-95-ms-49
+2012-13,16-Nov-12,Long Beach State,away,Non-Conference,Non-Conference,W,78,63,,https:///dadgumboxscores.com/boxes/2013/unc-78-lbsu-63
+2012-13,11-Nov-12,Florida Atlantic,home,Non-Conference,Non-Conference,W,70,56,,https:///dadgumboxscores.com/boxes/2013/unc-70-fau-56
+2012-13,9-Nov-12,Gardner Webb,home,Non-Conference,Non-Conference,W,76,59,,https:///dadgumboxscores.com/boxes/2013/unc-76-gw-59
+2011-12,25-Mar-12,Kansas,neutral,NCAA Tournament,NCAA Tournament Elite 8,L,67,80,,https:///dadgumboxscores.com/boxes/2012/kansas-80-unc-67
+2011-12,23-Mar-12,Ohio,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,73,65,,https:///dadgumboxscores.com/boxes/2012/unc-73-ohio-65
+2011-12,18-Mar-12,Creighton,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,87,73,,https:///dadgumboxscores.com/boxes/2012/unc-87-creighton-73
+2011-12,16-Mar-12,Vermont,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,77,58,,https:///dadgumboxscores.com/boxes/2012/unc-77-vermont-58
+2011-12,11-Mar-12,Florida State,neutral,ACC Tournament,ACC Tournament Championship,L,82,85,,https:///dadgumboxscores.com/boxes/2012/fsu-85-unc-82
+2011-12,10-Mar-12,NC State,neutral,ACC Tournament,ACC Tournament Semifinal,W,69,67,,https:///dadgumboxscores.com/boxes/2012/unc-69-state-67
+2011-12,9-Mar-12,Maryland,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,85,69,,https:///dadgumboxscores.com/boxes/2012/unc-85-maryland-69
+2011-12,3-Mar-12,Duke,away,League,League,W,88,70,,https:///dadgumboxscores.com/boxes/2012/unc-88-duke-70
+2011-12,29-Feb-12,Maryland,home,League,League,W,88,64,,https:///dadgumboxscores.com/boxes/2012/unc-88-maryland-64
+2011-12,25-Feb-12,UVA,away,League,League,W,54,51,,https:///dadgumboxscores.com/boxes/2012/unc-54-uva-51
+2011-12,21-Feb-12,NC State,away,League,League,W,86,74,,https:///dadgumboxscores.com/boxes/2012/unc-86-state-74
+2011-12,18-Feb-12,Clemson,home,League,League,W,74,52,,https:///dadgumboxscores.com/boxes/2012/unc-74-clem-52
+2011-12,15-Feb-12,Miami,away,League,League,W,73,64,,https:///dadgumboxscores.com/boxes/2012/unc-73-miami-64
+2011-12,11-Feb-12,UVA,home,League,League,W,70,52,,https:///dadgumboxscores.com/boxes/2012/unc-70-uva-52
+2011-12,8-Feb-12,Duke,home,League,League,L,84,85,,https:///dadgumboxscores.com/boxes/2012/duke-85-unc-84
+2011-12,4-Feb-12,Maryland,away,League,League,W,83,74,,https:///dadgumboxscores.com/boxes/2012/unc-83-maryland-74
+2011-12,31-Jan-12,Wake Forest,away,League,League,W,68,53,,https:///dadgumboxscores.com/boxes/2012/unc-68-wake-53
+2011-12,29-Jan-12,Georgia Tech,home,League,League,W,93,81,,https:///dadgumboxscores.com/boxes/2012/unc-93-gt-81
+2011-12,26-Jan-12,NC State,home,League,League,W,74,55,,https:///dadgumboxscores.com/boxes/2012/unc-74-state-55
+2011-12,19-Jan-12,Virginia Tech,away,League,League,W,82,68,,https:///dadgumboxscores.com/boxes/2012/unc-82-vt-68
+2011-12,14-Jan-12,Florida State,away,League,League,L,57,90,,https:///dadgumboxscores.com/boxes/2012/fsu-90-unc-57
+2011-12,10-Jan-12,Miami,home,League,League,W,73,56,,https:///dadgumboxscores.com/boxes/2012/unc-73-miami-56
+2011-12,7-Jan-12,Boston College,home,League,League,W,83,60,,https:///dadgumboxscores.com/boxes/2012/unc-83-bc-60
+2011-12,1-Jan-12,Monmouth,home,Non-Conference,Non-Conference,W,102,65,,https:///dadgumboxscores.com/boxes/2012/unc-102-monmouth-65
+2011-12,29-Dec-11,Elon,home,Non-Conference,Non-Conference,W,100,62,,https:///dadgumboxscores.com/boxes/2012/unc-100-elon-62
+2011-12,21-Dec-11,Texas,home,Non-Conference,Non-Conference,W,82,63,,https:///dadgumboxscores.com/boxes/2012/unc-82-texas-63
+2011-12,19-Dec-11,Nicholls State,home,Non-Conference,Non-Conference,W,99,49,,https:///dadgumboxscores.com/boxes/2012/unc-99-ns-49
+2011-12,17-Dec-11,Appalachian State,home,Non-Conference,Non-Conference,W,97,82,,https:///dadgumboxscores.com/boxes/2012/unc-97-app-state-82
+2011-12,10-Dec-11,Long Beach State,home,Non-Conference,Non-Conference,W,84,78,,https:///dadgumboxscores.com/boxes/2012/unc-84-lbsu-78
+2011-12,6-Dec-11,Evansville,home,Non-Conference,Non-Conference,W,97,48,,https:///dadgumboxscores.com/boxes/2012/unc-97-eville-48
+2011-12,3-Dec-11,Kentucky,away,Non-Conference,Non-Conference,L,72,73,,https:///dadgumboxscores.com/boxes/2012/kentucky-73-unc-72
+2011-12,30-Nov-11,Wisconsin,home,Non-Conference,Non-Conference (Big Ten Challenge),W,60,57,,https:///dadgumboxscores.com/boxes/2012/unc-60-wisco-57
+2011-12,26-Nov-11,UNLV,away,Non-Conference,Non-Conference (Las Vegas Invitational),L,80,90,,https:///dadgumboxscores.com/boxes/2012/unlv-90-unc-80
+2011-12,25-Nov-11,South Carolina,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),W,87,62,,https:///dadgumboxscores.com/boxes/2012/unc-87-usc-62
+2011-12,22-Nov-11,Tennessee State,home,Non-Conference,Non-Conference,W,102,69,,https:///dadgumboxscores.com/boxes/2012/unc-102-tenn-state-69
+2011-12,20-Nov-11,Mississippi Valley St.,home,Non-Conference,Non-Conference,W,101,75,,https:///dadgumboxscores.com/boxes/2012/unc-101-mvs-75
+2011-12,13-Nov-11,Asheville,away,Non-Conference,Non-Conference,W,91,75,,https:///dadgumboxscores.com/boxes/2012/unc-91-unca-75
+2011-12,11-Nov-11,Michigan State,neutral,Non-Conference,Non-Conference (Carrier Classic),W,67,55,,https:///dadgumboxscores.com/boxes/2012/unc-67-msu-55
+2010-11,27-Mar-11,Kentucky,neutral,NCAA Tournament,NCAA Tournament Elite 8,L,69,76,,https:///dadgumboxscores.com/boxes/2011/kentucky-76-unc-69
+2010-11,25-Mar-11,Marquette,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,81,63,,https:///dadgumboxscores.com/boxes/2011/unc-81-marq-63
+2010-11,20-Mar-11,Washington,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,86,83,,https:///dadgumboxscores.com/boxes/2011/unc-86-wash-83
+2010-11,18-Mar-11,LIU,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,102,87,,https:///dadgumboxscores.com/boxes/2011/unc-102-liu-87
+2010-11,13-Mar-11,Duke,neutral,ACC Tournament,ACC Tournament Championship,L,58,75,,https:///dadgumboxscores.com/boxes/2011/duke-75-unc-58
+2010-11,12-Mar-11,Clemson,neutral,ACC Tournament,ACC Tournament Semifinal,W,92,87,OT,https:///dadgumboxscores.com/boxes/2011/unc-92-clem-87
+2010-11,11-Mar-11,Miami,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,61,59,,https:///dadgumboxscores.com/boxes/2011/unc-61-miami-59
+2010-11,5-Mar-11,Duke,home,League,League,W,81,67,,https:///dadgumboxscores.com/boxes/2011/unc-81-duke-67
+2010-11,2-Mar-11,Florida State,away,League,League,W,72,70,,https:///dadgumboxscores.com/boxes/2011/unc-72-fsu-70
+2010-11,27-Feb-11,Maryland,home,League,League,W,87,76,,https:///dadgumboxscores.com/boxes/2011/unc-87-maryland-76
+2010-11,23-Feb-11,NC State,away,League,League,W,75,63,,https:///dadgumboxscores.com/boxes/2011/unc-75-state-63
+2010-11,19-Feb-11,Boston College,home,League,League,W,48,46,,https:///dadgumboxscores.com/boxes/2011/unc-48-bc-46
+2010-11,15-Feb-11,Wake Forest,home,League,League,W,78,64,,https:///dadgumboxscores.com/boxes/2011/unc-78-wake-64
+2010-11,12-Feb-11,Clemson,away,League,League,W,64,62,,https:///dadgumboxscores.com/boxes/2011/unc-64-clem-62
+2010-11,9-Feb-11,Duke,away,League,League,L,73,79,,https:///dadgumboxscores.com/boxes/2011/duke-79-unc-73
+2010-11,6-Feb-11,Florida State,home,League,League,W,89,69,,https:///dadgumboxscores.com/boxes/2011/unc-89-fsu-69
+2010-11,1-Feb-11,Boston College,away,League,League,W,106,74,,https:///dadgumboxscores.com/boxes/2011/unc-106-bc-74
+2010-11,29-Jan-11,NC State,home,League,League,W,84,64,,https:///dadgumboxscores.com/boxes/2011/unc-84-state-64
+2010-11,26-Jan-11,Miami,away,League,League,W,74,71,,https:///dadgumboxscores.com/boxes/2011/unc-74-miami-71
+2010-11,18-Jan-11,Clemson,home,League,League,W,75,65,,https:///dadgumboxscores.com/boxes/2011/unc-75-clem-65
+2010-11,16-Jan-11,Georgia Tech,away,League,League,L,58,78,,https:///dadgumboxscores.com/boxes/2011/gt-78-unc-58
+2010-11,13-Jan-11,Virginia Tech,home,League,League,W,64,61,,https:///dadgumboxscores.com/boxes/2011/unc-64-vt-61
+2010-11,8-Jan-11,UVA,away,League,League,W,62,56,,https:///dadgumboxscores.com/boxes/2011/unc-62-uva-56
+2010-11,2-Jan-11,St. Francis PA,home,Non-Conference,Non-Conference,W,103,54,,https:///dadgumboxscores.com/boxes/2011/unc-103-sf-54
+2010-11,28-Dec-10,Rutgers,neutral,Non-Conference,Non-Conference,W,78,55,,https:///dadgumboxscores.com/boxes/2011/unc-78-rutgers-55
+2010-11,21-Dec-10,William & Mary,home,Non-Conference,Non-Conference,W,85,60,,https:///dadgumboxscores.com/boxes/2011/unc-85-bill-and-mary-60
+2010-11,18-Dec-10,Texas,neutral,Non-Conference,Non-Conference,L,76,78,,https:///dadgumboxscores.com/boxes/2011/texas-78-unc-76
+2010-11,11-Dec-10,Long Beach State,home,Non-Conference,Non-Conference,W,96,91,,https:///dadgumboxscores.com/boxes/2011/unc-96-lbsu-91
+2010-11,8-Dec-10,Evansville,away,Non-Conference,Non-Conference,W,76,49,,https:///dadgumboxscores.com/boxes/2011/unc-76-eville-49
+2010-11,4-Dec-10,Kentucky,home,Non-Conference,Non-Conference,W,75,73,,https:///dadgumboxscores.com/boxes/2011/unc-75-kentucky-73
+2010-11,30-Nov-10,Illinois,away,Non-Conference,Non-Conference (Big Ten Challenge),L,67,79,,https:///dadgumboxscores.com/boxes/2011/ill-79-unc-67
+2010-11,28-Nov-10,College of Charleston,home,Non-Conference,Non-Conference,W,74,69,,https:///dadgumboxscores.com/boxes/2011/unc-74-cofc-69
+2010-11,23-Nov-10,Asheville,home,Non-Conference,Non-Conference,W,80,69,,https:///dadgumboxscores.com/boxes/2011/unc-80-unca-69
+2010-11,21-Nov-10,Vanderbilt,neutral,Non-Conference,Non-Conference (Puerto Rico Tip-Off),L,65,72,,https:///dadgumboxscores.com/boxes/2011/vandy-72-unc-65
+2010-11,19-Nov-10,Minnesota,neutral,Non-Conference,Non-Conference (Puerto Rico Tip-Off),L,67,72,,https:///dadgumboxscores.com/boxes/2011/minn-72-unc-67
+2010-11,18-Nov-10,Hofstra,neutral,Non-Conference,Non-Conference (Puerto Rico Tip-Off),W,107,63,,https:///dadgumboxscores.com/boxes/2011/unc-107-hof-63
+2010-11,12-Nov-10,Lipscomb,home,Non-Conference,Non-Conference,W,80,66,,https:///dadgumboxscores.com/boxes/2011/unc-80-lip-66
+2009-10,1-Apr-10,Dayton,neutral,NIT,NIT Final,L,68,79,,https:///dadgumboxscores.com/boxes/2010/dayton-79-unc-68
+2009-10,30-Mar-10,Rhode Island,neutral,NIT,NIT Semifinal,W,68,67,OT,https:///dadgumboxscores.com/boxes/2010/unc-68-rhody-67
+2009-10,23-Mar-10,UAB,away,NIT,NIT 3rd Round,W,60,55,,https:///dadgumboxscores.com/boxes/2010/unc-60-uab-55
+2009-10,20-Mar-10,Mississippi State,away,NIT,NIT 2nd Round,W,76,74,,https:///dadgumboxscores.com/boxes/2010/unc-76-ms-74
+2009-10,16-Mar-10,William & Mary,home,NIT,NIT 1st Round,W,80,72,,https:///dadgumboxscores.com/boxes/2010/unc-80-bill-and-mary-72
+2009-10,11-Mar-10,Georgia Tech,neutral,ACC Tournament,ACC Tournament Quarterfinal,L,58,62,,https:///dadgumboxscores.com/boxes/2010/gt-62-unc-58
+2009-10,6-Mar-10,Duke,away,League,League,L,50,82,,https:///dadgumboxscores.com/boxes/2010/duke-82-unc-50
+2009-10,2-Mar-10,Miami,home,League,League,W,69,62,,https:///dadgumboxscores.com/boxes/2010/unc-69-miami-62
+2009-10,27-Feb-10,Wake Forest,away,League,League,W,77,68,,https:///dadgumboxscores.com/boxes/2010/unc-77-wake-68
+2009-10,24-Feb-10,Florida State,home,League,League,L,67,77,,https:///dadgumboxscores.com/boxes/2010/fsu-77-unc-67
+2009-10,20-Feb-10,Boston College,away,League,League,L,67,71,,https:///dadgumboxscores.com/boxes/2010/bc-71-unc-67
+2009-10,16-Feb-10,Georgia Tech,away,League,League,L,51,68,,https:///dadgumboxscores.com/boxes/2010/gt-68-unc-51
+2009-10,13-Feb-10,NC State,home,League,League,W,74,61,,https:///dadgumboxscores.com/boxes/2010/unc-74-state-61
+2009-10,10-Feb-10,Duke,home,League,League,L,54,64,,https:///dadgumboxscores.com/boxes/2010/duke-64-unc-54
+2009-10,7-Feb-10,Maryland,away,League,League,L,71,92,,https:///dadgumboxscores.com/boxes/2010/maryland-92-unc-71
+2009-10,4-Feb-10,Virginia Tech,away,League,League,L,70,74,,https:///dadgumboxscores.com/boxes/2010/vt-74-unc-70
+2009-10,31-Jan-10,UVA,home,League,League,L,60,75,,https:///dadgumboxscores.com/boxes/2010/uva-75-unc-60
+2009-10,26-Jan-10,NC State,away,League,League,W,77,63,,https:///dadgumboxscores.com/boxes/2010/unc-77-state-63
+2009-10,20-Jan-10,Wake Forest,home,League,League,L,69,82,,https:///dadgumboxscores.com/boxes/2010/wake-82-unc-69
+2009-10,16-Jan-10,Georgia Tech,home,League,League,L,71,73,,https:///dadgumboxscores.com/boxes/2010/gt-73-unc-71
+2009-10,13-Jan-10,Clemson,away,League,League,L,64,83,,https:///dadgumboxscores.com/boxes/2010/clem-83-unc-64
+2009-10,10-Jan-10,Virginia Tech,home,League,League,W,78,64,,https:///dadgumboxscores.com/boxes/2010/unc-78-vt-64
+2009-10,4-Jan-10,College of Charleston,away,Non-Conference,Non-Conference,L,79,82,OT,https:///dadgumboxscores.com/boxes/2010/cofc-82-unc-79
+2009-10,30-Dec-09,Albany,home,Non-Conference,Non-Conference,W,87,70,,https:///dadgumboxscores.com/boxes/2010/unc-87-albany-70
+2009-10,28-Dec-09,Rutgers,home,Non-Conference,Non-Conference,W,81,67,,https:///dadgumboxscores.com/boxes/2010/unc-81-rutgers-67
+2009-10,22-Dec-09,Marshall,home,Non-Conference,Non-Conference,W,98,61,,https:///dadgumboxscores.com/boxes/2010/unc-98-marshall-61
+2009-10,19-Dec-09,Texas,neutral,Non-Conference,Non-Conference,L,90,103,,https:///dadgumboxscores.com/boxes/2010/texas-103-unc-90
+2009-10,12-Dec-09,Presbyterian,home,Non-Conference,Non-Conference,W,103,64,,https:///dadgumboxscores.com/boxes/2010/unc-103-pres-64
+2009-10,5-Dec-09,Kentucky,away,Non-Conference,Non-Conference,L,66,68,,https:///dadgumboxscores.com/boxes/2010/kentucky-68-unc-66
+2009-10,1-Dec-09,Michigan State,home,Non-Conference,Non-Conference (Big Ten Challenge),W,89,82,,https:///dadgumboxscores.com/boxes/2010/unc-89-msu-82
+2009-10,29-Nov-09,Nevada,home,Non-Conference,Non-Conference,W,80,73,,https:///dadgumboxscores.com/boxes/2010/unc-80-nv-73
+2009-10,23-Nov-09,Gardner Webb,home,Non-Conference,Non-Conference,W,93,72,,https:///dadgumboxscores.com/boxes/2010/unc-93-gw-72
+2009-10,20-Nov-09,Syracuse,neutral,Non-Conference,Non-Conference (2K Sports Classic),L,71,87,,https:///dadgumboxscores.com/boxes/2010/cuse-87-unc-71
+2009-10,19-Nov-09,Ohio State,neutral,Non-Conference,Non-Conference (2K Sports Classic),W,77,73,,https:///dadgumboxscores.com/boxes/2010/unc-77-osu-73
+2009-10,15-Nov-09,Valparaiso,home,Non-Conference,Non-Conference,W,88,77,,https:///dadgumboxscores.com/boxes/2010/unc-88-valpo-77
+2009-10,11-Nov-09,NC Central,home,Non-Conference,Non-Conference,W,89,42,,https:///dadgumboxscores.com/boxes/2010/unc-89-nccu-42
+2009-10,9-Nov-09,FIU,home,Non-Conference,Non-Conference,W,88,72,,https:///dadgumboxscores.com/boxes/2010/unc-88-fiu-72
+2008-09,6-Apr-09,Michigan State,neutral,NCAA Tournament,NCAA Tournament Championship,W,89,72,,https:///dadgumboxscores.com/boxes/2009/unc-89-msu-72
+2008-09,4-Apr-09,Villanova,neutral,NCAA Tournament,NCAA Tournament Final 4,W,83,69,,https:///dadgumboxscores.com/boxes/2009/unc-83-nova-69
+2008-09,29-Mar-09,Oklahoma,neutral,NCAA Tournament,NCAA Tournament Elite 8,W,72,60,,https:///dadgumboxscores.com/boxes/2009/unc-72-ok-60
+2008-09,27-Mar-09,Gonzaga,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,98,77,,https:///dadgumboxscores.com/boxes/2009/unc-98-zaga-77
+2008-09,21-Mar-09,LSU,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,84,70,,https:///dadgumboxscores.com/boxes/2009/unc-84-lsu-70
+2008-09,19-Mar-09,Radford,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,101,58,,https:///dadgumboxscores.com/boxes/2009/unc-101-radford-58
+2008-09,14-Mar-09,Florida State,neutral,ACC Tournament,ACC Tournament Semifinal,L,70,73,,https:///dadgumboxscores.com/boxes/2009/fsu-73-unc-70
+2008-09,13-Mar-09,Virginia Tech,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,79,76,,https:///dadgumboxscores.com/boxes/2009/unc-79-vt-76
+2008-09,8-Mar-09,Duke,home,League,League,W,79,71,,https:///dadgumboxscores.com/boxes/2009/unc-79-duke-71
+2008-09,4-Mar-09,Virginia Tech,away,League,League,W,86,78,,https:///dadgumboxscores.com/boxes/2009/unc-86-vt-78
+2008-09,28-Feb-09,Georgia Tech,home,League,League,W,104,74,,https:///dadgumboxscores.com/boxes/2009/unc-104-gt-74
+2008-09,21-Feb-09,Maryland,away,League,League,L,85,88,OT,https:///dadgumboxscores.com/boxes/2009/maryland-88-unc-85
+2008-09,18-Feb-09,NC State,home,League,League,W,89,80,,https:///dadgumboxscores.com/boxes/2009/unc-89-state-80
+2008-09,15-Feb-09,Miami,away,League,League,W,69,65,,https:///dadgumboxscores.com/boxes/2009/unc-69-miami-65
+2008-09,11-Feb-09,Duke,away,League,League,W,101,87,,https:///dadgumboxscores.com/boxes/2009/unc-101-duke-87
+2008-09,7-Feb-09,UVA,home,League,League,W,76,61,,https:///dadgumboxscores.com/boxes/2009/unc-76-uva-61
+2008-09,3-Feb-09,Maryland,home,League,League,W,108,91,,https:///dadgumboxscores.com/boxes/2009/unc-108-maryland-91
+2008-09,31-Jan-09,NC State,away,League,League,W,93,76,,https:///dadgumboxscores.com/boxes/2009/unc-93-state-76/
+2008-09,28-Jan-09,Florida State,away,League,League,W,80,77,,https:///dadgumboxscores.com/boxes/2009/unc-80-fsu-77
+2008-09,21-Jan-09,Clemson,home,League,League,W,94,70,,https:///dadgumboxscores.com/boxes/2009/unc-94-clem-70
+2008-09,17-Jan-09,Miami,home,League,League,W,82,65,,https:///dadgumboxscores.com/boxes/2009/unc-82-miami-65
+2008-09,15-Jan-09,UVA,away,League,League,W,83,61,,https:///dadgumboxscores.com/boxes/2009/unc-83-uva-61
+2008-09,11-Jan-09,Wake Forest,away,League,League,L,89,92,,https:///dadgumboxscores.com/boxes/2009/wake-92-unc-89
+2008-09,7-Jan-09,College of Charleston,home,Non-Conference,Non-Conference,W,108,70,,https:///dadgumboxscores.com/boxes/2009/unc-108-cofc-70
+2008-09,4-Jan-09,Boston College,home,League,League,L,78,85,,https:///dadgumboxscores.com/boxes/2009/bc-85-unc-78
+2008-09,31-Dec-08,Nevada,away,Non-Conference,Non-Conference,W,84,61,,https:///dadgumboxscores.com/boxes/2009/unc-84-nv-61
+2008-09,28-Dec-08,Rutgers,home,Non-Conference,Non-Conference,W,97,75,,https:///dadgumboxscores.com/boxes/2009/unc-97-rutgers-75
+2008-09,20-Dec-08,Valparaiso,neutral,Non-Conference,Non-Conference,W,85,63,,https:///dadgumboxscores.com/boxes/2009/unc-85-valpo-63
+2008-09,18-Dec-08,Evansville,home,Non-Conference,Non-Conference,W,91,73,,https:///dadgumboxscores.com/boxes/2009/unc-91-eville-73
+2008-09,13-Dec-08,Oral Roberts,home,Non-Conference,Non-Conference,W,100,84,,https:///dadgumboxscores.com/boxes/2009/unc-100-or-84
+2008-09,3-Dec-08,Michigan State,neutral,Non-Conference,Non-Conference,W,98,63,,https:///dadgumboxscores.com/boxes/2009/unc-98-msu-63
+2008-09,30-Nov-08,Asheville,home,Non-Conference,Non-Conference,W,116,48,,https:///dadgumboxscores.com/boxes/2009/unc-116-unca-48
+2008-09,26-Nov-08,Notre Dame,neutral,Non-Conference,Non-Conference (Maui Invitational),W,102,87,,https:///dadgumboxscores.com/boxes/2009/unc-102-nd-87
+2008-09,25-Nov-08,Oregon,neutral,Non-Conference,Non-Conference (Maui Invitational),W,98,69,,https:///dadgumboxscores.com/boxes/2009/unc-98-oregon-69
+2008-09,24-Nov-08,Chaminade,neutral,Non-Conference,Non-Conference (Maui Invitational),W,115,70,,https:///dadgumboxscores.com/boxes/2009/unc-115-cham-70
+2008-09,21-Nov-08,UC Santa Barbara,away,Non-Conference,Non-Conference,W,84,67,,https:///dadgumboxscores.com/boxes/2009/unc-84-ucsb-67
+2008-09,18-Nov-08,Kentucky,home,Non-Conference,Non-Conference,W,77,58,,https:///dadgumboxscores.com/boxes/2009/unc-77-kentucky-58
+2008-09,15-Nov-08,Penn,home,Non-Conference,Non-Conference,W,86,71,,https:///dadgumboxscores.com/boxes/2009/unc-86-penn-71
+2007-08,5-Apr-08,Kansas,neutral,NCAA Tournament,NCAA Tournament Final 4,L,66,84,,https:///dadgumboxscores.com/boxes/2008/kansas-84-unc-66
+2007-08,29-Mar-08,Louisville,neutral,NCAA Tournament,NCAA Tournament Elite 8,W,83,73,,https:///dadgumboxscores.com/boxes/2008/unc-83-lville-73
+2007-08,27-Mar-08,Washington State,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,68,47,,https:///dadgumboxscores.com/boxes/2008/unc-68-wsu-47
+2007-08,23-Mar-08,Arkansas,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,108,77,,https:///dadgumboxscores.com/boxes/2008/unc-108-arkansas-77
+2007-08,21-Mar-08,Mount St. Mary's,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,113,74,,https:///dadgumboxscores.com/boxes/2008/unc-113-msm-74
+2007-08,16-Mar-08,Clemson,neutral,ACC Tournament,ACC Tournament Championship,W,86,81,,https:///dadgumboxscores.com/boxes/2008/unc-86-clem-81
+2007-08,15-Mar-08,Virginia Tech,neutral,ACC Tournament,ACC Tournament Semifinal,W,68,66,,https:///dadgumboxscores.com/boxes/2008/unc-68-vt-66
+2007-08,14-Mar-08,Florida State,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,82,70,,https:///dadgumboxscores.com/boxes/2008/unc-82-fsu-70
+2007-08,8-Mar-08,Duke,away,League,League,W,76,68,,https:///dadgumboxscores.com/boxes/2008/unc-76-duke-68
+2007-08,4-Mar-08,Florida State,home,League,League,W,90,77,,https:///dadgumboxscores.com/boxes/2008/unc-90-fsu-77
+2007-08,1-Mar-08,Boston College,away,League,League,W,90,80,,https:///dadgumboxscores.com/boxes/2008/unc-90-bc-80
+2007-08,24-Feb-08,Wake Forest,home,League,League,W,89,73,,https:///dadgumboxscores.com/boxes/2008/unc-89-wake-73
+2007-08,20-Feb-08,NC State,away,League,League,W,84,70,,https:///dadgumboxscores.com/boxes/2008/unc-84-state-70
+2007-08,16-Feb-08,Virginia Tech,home,League,League,W,92,53,,https:///dadgumboxscores.com/boxes/2008/unc-92-vt-53
+2007-08,12-Feb-08,UVA,away,League,League,W,75,74,,https:///dadgumboxscores.com/boxes/2008/unc-75-uva-74
+2007-08,10-Feb-08,Clemson,home,League,League,W,103,93,OT,https:///dadgumboxscores.com/boxes/2008/unc-103-clem-93
+2007-08,6-Feb-08,Duke,home,League,League,L,78,89,,https:///dadgumboxscores.com/boxes/2008/duke-89-unc-78
+2007-08,3-Feb-08,Florida State,away,League,League,W,84,73,OT,https:///dadgumboxscores.com/boxes/2008/unc-84-fsu-73
+2007-08,31-Jan-08,Boston College,home,League,League,W,91,69,,https:///dadgumboxscores.com/boxes/2008/unc-91-bc-69
+2007-08,23-Jan-08,Miami,away,League,League,W,98,82,,https:///dadgumboxscores.com/boxes/2008/unc-98-miami-82
+2007-08,19-Jan-08,Maryland,home,League,League,L,80,82,,https:///dadgumboxscores.com/boxes/2008/maryland-82-unc-80
+2007-08,16-Jan-08,Georgia Tech,away,League,League,W,83,82,,https:///dadgumboxscores.com/boxes/2008/unc-83-gt-82
+2007-08,12-Jan-08,NC State,home,League,League,W,93,62,,https:///dadgumboxscores.com/boxes/2008/unc-93-state-62
+2007-08,9-Jan-08,Asheville,home,Non-Conference,Non-Conference,W,93,81,,https:///dadgumboxscores.com/boxes/2008/unc-93-unca-81
+2007-08,6-Jan-08,Clemson,away,League,League,W,90,88,OT,https:///dadgumboxscores.com/boxes/2008/unc-90-clem-88
+2007-08,2-Jan-08,Kent State,home,Non-Conference,Non-Conference,W,90,61,,https:///dadgumboxscores.com/boxes/2008/unc-90-kstate-61
+2007-08,30-Dec-07,Valparaiso,home,Non-Conference,Non-Conference,W,90,58,,https:///dadgumboxscores.com/boxes/2008/unc-90-valpo-58
+2007-08,27-Dec-07,Nevada,home,Non-Conference,Non-Conference,W,106,70,,https:///dadgumboxscores.com/boxes/2008/unc-106-nv-70
+2007-08,22-Dec-07,UC Santa Barbara,home,Non-Conference,Non-Conference,W,105,70,,https:///dadgumboxscores.com/boxes/2008/unc-105-sb-70
+2007-08,19-Dec-07,Nicholls State,home,Non-Conference,Non-Conference,W,88,78,,https:///dadgumboxscores.com/boxes/2008/unc-88-ns-78
+2007-08,16-Dec-07,Rutgers,away,Non-Conference,Non-Conference,W,93,71,,https:///dadgumboxscores.com/boxes/2008/unc-93-rutgers-71
+2007-08,4-Dec-07,Penn,away,Non-Conference,Non-Conference,W,106,71,,https:///dadgumboxscores.com/boxes/2008/unc-106-penn-71
+2007-08,1-Dec-07,Kentucky,away,Non-Conference,Non-Conference,W,86,77,,https:///dadgumboxscores.com/boxes/2008/unc-86-kentucky-77
+2007-08,28-Nov-07,Ohio State,away,Non-Conference,Non-Conference (Big Ten Challenge),W,66,55,,https:///dadgumboxscores.com/boxes/2008/unc-66-osu-55
+2007-08,24-Nov-07,BYU,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),W,73,63,,https:///dadgumboxscores.com/boxes/2008/unc-73-byu-63
+2007-08,23-Nov-07,Old Dominion,neutral,Non-Conference,Non-Conference (Las Vegas Invitational),W,99,82,,https:///dadgumboxscores.com/boxes/2008/unc-99-odu-82
+2007-08,20-Nov-07,South Carolina State,home,Non-Conference,Non-Conference,W,110,64,,https:///dadgumboxscores.com/boxes/2008/unc-110-scs-64
+2007-08,18-Nov-07,Iona,home,Non-Conference,Non-Conference,W,107,72,,https:///dadgumboxscores.com/boxes/2008/unc-107-iona-72
+2007-08,14-Nov-07,Davidson,neutral,Non-Conference,Non-Conference,W,72,68,,https:///dadgumboxscores.com/boxes/2008/unc-72-davidson-68
+2006-07,25-Mar-07,Georgetown,neutral,NCAA Tournament,NCAA Tournament Elite 8,L,84,96,OT,https:///dadgumboxscores.com/boxes/2007/gtown-96-unc-84
+2006-07,23-Mar-07,USC,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,74,64,,https:///dadgumboxscores.com/boxes/2007/unc-74-usc-64
+2006-07,17-Mar-07,Michigan State,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,81,67,,https:///dadgumboxscores.com/boxes/2007/unc-81-msu-67
+2006-07,15-Mar-07,EKU,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,86,65,,https:///dadgumboxscores.com/boxes/2007/unc-86-eku-65
+2006-07,11-Mar-07,NC State,neutral,ACC Tournament,ACC Tournament Championship,W,89,80,,https:///dadgumboxscores.com/boxes/2007/unc-89-state-80
+2006-07,10-Mar-07,Boston College,neutral,ACC Tournament,ACC Tournament Semifinal,W,71,56,,https:///dadgumboxscores.com/boxes/2007/unc-71-bc-56
+2006-07,9-Mar-07,Florida State,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,73,58,,https:///dadgumboxscores.com/boxes/2007/unc-73-fsu-58
+2006-07,4-Mar-07,Duke,home,League,League,W,86,72,,https:///dadgumboxscores.com/boxes/2007/unc-86-duke-72
+2006-07,1-Mar-07,Georgia Tech,away,League,League,L,77,84,,https:///dadgumboxscores.com/boxes/2007/gt-84-unc-77
+2006-07,25-Feb-07,Maryland,away,League,League,L,87,89,,https:///dadgumboxscores.com/boxes/2007/maryland-89-unc-87
+2006-07,21-Feb-07,NC State,home,League,League,W,83,64,,https:///dadgumboxscores.com/boxes/2007/unc-83-state-64
+2006-07,17-Feb-07,Boston College,away,League,League,W,77,72,,https:///dadgumboxscores.com/boxes/2007/unc-77-bc-72
+2006-07,13-Feb-07,Virginia Tech,home,League,League,L,80,81,OT,https:///dadgumboxscores.com/boxes/2007/vt-81-unc-80
+2006-07,10-Feb-07,Wake Forest,home,League,League,W,104,67,,https:///dadgumboxscores.com/boxes/2007/unc-104-wake-67
+2006-07,7-Feb-07,Duke,away,League,League,W,79,73,,https:///dadgumboxscores.com/boxes/2007/unc-79-duke-73
+2006-07,3-Feb-07,NC State,away,League,League,L,79,83,,https:///dadgumboxscores.com/boxes/2007/state-83-unc-79
+2006-07,31-Jan-07,Miami,home,League,League,W,105,64,,https:///dadgumboxscores.com/boxes/2007/unc-105-miami-64
+2006-07,27-Jan-07,Arizona,away,Non-Conference,Non-Conference,W,92,64,,https:///dadgumboxscores.com/boxes/2007/unc-92-zona-64
+2006-07,24-Jan-07,Wake Forest,away,League,League,W,88,60,,https:///dadgumboxscores.com/boxes/2007/unc-88-wake-60
+2006-07,20-Jan-07,Georgia Tech,home,League,League,W,77,61,,https:///dadgumboxscores.com/boxes/2007/unc-77-gt-61
+2006-07,17-Jan-07,Clemson,away,League,League,W,77,55,,https:///dadgumboxscores.com/boxes/2007/unc-77-clem-55
+2006-07,13-Jan-07,Virginia Tech,away,League,League,L,88,94,,https:///dadgumboxscores.com/boxes/2007/vt-94-unc-88
+2006-07,10-Jan-07,UVA,home,League,League,W,79,69,,https:///dadgumboxscores.com/boxes/2007/unc-79-uva-69
+2006-07,7-Jan-07,Florida State,home,League,League,W,84,58,,https:///dadgumboxscores.com/boxes/2007/unc-84-fsu-58
+2006-07,3-Jan-07,Penn,home,Non-Conference,Non-Conference,W,102,64,,https:///dadgumboxscores.com/boxes/2007/unc-102-penn-64
+2006-07,31-Dec-06,Dayton,home,Non-Conference,Non-Conference,W,81,51,,https:///dadgumboxscores.com/boxes/2007/unc-81-dayton-51
+2006-07,28-Dec-06,Rutgers,home,Non-Conference,Non-Conference,W,87,48,,https:///dadgumboxscores.com/boxes/2007/unc-87-rutgers-48
+2006-07,22-Dec-06,Saint Louis,away,Non-Conference,Non-Conference,W,69,48,,https:///dadgumboxscores.com/boxes/2007/unc-69-slu-48
+2006-07,19-Dec-06,Florida Atlantic,home,Non-Conference,Non-Conference,W,105,52,,https:///dadgumboxscores.com/boxes/2007/unc-105-fau-52
+2006-07,16-Dec-06,Asheville,home,Non-Conference,Non-Conference,W,93,62,,https:///dadgumboxscores.com/boxes/2007/unc-93-unca-62
+2006-07,9-Dec-06,High Point,home,Non-Conference,Non-Conference,W,94,69,,https:///dadgumboxscores.com/boxes/2007/unc-94-hpu-69
+2006-07,2-Dec-06,Kentucky,home,Non-Conference,Non-Conference,W,75,63,,https:///dadgumboxscores.com/boxes/2007/unc-75-kentucky-63
+2006-07,29-Nov-06,Ohio State,home,Non-Conference,Non-Conference (Big Ten Challenge),W,98,89,,https:///dadgumboxscores.com/boxes/2007/unc-98-osu-89
+2006-07,24-Nov-06,Tennessee,neutral,Non-Conference,Non-Conference,W,101,87,,https:///dadgumboxscores.com/boxes/2007/unc-101-tenn-87
+2006-07,22-Nov-06,Gonzaga,neutral,Non-Conference,Non-Conference,L,74,82,,https:///dadgumboxscores.com/boxes/2007/zaga-82-unc-74
+2006-07,19-Nov-06,Gardner Webb,home,Non-Conference,Non-Conference,W,103,50,,https:///dadgumboxscores.com/boxes/2007/unc-103-gw-50
+2006-07,15-Nov-06,Winthrop,neutral,Non-Conference,Non-Conference,W,73,66,,https:///dadgumboxscores.com/boxes/2007/unc-73-win-66
+2006-07,14-Nov-06,Sacred Heart,neutral,Non-Conference,Non-Conference,W,103,81,,https:///dadgumboxscores.com/boxes/2007/unc-103-sc-81
+2005-06,19-Mar-06,George Mason,neutral,NCAA Tournament,NCAA Tournament 2nd Round,L,60,65,,https:///dadgumboxscores.com/boxes/2006/gmason-65-unc-60
+2005-06,17-Mar-06,Murray State,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,69,65,,https:///dadgumboxscores.com/boxes/2006/unc-69-mstate-65
+2005-06,11-Mar-06,Boston College,neutral,ACC Tournament,ACC Tournament Semifinal,L,82,85,,https:///dadgumboxscores.com/boxes/2006/bc-85-unc-82
+2005-06,10-Mar-06,UVA,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,79,67,,https:///dadgumboxscores.com/boxes/2006/unc-79-uva-67
+2005-06,4-Mar-06,Duke,away,League,League,W,83,76,,https:///dadgumboxscores.com/boxes/2006/unc-83-duke-76
+2005-06,1-Mar-06,UVA,home,League,League,W,99,54,,https:///dadgumboxscores.com/boxes/2006/unc-99-uva-54
+2005-06,26-Feb-06,Maryland,home,League,League,W,81,57,,https:///dadgumboxscores.com/boxes/2006/unc-81-maryland-57
+2005-06,22-Feb-06,NC State,away,League,League,W,95,71,,https:///dadgumboxscores.com/boxes/2006/unc-95-state-71
+2005-06,19-Feb-06,Wake Forest,away,League,League,W,83,72,,https:///dadgumboxscores.com/boxes/2006/unc-83-wake-72
+2005-06,15-Feb-06,Georgia Tech,home,League,League,W,82,75,,https:///dadgumboxscores.com/boxes/2006/unc-82-gt-75
+2005-06,12-Feb-06,Miami,away,League,League,W,80,70,,https:///dadgumboxscores.com/boxes/2006/unc-80-miami-70
+2005-06,7-Feb-06,Duke,home,League,League,L,83,87,,https:///dadgumboxscores.com/boxes/2006/duke-87-unc-83
+2005-06,4-Feb-06,Clemson,home,League,League,W,76,61,,https:///dadgumboxscores.com/boxes/2006/unc-76-clem-61
+2005-06,2-Feb-06,Maryland,away,League,League,W,77,62,,https:///dadgumboxscores.com/boxes/2006/unc-77-maryland-62
+2005-06,28-Jan-06,Arizona,home,Non-Conference,Non-Conference,W,86,69,,https:///dadgumboxscores.com/boxes/2006/unc-86-zona-69
+2005-06,25-Jan-06,Boston College,home,League,League,L,74,81,,https:///dadgumboxscores.com/boxes/2006/bc-81-unc-74
+2005-06,22-Jan-06,Florida State,away,League,League,W,81,80,,https:///dadgumboxscores.com/boxes/2006/unc-81-fsu-80
+2005-06,19-Jan-06,UVA,away,League,League,L,68,72,,https:///dadgumboxscores.com/boxes/2006/uva-72-unc-68
+2005-06,14-Jan-06,Miami,home,League,League,L,70,81,,https:///dadgumboxscores.com/boxes/2006/miami-81-unc-70
+2005-06,10-Jan-06,Virginia Tech,away,League,League,W,64,61,,https:///dadgumboxscores.com/boxes/2006/unc-64-vt-61
+2005-06,7-Jan-06,NC State,home,League,League,W,82,69,,https:///dadgumboxscores.com/boxes/2006/unc-82-state-69
+2005-06,3-Jan-06,Davidson,home,Non-Conference,Non-Conference,W,82,58,,https:///dadgumboxscores.com/boxes/2006/unc-82-davidson-58
+2005-06,28-Dec-05,Asheville,home,Non-Conference,Non-Conference,W,89,47,,https:///dadgumboxscores.com/boxes/2006/unc-89-unca-47
+2005-06,21-Dec-05,USC,away,Non-Conference,Non-Conference,L,59,74,,https:///dadgumboxscores.com/boxes/2006/usc-74-unc-59
+2005-06,17-Dec-05,Santa Clara,home,Non-Conference,Non-Conference,W,76,58,,https:///dadgumboxscores.com/boxes/2006/unc-76-sc-58
+2005-06,7-Dec-05,Saint Louis,home,Non-Conference,Non-Conference,W,75,63,,https:///dadgumboxscores.com/boxes/2006/unc-75-slu-63
+2005-06,3-Dec-05,Kentucky,away,Non-Conference,Non-Conference,W,83,79,,https:///dadgumboxscores.com/boxes/2006/unc-83-kentucky-79
+2005-06,29-Nov-05,Illinois,home,Non-Conference,Non-Conference (Big Ten Challenge),L,64,68,,https:///dadgumboxscores.com/boxes/2006/ill-68-unc-64
+2005-06,25-Nov-05,UC Santa Barbara,home,Non-Conference,Non-Conference,W,83,66,,https:///dadgumboxscores.com/boxes/2006/unc-83-ucsb-66
+2005-06,22-Nov-05,Cleveland State,home,Non-Conference,Non-Conference,W,112,55,,https:///dadgumboxscores.com/boxes/2006/unc-112-cs-55
+2005-06,19-Nov-05,Gardner Webb,home,Non-Conference,Non-Conference,W,83,80,,https:///dadgumboxscores.com/boxes/2006/unc-83-gw-80
+2004-05,4-Apr-05,Illinois,neutral,NCAA Tournament,NCAA Tournament Championship,W,75,70,,https:///dadgumboxscores.com/boxes/2005/unc-75-ill-70
+2004-05,2-Apr-05,Michigan State,neutral,NCAA Tournament,NCAA Tournament Final 4,W,87,71,,https:///dadgumboxscores.com/boxes/2005/unc-87-msu-71
+2004-05,27-Mar-05,Wisconsin,neutral,NCAA Tournament,NCAA Tournament Elite 8,W,88,82,,https:///dadgumboxscores.com/boxes/2005/unc-88-wisco-82
+2004-05,25-Mar-05,Villanova,neutral,NCAA Tournament,NCAA Tournament Sweet 16,W,67,66,,https:///dadgumboxscores.com/boxes/2005/unc-67-nova-66
+2004-05,20-Mar-05,Iowa State,neutral,NCAA Tournament,NCAA Tournament 2nd Round,W,92,65,,https:///dadgumboxscores.com/boxes/2005/unc-92-isu-65
+2004-05,18-Mar-05,Oakland,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,96,68,,https:///dadgumboxscores.com/boxes/2005/unc-96-oak-68
+2004-05,12-Mar-05,Georgia Tech,neutral,ACC Tournament,ACC Tournament Semifinal,L,75,78,,https:///dadgumboxscores.com/boxes/2005/gt-78-unc-75
+2004-05,11-Mar-05,Clemson,neutral,ACC Tournament,ACC Tournament Quarterfinal,W,88,81,,https:///dadgumboxscores.com/boxes/2005/unc-88-clem-81
+2004-05,6-Mar-05,Duke,home,League,League,W,75,73,,https:///dadgumboxscores.com/boxes/2005/unc-75-duke-73
+2004-05,3-Mar-05,Florida State,home,League,League,W,91,76,,https:///dadgumboxscores.com/boxes/2005/unc-91-fsu-76
+2004-05,27-Feb-05,Maryland,away,League,League,W,85,83,,https:///dadgumboxscores.com/boxes/2005/unc-85-maryland-83
+2004-05,22-Feb-05,NC State,away,League,League,W,81,71,,https:///dadgumboxscores.com/boxes/2005/unc-81-state-71
+2004-05,19-Feb-05,Clemson,home,League,League,W,88,56,,https:///dadgumboxscores.com/boxes/2005/unc-88-clem-56
+2004-05,16-Feb-05,UVA,home,League,League,W,85,61,,https:///dadgumboxscores.com/boxes/2005/unc-85-uva-61
+2004-05,13-Feb-05,Connecticut,away,Non-Conference,Non-Conference,W,77,70,,https:///dadgumboxscores.com/boxes/2005/unc-77-uconn-70.pdf
+2004-05,9-Feb-05,Duke,away,League,League,L,70,71,,https:///dadgumboxscores.com/boxes/2005/duke-71-unc-70
+2004-05,6-Feb-05,Florida State,away,League,League,W,81,60,,https:///dadgumboxscores.com/boxes/2005/unc-81-fsu-60.pdf
+2004-05,3-Feb-05,NC State,home,League,League,W,95,71,,https:///dadgumboxscores.com/boxes/2005/unc-95-state-71
+2004-05,29-Jan-05,UVA,away,League,League,W,110,76,,https:///dadgumboxscores.com/boxes/2005/unc-110-uva-76
+2004-05,22-Jan-05,Miami,home,League,League,W,87,67,,https:///dadgumboxscores.com/boxes/2005/unc-87-miami-67
+2004-05,19-Jan-05,Clemson,away,League,League,W,77,58,,https:///dadgumboxscores.com/boxes/2005/unc-77-clem-58
+2004-05,15-Jan-05,Wake Forest,away,League,League,L,82,95,,https:///dadgumboxscores.com/boxes/2005/wake-95-unc-82
+2004-05,12-Jan-05,Georgia Tech,home,League,League,W,91,69,,https:///dadgumboxscores.com/boxes/2005/unc-91-gt-69
+2004-05,8-Jan-05,Maryland,home,League,League,W,109,75,,https:///dadgumboxscores.com/boxes/2005/unc-109-maryland-75
+2004-05,2-Jan-05,William & Mary,home,Non-Conference,Non-Conference,W,105,66,,https:///dadgumboxscores.com/boxes/2005/unc-105-bill-and-mary-66
+2004-05,30-Dec-04,Cleveland State,home,Non-Conference,Non-Conference,W,107,64,,https:///dadgumboxscores.com/boxes/2005/unc-107-cs-64
+2004-05,28-Dec-04,UNC-Wilmington,home,Non-Conference,Non-Conference,W,96,75,,https:///dadgumboxscores.com/boxes/2005/unc-96-uncw-75
+2004-05,21-Dec-04,Vermont,home,Non-Conference,Non-Conference,W,93,65,,https:///dadgumboxscores.com/boxes/2005/unc-93-vermont-65
+2004-05,19-Dec-04,Virginia Tech,away,League,League,W,85,51,,https:///dadgumboxscores.com/boxes/2005/unc-85-vt-51
+2004-05,12-Dec-04,Loyola Chicago,home,Non-Conference,Non-Conference,W,109,60,,https:///dadgumboxscores.com/boxes/2005/unc-109-lc-60
+2004-05,4-Dec-04,Kentucky,home,Non-Conference,Non-Conference,W,91,78,,https:///dadgumboxscores.com/boxes/2005/unc-91-kentucky-78
+2004-05,1-Dec-04,Indiana,away,Non-Conference,Non-Conference (Big Ten Challenge),W,70,63,,https:///dadgumboxscores.com/boxes/2005/unc-70-ind-63
+2004-05,28-Nov-04,USC,home,Non-Conference,Non-Conference,W,97,65,,https:///dadgumboxscores.com/boxes/2005/unc-97-usc-65
+2004-05,24-Nov-04,Iowa,neutral,Non-Conference,Non-Conference (Maui Invitational),W,106,92,,https:///dadgumboxscores.com/boxes/2005/unc-106-iowa-92
+2004-05,23-Nov-04,Tennessee,neutral,Non-Conference,Non-Conference (Maui Invitational),W,94,81,,https:///dadgumboxscores.com/boxes/2005/unc-94-tenn-81
+2004-05,22-Nov-04,BYU,neutral,Non-Conference,Non-Conference (Maui Invitational),W,86,50,,https:///dadgumboxscores.com/boxes/2005/unc-86-byu-50
+2004-05,19-Nov-04,Santa Clara,neutral,Non-Conference,Non-Conference,L,66,77,,https:///dadgumboxscores.com/boxes/2005/sc-77-unc-66
+2003-04,20-Mar-04,Texas,neutral,NCAA Tournament,NCAA Tournament 2nd Round,L,75,78,,https:///dadgumboxscores.com/boxes/2004/texas-78-unc-75
+2003-04,18-Mar-04,Air Force,neutral,NCAA Tournament,NCAA Tournament 1st Round,W,63,52,,https:///dadgumboxscores.com/boxes/2004/unc-63-af-52
+2003-04,12-Mar-04,Georgia Tech,neutral,ACC Tournament,ACC Tournament Quarterfinal,L,82,83,,https:///dadgumboxscores.com/boxes/2004/gt-83-unc-82
+2003-04,6-Mar-04,Duke,away,League,League,L,65,70,,https:///dadgumboxscores.com/boxes/2004/duke-70-unc-65
+2003-04,2-Mar-04,Clemson,home,League,League,W,69,53,,https:///dadgumboxscores.com/boxes/2004/unc-69-clem-53
+2003-04,29-Feb-04,NC State,away,League,League,W,71,64,,https:///dadgumboxscores.com/boxes/2004/unc-71-state-64
+2003-04,24-Feb-04,UVA,away,League,League,L,72,74,,https:///dadgumboxscores.com/boxes/2004/uva-74-unc-72
+2003-04,21-Feb-04,Florida State,home,League,League,W,78,71,,https:///dadgumboxscores.com/boxes/2004/unc-78-fsu-71
+2003-04,15-Feb-04,Maryland,home,League,League,W,97,86,,https:///dadgumboxscores.com/boxes/2004/unc-97-maryland-86
+2003-04,7-Feb-04,Georgia Tech,away,League,League,L,77,88,,https:///dadgumboxscores.com/boxes/2004/gt-88-unc-77
+2003-04,7-Feb-04,Wake Forest,away,League,League,W,79,73,,https:///dadgumboxscores.com/boxes/2004/unc-79-wake-73
+2003-04,5-Feb-04,Duke,home,League,League,L,81,83,OT,https:///dadgumboxscores.com/boxes/2004/duke-83-unc-81
+2003-04,31-Jan-04,Clemson,away,League,League,L,72,81,,https:///dadgumboxscores.com/boxes/2004/clem-81-unc-72
+2003-04,28-Jan-04,NC State,home,League,League,W,68,66,,https:///dadgumboxscores.com/boxes/2004/unc-68-state-66
+2003-04,24-Jan-04,UVA,home,League,League,W,96,77,,https:///dadgumboxscores.com/boxes/2004/unc-96-uva-77
+2003-04,22-Jan-04,Florida State,away,League,League,L,81,90,OT,https:///dadgumboxscores.com/boxes/2004/fsu-90-unc-81
+2003-04,17-Jan-04,Connecticut,home,Non-Conference,Non-Conference,W,86,83,,https:///dadgumboxscores.com/boxes/2004/unc-86-uconn-83
+2003-04,14-Jan-04,Maryland,away,League,League,L,84,90,,https:///dadgumboxscores.com/boxes/2004/maryland-90-unc-84
+2003-04,11-Jan-04,Georgia Tech,home,League,League,W,103,88,,https:///dadgumboxscores.com/boxes/2004/unc-103-gt-88
+2003-04,7-Jan-04,Miami,home,Non-Conference,Non-Conference,W,89,64,,https:///dadgumboxscores.com/boxes/2004/unc-89-miami-64
+2003-04,3-Jan-04,Kentucky,away,Non-Conference,Non-Conference,L,56,61,,https:///dadgumboxscores.com/boxes/2004/kentucky-61-unc-56
+2003-04,30-Dec-03,Coastal Carolina,home,Non-Conference,Non-Conference,W,105,72,,https:///dadgumboxscores.com/boxes/2004/unc-105-coastal-72
+2003-04,28-Dec-03,UNC-Wilmington,neutral,Non-Conference,Non-Conference,W,71,54,,https:///dadgumboxscores.com/boxes/2004/unc-71-uncw-54
+2003-04,20-Dec-03,Wake Forest,home,League,League,L,114,119,OT,https:///dadgumboxscores.com/boxes/2004/wake-119-unc-114
+2003-04,14-Dec-03,Akron,home,Non-Conference,Non-Conference,W,64,53,,https:///dadgumboxscores.com/boxes/2004/unc-64-akron-53
+2003-04,7-Dec-03,George Mason,home,Non-Conference,Non-Conference,W,115,81,,https:///dadgumboxscores.com/boxes/2004/unc-115-gmason-81
+2003-04,2-Dec-03,Illinois,neutral,Non-Conference,Non-Conference (Big Ten Challenge),W,88,81,,https:///dadgumboxscores.com/boxes/2004/unc-88-ill-81
+2003-04,29-Nov-03,Cleveland State,away,Non-Conference,Non-Conference,W,82,76,,https:///dadgumboxscores.com/boxes/2004/unc-82-cs-76
+2003-04,24-Nov-03,Davidson,neutral,Non-Conference,Non-Conference,W,91,68,,https:///dadgumboxscores.com/boxes/2004/unc-91-davidson-68
+2003-04,22-Nov-03,Old Dominion,home,Non-Conference,Non-Conference,W,90,64,,https:///dadgumboxscores.com/boxes/2004/unc-90-odu-64

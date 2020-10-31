@@ -1,5 +1,22 @@
+.tag {
+  display: inline-block;
+  padding: 2px 12px;
+  border-radius: 15px;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.status-w {
+  background: hsl(116, 60%, 90%);
+  color: hsl(116, 30%, 25%);
+}
+
+.status-l {
+  background: hsl(350, 70%, 90%);
+  color: hsl(350, 45%, 30%);
+}
+
 .main-header .logo {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-size: 24px;
 }
@@ -10,18 +27,22 @@
 
 @media screen and (max-device-width: 767px) and (orientation: portrait) {
   .britt { 
-display:  none;
+  display:  none;
  },
 
 body { 
-font-size: 0.75rem;
+  font-size: 0.75rem;
  }
 
 }
 
+tr {
+  width: 25px;
+}
+
 @media (min-width: 576px) {  
 .d-sm-none {
-    display: none!important;
+  display: none!important;
 }
 
 
@@ -46,7 +67,6 @@ hr {
   position: relative;
   margin: 0;
   padding: 0;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .twoten {
   right: 0;
@@ -83,3 +103,4 @@ hr {
 .skin-blue .sidebar-menu>li:hover>a {
   background-color: #4B9CD3;
 }
+

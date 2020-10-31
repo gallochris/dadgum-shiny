@@ -1,0 +1,620 @@
+﻿season,opponent,result,unc,opp,pointspread,refone,reftwo,refthree
+2019-20,Syracuse,L,53,81,-3,Ted Valentine,Bill Covington Jr.,A.J. Desai
+2019-20,Virginia Tech,W,78,56,-4.5,Raymond Styons,Mark Schnur,Bert Smith
+2019-20,Duke,L,76,89,11,Mike Eades,Roger Ayers,Bert Smith
+2019-20,Wake Forest,W,93,83,-8,Jeffrey Anderson,Keith Kimble,Tim Clougherty
+2019-20,Syracuse,W,92,79,4.5,Ted Valentine,Lee Cassell,Doug Shows
+2019-20,NC State,W,85,79,-2.5,Michael Stephens,Bill Covington Jr.,Tony Henderson
+2019-20,Louisville,L,55,72,10,Mike Eades,Brian O'Connell,Tim Clougherty
+2019-20,Notre Dame,L,76,77,3.5,Jeffrey Anderson,James Breeding,Terry Wymer
+2019-20,UVA,L,62,64,-1.5,Mike Roberts,Kipp Kissinger,Brent Hampton
+2019-20,Wake Forest,L,57,74,-1.5,John Gaffney,Raymond Styons,Pat Driscoll
+2019-20,Duke,L,96,98,8,Ted Valentine,Brian Dorsey,Ron Groover
+2019-20,Florida State,L,59,65,9.5,Jeffrey Anderson,Doug Shows,Mike Roberts
+2019-20,Boston College,L,70,71,-11.5,Jamie Luckie,Clarence Armstong,Matt Potter
+2019-20,NC State,W,75,65,5.5,Roger Ayers,Mike Eades,Bert Smith
+2019-20,Miami ,W,94,71,-5.5,Ron Groover,Michael Stephens,Pat Driscoll
+2019-20,Virginia Tech,L,77,79,6.5,Jeffrey Anderson,Tony Henderson,Tommy Morrissey
+2019-20,Pittsburgh,L,52,66,3.5,Tim Clougherty,Keith Kimble,A.J. Desai
+2019-20,Clemson,L,76,79,-3,Bill Covington Jr.,Bert Smith,Jeff Pon
+2019-20,Pittsburgh,L,65,73,-5,Roger Ayers,Mike Eades,Brent Hampton
+2019-20,Georgia Tech,L,83,96,-8.5,Brian Dorsey,Lee Cassell,Sean Hull
+2019-20,Yale,W,70,67,-7,Ted Valentine,A.J. Desai,Mark Schnur
+2019-20,UCLA,W,74,64,-4.5,Roger Ayers,Keith Kimble,Terry Wymer
+2019-20,Gonzaga,L,81,94,14,Bert Smith,Randy McCall,Mike Reed
+2019-20,Wofford,L,64,68,-12,Mike Eades,A.J. Desai,Evan Burroughs
+2019-20,UVA,L,47,56,3.5,Ron Groover,Jamie Luckie,Bill Covington Jr.
+2019-20,Ohio State,L,49,74,-4,Ted Valentine,Pat Driscoll,Mike Eades
+2019-20,Oregon,W,78,74,2.5,Tony Padilla,Mike Roberts,Jeb Hartness
+2019-20,Michigan,L,73,64,-3.5,Gerry Pollard,Mike Roberts,Gary Maxwell
+2019-20,Alabama,W,76,67,-9.5,Tony Padilla,Mike Reed,Chance Moore
+2019-20,Elon,W,75,61,-30.5,Ron Groover,Bill Covington Jr.,Raymond Styons
+2019-20,Gardner Webb,W,77,61,-25.5,Ted Valentine,Jeffrey Anderson,Trey Styons
+2019-20,UNC-Wilmington,W,78,62,-19.5,Bill Covington Jr.,Jerry Heater,Mark Schnur
+2019-20,Notre Dame,W,76,65,-9.5,Roger Ayers,Bert Smith,Ron Groover
+2018-19,Auburn,L,80,97,-4.5,Michael Stephens,Gerry Pollard,Mike Reed
+2018-19,Washington,W,81,59,-12,John Higgins,Ron Groover,Michael Irving
+2018-19,Iona,W,88,73,-22.5,Don Daily,Todd Austin,Jose Carrion
+2018-19,Duke,L,73,74,3.5,Roger Ayers,Jamie Luckie,Clarence Armstrong
+2018-19,Louisville,W,83,70,-6,Ted Valentine,Lee Cassell,Tony Henderson
+2018-19,Duke,W,79,70,-4.5,Roger Ayers,Ted Valentine,Bill Covington Jr.
+2018-19,Boston College,W,79,66,-10.5,Jeff Clark,Brian O'Connell,James Breeding
+2018-19,Clemson,W,81,79,-4,Ron Groover,Jeffrey Anderson,Clarence Armstrong
+2018-19,Syracuse,W,93,85,-11,Jamie Luckie,Lee Cassell,Bill Covington Jr.
+2018-19,Florida State,W,77,59,-7,Bert Smith,Michael Stephens,Brent Hampton
+2018-19,Duke,W,88,72,9.5,Mike Eades,Brian Dorsey,Ron Groover
+2018-19,Wake Forest,W,95,57,-16.5,A.J. Desai,Tim Clougherty,Brian O'Connell
+2018-19,UVA,L,61,69,0,Jeffrey Anderson,Doug Shows,James Breeding
+2018-19,Miami ,W,88,85,-16,Roger Ayers,Bill Covington Jr.,Tony Henderson
+2018-19,NC State,W,113,96,-10.5,Michael Stephens,Jeff Clark,Brent Hampton
+2018-19,Louisville,W,79,69,-1.5,Ted Valentine,Earl Walton,Bert Smith
+2018-19,Georgia Tech,W,77,54,-11,Roger Ayers,Jeffrey Anderson,Pat Driscoll
+2018-19,Virginia Tech,W,103,82,-4,Doug Shows,John Higgins,Terry Wymer
+2018-19,Miami,W,85,76,-6.5,Bert Smith,Jeffrey Anderson,Brent Hampton
+2018-19,Notre Dame,W,75,69,-13,Roger Ayers,Jamie Luckie,Ted Valentine
+2018-19,Louisville,L,62,83,-11,Mike Eades,Bill Covington Jr.,Tony Henderson
+2018-19,NC State,W,90,82,1.5,Doug Sirmons,Kipp Kissinger,Don Daily
+2018-19,Pittsburgh,W,85,60,-10,Ted Valentine,Bert Smith,Paul Szelc
+2018-19,Harvard,W,77,57,-16.5,Bill Covington Jr.,Sean Hull,Jeff Clark
+2018-19,Davidson,W,82,60,-14.5,Mike Eades,Tony Henderson,Doug Sirmons
+2018-19,Kentucky,L,72,80,-2.5,Ted Valentine,Chris Rastatter,Pat Evans
+2018-19,Gonzaga,W,103,90,-3.5,Jeffrey Anderson,Jeff Clark,Bert Smith
+2018-19,UNC-Wilmington,W,97,69,-28,Ron Groover,A.J. Desai,Tim Clougherty
+2018-19,Michigan,L,67,84,3.5,Terry Wymer,D.J. Carstensen,Courtney Green
+2018-19,UCLA,W,94,78,-10.5,Roger Ayers,Lee Cassell,Kelly Self
+2018-19,Texas,L,89,92,-9,Roger Ayers,Mike Roberts,Kelly Self
+2018-19,St. Francis PA,W,101,76,-27,Michael Stephens,Tim Clougherty,Lee Cassell
+2018-19,Tennessee Tech,W,108,58,-35,Roger Ayers,Bert Smith,Jeremy Mosier
+2018-19,Stanford,W,90,72,-18,John Higgins,Keith Kimble,Kipp Kissinger
+2018-19,Elon,W,116,67,-17.5,Bill Covington Jr.,Raymond Styons,Jerry Heater
+2018-19,Wofford,W,78,67,-9.5,Bert Smith,Glenn Tuitt,Evan Berg
+2017-18,Texas A&M,L,65,85,-7,Pat Driscoll,Michael Irving,Eric Curry
+2017-18,Lipscomb,W,84,66,-22,Lamont Simpson,Tony Henderson,Bill McCarthY
+2017-18,UVA,L,63,71,3.5,Jamie Luckie,Ron Groover,Tim Nestor
+2017-18,Duke,W,74,69,4,Mike Eades,Ted Valentine,Bert Smith
+2017-18,Miami,W,82,65,-6,Ron Groover,Bill Covington,Raymond Styons
+2017-18,Syracuse,W,78,59,-7.5,Roger Ayers,Clarence Armstong,Bert Smith
+2017-18,Duke,L,64,74,7.5,Roger Ayers,Mike Eades,Raymond Styons
+2017-18,Miami,L,88,91,-10,Ron Groover,Michael Stephens,James Breeding
+2017-18,Syracuse,W,78,74,-4.5,Tim Nestor,Mike Stuart,Joe DeRosa
+2017-18,Louisville,W,93,76,-1,Mike Eades,Ted Valentine,Jeffrey Anderson
+2017-18,Notre Dame,W,83,66,-10,Roger Ayers,Michael Stephens,Doug Shows
+2017-18,NC State,W,96,89,-4,James Breeding,Keith Kimble,Les Jones
+2017-18,Duke,W,82,78,-1.5,Jeff Clark,Jamie Luckie,Ron Groover
+2017-18,Pittsburgh,W,96,65,-23.5,Lee Cassell,Bert Smith,Don Daily
+2017-18,Clemson,L,78,82,-2,Roger Ayers,John Higgins,Doug Sirmons
+2017-18,NC State,L,91,95,-12.5,Mike Eades,Jamie Luckie,A.J. Desai
+2017-18,Virginia Tech,L,69,80,-3.5,Michael Stephens,Mike Roberts,Doug Shows
+2017-18,Georgia Tech,W,80,66,-13.5,Ted Valentine,Bill Covington Jr.,Jeb Hartness
+2017-18,Clemson,W,87,79,-7.5,Mike Eades,Les Jones,Lee Cassell
+2017-18,Notre Dame,W,69,68,-5,Jamie Luckie,Ed Corbett,John Gaffney
+2017-18,Boston College,W,96,66,-14,John Higgins,Tim Nestor,Jeffrey Anderson
+2017-18,UVA,L,49,61,4.5,Roger Ayers,Les Jones,Pat Driscoll
+2017-18,Florida State,L,80,81,1,Ted Valentine,Bill Covington Jr.,Brian O'Connell
+2017-18,Wake Forest,W,73,69,-14,Ron Groover,Tim Nestor,Lee Cassell
+2017-18,Ohio State,W,86,72,-7.5,Tom Eades,Pat Evans,Roger Ayers
+2017-18,Wofford,L,75,79,-25,Ted Valentine,Mike Eades,Bill Covington Jr.
+2017-18,Tennessee,W,78,73,1,Pat Adams,Don Daily,Jamie Luckie
+2017-18,Western Carolina,W,104,61,-32,Tim Clougherty,Jeb Hartness,Tony Greene
+2017-18,Tulane,W,97,73,-20,Les Jones,Bert Smith,Tim Nestor
+2017-18,Davidson,W,85,75,-10.5,Ted Valentine,Ron Groover,Lee Cassell
+2017-18,Michigan,W,86,71,-9,Roger Ayers,Mike Eades,Pat Driscoll
+2017-18,Michigan State,L,45,63,2,Michael Stephens,Keith Kimble,Chris Rastatter
+2017-18,Arkansas,W,87,68,-4.5,Roger Ayers,Randy McCall,A.J. Desai
+2017-18,Portland,W,102,78,-26,Ted Valentine,Brian Dorsey,Kelly Pfeifer
+2017-18,Stanford,W,96,72,-7,David Hall,Keith Kimble,Randy McCall
+2017-18,Bucknell,W,93,81,,Les Jones,Jeff Clark,Raymond Styons
+2017-18,Northern Iowa,W,86,69,-15,Lee Cassell,Tim Comer,A.J. Desai
+2016-17,Gonzaga,W,71,65,-1,Mike Eades,Verne Harris,Michael Stephens
+2016-17,Oregon,W,77,76,-4,Tony Padilla,Ted Valentine,Ron Groover
+2016-17,Kentucky,W,75,73,-2,John Higgins,Keith Kimble,Mike Reed
+2016-17,Butler,W,92,80,-7,Doug Shows,Lamar Simpson,Joe Lindsay
+2016-17,Arkansas,W,72,65,-11.5,Bo Boroski,Lamont Simpson,Darron George
+2016-17,Texas Southern,W,103,64,-26.5,Mike Reed,Paul Faia,Les Jones
+2016-17,Duke,L,83,93,-4,Brian Dorsey,Bill Covington Jr.,Ron Groover
+2016-17,Miami,W,78,53,-8.5,Roger Ayers,Tim Nestor,Jerry Heater
+2016-17,Duke,W,90,83,-7,Ron Groover,Tim Nestor,Les Jones
+2016-17,UVA,L,43,53,-3.5,Mike Roberts,Doug Shows,Tony Chiazza
+2016-17,Pittsburgh,W,85,67,-9,Mike Eades,James Breeding,Jeff Clark
+2016-17,Louisville,W,74,63,-7.5,Ron Groover,Pat Driscoll,John Gaffney
+2016-17,UVA,W,65,41,-6,Brian O'Connell,Tim Clougherty,Doug Sirmons
+2016-17,NC State,W,97,73,-11,Les Jones,James Breeding,Bert Smith
+2016-17,Duke,L,78,86,2.5,Roger Ayers,Mike Eades,Mike Roberts
+2016-17,Notre Dame,W,83,76,-9,Jamie Luckie,Bill Covington Jr.,Clarence Armstrong
+2016-17,Pittsburgh,W,80,78,-19,Ted Valentine,Lee Cassell,Lamar Simpson
+2016-17,Miami,L,62,77,-5.5,Ron Groover,Sean Hull,John Gaffney
+2016-17,Virginia Tech,W,91,72,-15.5,Mike Eades,Roger Ayers,Mike Roberts
+2016-17,Boston College,W,90,82,-18,Ed Corbett,Tony Greene,Brian O'Connell
+2016-17,Syracuse,W,85,68,-14.5,Ron Groover,John Gaffney,Doug Shows
+2016-17,Florida State,W,96,83,-8.5,Roger Ayers,Lee Cassell,Tony Chiazza
+2016-17,Wake Forest,W,93,87,-8.5,Mike Eades,Tim Comer,Brian O'Connell
+2016-17,NC State,W,107,56,-13,Ron Groover,Keith Kimble,Matt Potter
+2016-17,Clemson,W,89,86,-2.5,Tim Nestor,Lee Cassell,Jeff Clark
+2016-17,Georgia Tech,L,63,75,-17,Brian Dorsey,Bill Covington Jr.,Tim Clougherty
+2016-17,Monmouth,W,102,74,-18.5,Les Jones,Doug Sirmons,Jeb Hartness
+2016-17,Northern Iowa,W,85,42,-18.5,Bert Smith,Lee Cassell,Brent Hampton
+2016-17,Kentucky,L,100,103,1,Roger Ayers,David Hall,Verne Harris
+2016-17,Tennessee,W,73,71,-19.5,Mike Eades,Jeff Clark,Doug Shows
+2016-17,Davidson,W,83,74,-16,Ted Valentine,Ron Groover,Keith Kimble
+2016-17,Radford,W,95,50,,Michael Stephens,Tim Nestor,Tim Clougherty
+2016-17,Indiana,L,67,76,-5.5,Terry Wymer,Bo Boroski,Gene Steratore
+2016-17,Wisconsin,W,71,56,-4.5,Ted Valentine,Chris Rastatter,Earl Walton
+2016-17,Oklahoma State,W,107,75,-9,Ted Valentine,Tom Eades,Donnie Eppley
+2016-17,Chaminade,W,104,61,-31.5,Chris Rastatter,Bob Staffen,Donnie Eppley
+2016-17,Hawai'i,W,83,68,-23,Gregory Nixon,Tommy Nunez,Daryl Gelinas
+2016-17,Long Beach State,W,93,67,-21,Roger Ayers,John Higgins,Les Jones
+2016-17,Chattanooga,W,97,57,-15.5,Ted Valentine,Raymond Styons,Tim Comer
+2016-17,Tulane,W,95,75,-20,John Hampton,Doug Sirmons,Jeb Hartness
+2015-16,Villanova,L,74,77,-2,Michael Stephens,John Higgins,Terry Wymer
+2015-16,Syracuse,W,83,66,-10,Mike Eades,Roger Ayers,Jeff Clark
+2015-16,Notre Dame,W,88,74,-9.5,Michael Stephens,Ed Corbett,Tom Eades
+2015-16,Indiana,W,101,86,-5,Pat Adams,Joe DeRosa,Lee Cassell
+2015-16,Providence,W,85,66,-11,Doug Sirmons,John Gaffney,Eric Curry
+2015-16,Florida Gulf-Coast,W,83,67,-22.5,Jeff Clark,Mike Greenstein,Donnie Eppley
+2015-16,UVA,W,61,57,-2.5,Bryan Kersey,Mike Eades,Roger Ayers
+2015-16,Notre Dame,W,78,47,-7,Les Jones,Brian Dorsey,Jerry Heater
+2015-16,Pittsburgh,W,88,71,-7.5,Mike Eades,Sean Hull,Tim Comer
+2015-16,Duke,W,76,72,-2.5,Roger Ayers,Tim Nestor,John Gaffney
+2015-16,Syracuse,W,75,70,-13,Mike Eades,Jeffrey Anderson,Michael Stephens
+2015-16,UVA,L,74,79,2.5,Bryan Kersey,Joe Lindsay,Tim Clougherty
+2015-16,NC State,W,80,68,-8,Bryan Kersey,Jerry Heater,Pat Driscoll
+2015-16,Miami,W,96,71,-7.5,John Gaffney,Sean Hull,Bill Covington Jr.
+2015-16,Duke,L,73,74,-8.5,Mike Eades,Les Jones,Michael Stephens
+2015-16,Pittsburgh,W,85,64,-10.5,Brian Dorsey,Bryan Kersey,Pat Driscoll
+2015-16,Boston College,W,68,65,-20.5,Tim Comer,Jamie Luckie,Michael Stephens
+2015-16,Notre Dame,L,76,80,-2.5,Roger Ayers,Jerry Heater,Tim Nestor
+2015-16,Louisville,L,65,71,1.5,Bryan Kersey,Mike Eades,Bill Covington Jr.
+2015-16,Boston College,W,89,62,-26.5,Brian Dorsey,Raymond Styons,Louie Andrakakos
+2015-16,Virginia Tech,W,75,70,-12.5,Tim Nestor,Sean Hull,Brian O'Connell
+2015-16,Wake Forest,W,83,68,-19,Jamie Luckie,Tim Comer,Tim Kelly
+2015-16,NC State,W,67,55,-15.5,Mike Eades,Sean Hull,Terry Wymer
+2015-16,Syracuse,W,84,73,-7.5,Earl Walton,Bryan Kersey,Roger Ayers
+2015-16,Florida State,W,106,90,-3.5,Mike Eades,Terry Wymer,Mike Roberts
+2015-16,Georgia Tech,W,86,68,-14.5,Brian Dorsey,Wally Rutecki,Clarence Armstrong
+2015-16,Clemson,W,80,69,-15,Tim Nestor,Bill Covington Jr.,Tim Kelly
+2015-16,UNC-G,W,96,63,-27.5,Les Jones,Jerry Heater,Roger Ayers
+2015-16,Appalachian State,W,94,70,-32,Brian Dorsey,Bill McCarthy,Tony Greene
+2015-16,UCLA,W,89,76,-8,Ed Corbett,Pat Driscoll,Lamar Simpson
+2015-16,Tulane,W,96,72,-24.5,Louie Andrakakos,Doug Shows,Clarence Armstrong
+2015-16,Texas,L,82,84,-6.5,Kelly Self,Michael Stephens,Pat Adams
+2015-16,Davidson,W,98,65,-15,Bryan Kersey,Jerry Heater,Tim Clougherty
+2015-16,Maryland,W,89,81,-7.5,Michael Stephens,Pat Driscoll,Mike Roberts
+2015-16,Kansas State,W,80,70,-10.5,Pat Adams,Mark Whitehead,Ray Natili
+2015-16,Northwestern,W,80,69,-11,Mike Stuart,Gerry Pollard,Don Daily
+2015-16,Northern Iowa,L,67,71,-6.5,Mike Stuart,Gerry Pollard,Don Daily
+2015-16,Wofford,W,78,58,-23,Tim Nestor,Louie Andrakakos,Andrew Marotta
+2015-16,Fairfield,W,92,65,-24.5,Raymond Styons,Dwayne Gladden,Matt Potter
+2015-16,Temple,W,91,67,-9.5,Michael Stephens,Lamar Simpson,Mike Roberts
+2014-15,Wisconsin,L,72,79,6,Randall McCall,Lamar Simpson,Brian O'Connell
+2014-15,Arkansas,W,87,78,-5,David Hall,Mike Roberts,Bert Smith
+2014-15,Harvard,W,67,65,-9.5,Lee Cassell,Mike Sanzere,Jamie Luckie
+2014-15,Notre Dame,L,82,90,-3.5,Bryan Kersey,Mike Eades,Brian Dorsey
+2014-15,UVA,W,71,67,4.5,Roger Ayers,Raymond Styons,Jerry Heater
+2014-15,Louisville,W,70,60,-2.5,Mike Eades,Tim Nestor,Bill Covington Jr.
+2014-15,Boston College,W,81,63,-12,Tim Nestor,Sean Hull,Tim Kelly
+2014-15,Duke,L,77,84,-1,Bryan Kersey,Brian Dorsey,Sean Hull
+2014-15,Georgia Tech,W,81,49,-5.5,Mike Eades,Mike Roberts,Lamar Simpson
+2014-15,Miami,W,73,64,-1,Tim Comer,Jamie Luckie,Wally Rutecki
+2014-15,NC State,L,46,58,-9.5,Bryan Kersey,Mike Stuart,Raymond Styons
+2014-15,Georgia Tech,W,89,60,-11.5,Bryan Kersey,Sean Hull,Sean Casady
+2014-15,Duke,L,90,92,8.5,Roger Ayers,Pat Driscoll,Tim Nestor
+2014-15,Pittsburgh,L,76,89,-3.5,Tim Clougherty,Jerry Heater,Michael Stephens
+2014-15,Boston College,W,79,68,-9.5,Louie Andrakakos,Dwayne Gladden,Jerry Heater
+2014-15,UVA,L,64,75,1,Jamie Luckie,Mike Roberts,Pat Driscoll
+2014-15,Louisville,L,68,78,5,Brian Dorsey,Bill Covington Jr.,Lamar Simpson
+2014-15,Syracuse,W,93,83,-10,Bryan Kersey,Brian Dorsey,Joe Lindsay
+2014-15,Florida State,W,78,74,-15.5,Brian O'Connell,Jerry Heater,Terry Wymer
+2014-15,Wake Forest,W,87,71,-8,Roger Ayers,Jeffrey Anderson,Michael Stephens
+2014-15,Virginia Tech,W,68,53,-21.5,Pat Driscoll,Joe Lindsay,Mike Stuart
+2014-15,NC State,W,81,79,-4.5,Jamie Luckie,Brian Dorsey,Tim Nestor
+2014-15,Louisville,W,72,71,-3,Roger Ayers,Sean Hull,Mike Roberts
+2014-15,Notre Dame,L,70,71,-8,Bryan Kersey,Doug Shows,Joe Lindsay
+2014-15,Clemson,W,74,50,-6.5,Mike Eades,Tony Greene,Sean Casady
+2014-15,William & Mary,W,86,64,-18,Jamie Luckie,Louie Andrakakos,Andrew Marotta
+2014-15,UAB,W,89,58,-24.5,Bryan Kersey,Les Jones,Michael Stephens
+2014-15,Ohio State,W,82,74,-1,Roger Ayers,Doug Shows,Michael Stephens
+2014-15,UNC-G,W,79,56,-22,Gary Maxwell,Dwayne Gladden,Todd Austin
+2014-15,Kentucky,L,70,84,13,Tony Greene,Pat Adams,Doug Shows
+2014-15,East Carolina,W,108,64,-23.5,Roger Ayers,Bill Covington Jr.,Lamar Simpson
+2014-15,Iowa,L,55,60,-7.5,Brian Dorsey,Tim Nestor,Mike Roberts
+2014-15,Florida,W,75,64,-5.5,Gary Maxwell,Don Daily,Bert Smith
+2014-15,UCLA,W,78,56,-5,Gary Maxwell,Darron George,Keith Kimble
+2014-15,Butler,L,66,74,-9,Mike Roberts,Don Daily,Jeb Hartness
+2014-15,Davidson,W,90,72,-13.5,Bryan Kersey,Mike Eades,Doug Shows
+2014-15,Robert Morris,W,103,59,-21,Joe Lindsay,Anthony Franklin,Wally Rutecki
+2014-15,NC Central,W,76,60,-17,Raymond Styons,Tim Nestor,Jeff Nichols
+2013-14,Iowa State,L,83,85,1.5,Tony Greene,Chris Rastatter,Bo Boroski
+2013-14,Providence,W,79,77,-4.5,Chris Rastatter,Bo Boroski,Kevin Brill
+2013-14,Pittsburgh,L,75,80,0,Karl Hess,Raymond Styons,Brian Dorsey
+2013-14,Duke,L,81,93,9.5,Karl Hess,Mike Eades,Ray Natili
+2013-14,Notre Dame,W,63,61,-12,Bryan Kersey,Michael Stephens,Mike Stuart
+2013-14,Virginia Tech,W,60,56,-10.5,Jamie Luckie,Tim Nestor,Lamar Simpson
+2013-14,NC State,W,85,84,-4,Les Jones,Brian Dorsey,Doug Shows
+2013-14,Wake Forest,W,105,72,-14,Les Jones,Ray Natili,Dwayne Gladden
+2013-14,Duke,W,74,66,2,Bryan Kersey,Pat Driscoll,Ed Corbett
+2013-14,Florida State,W,81,75,-1.5,Brian Dorsey,Tony Greene,Brian O'Connell
+2013-14,Pittsburgh,W,75,71,-3,Karl Hess,Raymond Styons,Tim Kelly
+2013-14,Notre Dame,W,73,62,-1.5,Mike Eades,Brian O'Connell,Jerry Heater
+2013-14,Maryland,W,75,63,-8,Karl Hess,Michael Stephens,Mike Stuart
+2013-14,NC State,W,84,70,-9.5,Bryan Kersey,Joe Lindsay,Raymond Styons
+2013-14,Georgia Tech,W,78,65,-4.5,Brian Dorsey,Sean Hull,Tony Henderson
+2013-14,Clemson,W,80,61,-7.5,Karl Hess,Jamie Luckie,Tim Nestor
+2013-14,UVA,L,61,76,7,Roger Ayers,Joe Lindsay,Michael Stephens
+2013-14,Boston College,W,82,71,-11.5,Tim Nestor,Tim Comer,Bill Covington Jr.
+2013-14,Syracuse,L,45,57,8.5,Roger Ayers,Tony Greene,Ed Corbett
+2013-14,Miami,L,57,63,-10.5,Bryan Kersey,Brian Dorsey,Gary Maxwell
+2013-14,Wake Forest,L,67,73,-6.5,Mike Eades,Mike Roberts,Doug Shows
+2013-14,UNC-Wilmington,W,84,51,-21,Tim Nestor,Sean Casady,Jeff Nichols
+2013-14,NKU,W,75,60,-27.5,Mike Eades,Sean Hull,Terry Wymer
+2013-14,Davidson ,W,87,85,-18,Tim Nestor,Jeff Nichols,Raymond Styons
+2013-14,Texas,L,83,86,-10.5,Karl Hess,Les Jones,Bryan Kersey
+2013-14,Kentucky,W,82,77,-3,Roger Ayers,Mike Eades,Joe Lindsay
+2013-14,UNC-G,W,81,50,-26.5,Les Jones,Mike Roberts,Sean Casady
+2013-14,Michigan State,W,79,65,10,Terry Wymer,Lamont Simpson,Pat Driscoll
+2013-14,UAB,L,59,63,-7.5,Don Daily,Kevin Fehr,Ron Groover
+2013-14,Louisville,W,93,84,10,Bryan Kersey,Brian O'Connell,Brian Dorsey
+2013-14,Richmond,W,82,72,-8,Bryan Kersey,Ron Tyburski,Gary Pucino
+2013-14,Belmont,L,80,83,-14,Les Jones,Louie Andrakakos,Alan Spainhour
+2013-14,Holy Cross,W,62,54,-21.5,Brian Dorsey,Sean Hull,Jeffrey Anderson
+2013-14,Oakland,W,84,61,-16.5,Bryan Kersey,Jeremy Moiser,Alan Spainhour
+2012-13,Kansas,L,58,70,6.5,Pat Adams,Mike Kitts,Mike Greenstein
+2012-13,Villanova,W,78,71,-5,Pat Adams,Mike Greenstein,Deron White
+2012-13,Miami,L,77,87,1,Bryan Kersey,Mike Eades,Roger Ayers
+2012-13,Maryland,W,79,76,-4.5,Karl Hess,Brian Dorsey,Ray Natili
+2012-13,Florida State,W,83,62,-9,Karl Hess,Gary Maxwell,Raymond Styons
+2012-13,Duke,L,53,69,-2,Roger Ayers,Les Jones,Tim Nestor
+2012-13,Maryland,W,79,68,1,Doug Sirmons,Mike Eades,Joe Lindsay
+2012-13,Florida State,W,79,58,-12,Ray Natili,Jamie Luckie,Bryan Kersey
+2012-13,Clemson,W,68,59,-4,Karl Hess,Les Jones,Ed Corbett
+2012-13,NC State,W,76,65,-6.5,Ray Natili,Doug Sirmons,Gary Maxwell
+2012-13,Georgia Tech,W,70,58,-3.5,Jamie Luckie,John Cahill,Roger Ayers
+2012-13,UVA,W,93,81,-5,Les Jones,Tim Kelly,Jerry Heater
+2012-13,Duke,L,68,73,10.5,Karl Hess,Mike Eades,Bryan Kersey
+2012-13,Miami,L,61,87,7.5,Jamie Luckie,Tim Nestor,Gary Maxwell
+2012-13,Wake Forest,W,87,62,-14.5,Les Jones,Brian Dorsey,Ed Corbett
+2012-13,Virginia Tech,W,72,60,-14.5,Ray Natili,Tim Nestor,Jerry Heater
+2012-13,Boston College,W,82,70,-4,Karl Hess,Michael Stephens,Ed Corbett
+2012-13,NC State,L,83,91,4,Mike Eades,Mike Stuart,Raymond Styons
+2012-13,Georgia Tech,W,79,63,-11,Doug Sirmons,Gary Maxwell,Tim Kelly
+2012-13,Maryland,W,62,52,-5.5,Karl Hess,Ray Natili,Tim Nestor
+2012-13,Florida State,W,77,72,3,Bryan Kersey,Roger Ayers,Mike Eades
+2012-13,Miami,L,59,68,-4,Les Jones,Michael Stephens,Joe Lindsay
+2012-13,UVA,L,52,61,3,Karl Hess,Doug Sirmons,John Cahill
+2012-13,UNLV,W,79,73,-2,Karl Hess,Ray Natili,Les Jones
+2012-13,McNeese State,W,97,63,-25,Brian Dorsey,Jerry Heater,Dwayne Gladden
+2012-13,Texas,L,67,85,-4.5,Mark Whitehead,Doug Sirmons,Mike Stuart
+2012-13,East Carolina,W,93,87,-16.5,Karl Hess,Bryan Kersey,Jeff Nichols
+2012-13,East Tenn. St.,W,78,55,,Gary Maxwell,Brian Shey,Alan Spainhour
+2012-13,UAB,W,102,84,-17,Les Jones,Bill Covington Jr.,Alan Spainhour
+2012-13,Indiana,L,59,83,11,Mike Kitts,Pat Driscoll,Bo Boroski
+2012-13,Chaminade,W,112,70,-21.5,Pat Adams,Bert Smith,Kevin Ferguson
+2012-13,Butler,L,71,82,-9,Tim Higgins,Pat Adams,Pat Driscoll
+2012-13,Mississippi State,W,95,49,-19,Jim Burr,Pat Driscoll,Ryan Wells
+2012-13,Long Beach State,W,78,63,-11.5,Dick Cartmell,Mike Scyphers,Mike Irving
+2012-13,Florida Atlantic,W,70,56,-20,Bryan Kersey,Raymond Styons,Andrew Marotta
+2012-13,Gardner Webb,W,76,59,,Alan Spainhour,Anthony Franklin,Ron Tyburski
+2011-12,Kansas,L,67,80,2,Tony Greene,Doug Shows,James Breeding
+2011-12,Ohio,W,73,65,-10.5,Tom Eades,Don Daily,Kelly Self
+2011-12,Creighton,W,87,73,-8.5,Pat Driscoll,Mike Stuart,Tom O'Neill
+2011-12,Vermont,W,77,58,-16,David Hall,Bill McCarthy,Lee Cassell
+2011-12,Florida State,L,82,85,-6,Les Jones,Roger Ayers,Bryan Kersey
+2011-12,NC State,W,69,67,-9.5,Ray Natili,Tim Nestor,Brian Dorsey
+2011-12,Maryland,W,85,69,-14.5,Roger Ayers,Sean Hull,Ray Natili
+2011-12,Duke,W,88,70,-2,Karl Hess,Roger Ayers,Mike Eades
+2011-12,Maryland,W,88,64,-18.5,Brian Dorsey,Tim Kelly,Jeff Clark
+2011-12,UVA,W,54,51,-3.5,Tim Nestor,Joe Lindsay,Dwayne Gladden
+2011-12,NC State,W,86,74,-7,Roger Ayers,Sean Corbin,Ed Corbett
+2011-12,Clemson,W,74,52,-11.5,Les Jones,Jim Burr,Dwayne Gladden
+2011-12,Miami,W,73,64,-5,Bryan Kersey,Brian Dorsey,Raymond Styons
+2011-12,UVA,W,70,52,-9,Sean Hull,Tim Kelly,Jamie Luckie
+2011-12,Duke,L,84,85,-6,Bryan Kersey,Tim Nestor,John Cahill
+2011-12,Maryland,W,83,74,-12,Les Jones,Sean Corbin,Sean Hull
+2011-12,Wake Forest,W,68,53,-16.5,Bryan Kersey,Brian O'Connell,Michael Stephens
+2011-12,Georgia Tech,W,93,81,-20.5,Jamie Luckie,Roger Ayers,Ray Perone
+2011-12,NC State,W,74,55,-13,Karl Hess,Ray Natili,Doug Sirmons
+2011-12,Virginia Tech,W,82,68,-6.5,Bryan Kersey,Roger Ayers,John Cahill
+2011-12,Florida State,L,57,90,-6,Jamie Luckie,Mike Eades,Sean Corbin
+2011-12,Miami,W,73,56,-16.5,Bryan Kersey,Les Jones,Tim Kelly
+2011-12,Boston College,W,83,60,-30,Roger Ayers,Tim Nestor,Raymond Styons
+2011-12,Monmouth,W,102,65,-39.5,Sean Corbin,Bill Covington Jr.,Alan Spainhour
+2011-12,Elon,W,100,62,-31,Brian O'Connell,Gary Maxwell,John Gaffney
+2011-12,Texas,W,82,63,-10,Jamie Luckie,Roger Ayers,Joe Lindsay
+2011-12,Nicholls State,W,99,49,-38.5,Jeff Clark,Tony Dawkins,Sean Casady
+2011-12,Appalachian State,W,97,82,-28.5,Raymond Styons,Ron Groover,Jeff Nichols
+2011-12,Long Beach State,W,84,78,-15.5,Mike Eades,Brian O'Connell,Louie Andrakakos
+2011-12,Evansville,W,97,48,-24,Jerry Heater,Dwayne Gladden,John Gaffney
+2011-12,Kentucky,L,72,73,6.5,Tony Greene,Mike Nance,Ron Groover
+2011-12,Wisconsin,W,60,57,-7,Karl Hess,Ed Corbett,Tony Greene
+2011-12,UNLV,L,80,90,-8,Tom O'Neill,Jon Stigliano,Pic Russell
+2011-12,South Carolina,W,87,62,-18.5,Tom O'Neill,Jon Stigliano,Mark Schnur
+2011-12,Tennessee State,W,102,69,-25.5,Roger Ayers,Dwayne Gladden,Ron Tyburski
+2011-12,Mississippi Valley St.,W,101,75,,Raymond Styons,Andrew Marotta,Tim Kelly
+2011-12,Asheville,W,91,75,-17.5,Tom Comer,Mike Eades,Jerry Heater
+2011-12,Michigan State,W,67,55,-8.5,Mike Reed,Tony Greene,James Breeding
+2010-11,Kentucky,L,69,76,1.5,Pat Driscoll,Randy McCall,Verne Harris
+2010-11,Marquette,W,81,63,-4,Mark Whitehead,Joe DeRosa,Tony Padilla
+2010-11,Washington,W,86,83,-4,Doug Shows,Steve Olson,Don Daily
+2010-11,LIU,W,102,87,-18.5,Doug Shows,Ed Hightower,Lamont Simpson
+2010-11,Duke,L,58,75,4.5,Karl Hess,Bryan Kersey,Jamie Luckie
+2010-11,Clemson,W,92,87,-5,Les Jones,Roger Ayers,Tim Nestor
+2010-11,Miami,W,61,59,-9.5,Roger Ayers,Ray Natili,Sean Corbin
+2010-11,Duke,W,81,67,-1.5,Mike Eades,Ray Natili,Les Jones
+2010-11,Florida State,W,72,70,-2.5,Bryan Kersey,Jamie Luckie,Brian Dorsey
+2010-11,Maryland,W,87,76,-6.5,Karl Hess,Ray Natili,John Cahill
+2010-11,NC State,W,75,63,-6,Mike Kitts,Michael Stephens,Sean Corbin
+2010-11,Boston College,W,48,46,-12,Roger Ayers,Mike Eades,Brian Dorsey
+2010-11,Wake Forest,W,78,64,-22.5,Karl Hess,Ray Natili,Michael Stephens
+2010-11,Clemson,W,64,62,2,Mike Kitts,Sean Corbin,John Cahill
+2010-11,Duke,L,73,79,10.5,Bryan Kersey,Roger Ayers,Joe Lindsay
+2010-11,Florida State,W,89,69,-6.5,Jim Burr,Michael Stephens,Pat Driscoll
+2010-11,Boston College,W,106,74,-2.5,Jamie Luckie,Sean Hull,Michael Stephens
+2010-11,NC State,W,84,64,-10.5,Bryan Kersey,Les Jones,Tim Nestor
+2010-11,Miami,W,74,71,-2,Ray Natili,Brian Dorsey,Tim Kelly
+2010-11,Clemson,W,75,65,-5.5,Mike Eades,John Cahill,Ed Corbett
+2010-11,Georgia Tech,L,58,78,-6,Karl Hess,Roger Ayers,Joe Lindsay
+2010-11,Virginia Tech,W,64,61,-5.5,Bryan Kersey,Sean Hull,Ed Corbett
+2010-11,UVA,W,62,56,-6.5,Les Jones,Mike Eades,Tim Nestor
+2010-11,St. Francis PA,W,103,54,,Ray Natili,Tim Nestor,Louie Andrakakos
+2010-11,Rutgers,W,78,55,-7.5,Robert Donato,Roger Ayers,Ed Corbett
+2010-11,William & Mary,W,85,60,-20,John Cahill,Sean Hull,Sean Corbin
+2010-11,Texas,L,76,78,-3.5,Karl Hess,Bryan Kersey,Les Jones
+2010-11,Long Beach State,W,96,91,-19.5,Tim Nestor,Sean Corbin,Tim Kelly
+2010-11,Evansville,W,76,49,-9,Mike Stuart,Tom Eades,Les Jones
+2010-11,Kentucky,W,75,73,1,Roger Ayers,Mike Eades,Jamie Luckie
+2010-11,Illinois,L,67,79,6,Mike Kitts,Terry Wymer,Lamont Simpson
+2010-11,College of Charleston,W,74,69,-14,Karl Hess,Les Jones,Jerry Heater
+2010-11,Asheville,W,80,69,,Mike Eades,Tim Comer,Dan Stryffeler
+2010-11,Vanderbilt,L,65,72,-4,Jamie Luckie,Randy Heimerman,Kevin Mathis
+2010-11,Minnesota,L,67,72,-6,Don Daily,Bert Smith,Steve Skiles
+2010-11,Hofstra,W,107,63,-14.5,Kelly Self,Kevin Mathis,Anthony Jordan
+2010-11,Lipscomb,W,80,66,,Ray Natili,Tony Dawkins,Sean Casady
+2009-10,Dayton,L,68,79,3,Jim Burr,Pat Driscoll,Earl Walton
+2009-10,Rhode Island ,W,68,67,1,Ed Corbett,Jeff Clark,James Breeding
+2009-10,UAB,W,60,55,4.5,Mike Stuart,James Barker,Bert Smith
+2009-10,Mississippi State,W,76,74,7.5,Mike Thibodeaux,Kevin Mathis,Glenn Tuitt
+2009-10,William & Mary,W,80,72,-9,Karl Hess,Brian O'Connell,Wally Rutecki
+2009-10,Georgia Tech,L,58,62,3.5,Bryan Kersey,Mike Wood,Dwayne Gladden
+2009-10,Duke,L,50,82,15,Bryan Kersey,Gary Maxwell,Mike Wood
+2009-10,Miami,W,69,62,-4.5,Karl Hess,Tony Greene,Les Jones
+2009-10,Wake Forest,W,77,68,7,Roger Ayers,Raymond Styons,Jamie Luckie
+2009-10,Florida State,L,67,77,2,Karl Hess,Bryan Kersey,Ray Natili
+2009-10,Boston College,L,67,71,3,Jamie Luckie,Sean Hull,Pat Driscoll
+2009-10,Georgia Tech,L,51,68,6,Bryan Kersey,Gary Maxwell,John Cahill
+2009-10,NC State,W,74,61,-7,Mike Eades,Mike Stuart,Tim Nestor
+2009-10,Duke,L,54,64,5.5,Karl Hess,Les Jones,Roger Ayers
+2009-10,Maryland,L,71,92,6,Karl Hess,Jim Burr,Bryan Kersey
+2009-10,Virginia Tech,L,70,74,3.5,John Cahill,Mike Kitts,Tony Greene
+2009-10,UVA,L,60,75,-8,Mike Eades,Bernard Clinton,Brian Dorsey
+2009-10,NC State,W,77,63,-1,Les Jones,Ray Natili,Robert Donato
+2009-10,Wake Forest,L,69,82,-6.5,Karl Hess,Gary Maxwell,Mike Eades
+2009-10,Georgia Tech,L,71,73,-6.5,Mike Wood,Roger Ayers,Ray Perone
+2009-10,Clemson,L,64,83,5,Les Jones,Bryan Kersey,Tim Nestor
+2009-10,Virginia Tech,W,78,64,-8,Jamie Luckie,Ray Natili,Mike Kitts
+2009-10,College of Charleston ,L,79,82,-13.5,Mike Wood,Mike Stuart,Roger Ayers
+2009-10,Albany,W,87,70,-25.5,Mike Eades,Tim Nestor,Ray Perone
+2009-10,Rutgers,W,81,67,-20,Jamie Luckie,Sean Hull,Mike Kitts
+2009-10,Marshall,W,98,61,-13,Gary Maxwell,Doug Sirmons,Jerry Heater
+2009-10,Texas,L,90,103,7,Tom O'Neill,John Higgins,Mark Whitehead
+2009-10,Presbyterian,W,103,64,,Mike Wood,Ray Natili,Tony Dawkins
+2009-10,Kentucky,L,66,68,3.5,Tony Greene,Ted Valentine,Mike Eades
+2009-10,Michigan State,W,89,82,-1.5,Bryan Kersey,Roger Ayers,Mike Kitts
+2009-10,Nevada,W,80,73,-15,Jamie Luckie,Ed Corbett,John Cahill
+2009-10,Gardner Webb,W,93,72,,Mike Wood,Bernard Clinton,Jerry Heater
+2009-10,Syracuse,L,71,87,-1.5,Tony Greene,Roger Ayers,Mike Stuart
+2009-10,Ohio State,W,77,73,-2,Pat Driscoll,Mike Stuart,Michael Stephens
+2009-10,Valparaiso,W,88,77,-23,Karl Hess,Brent Hampton,Pat Adams
+2009-10,NC Central,W,89,42,-43.5,Tim Nestor,Alan Spainhour,Steve Coleman
+2009-10,FIU,W,88,72,-32.5,Mike Wood,Raymond Styons,Bill Covington Jr.
+2008-09,Michigan State,W,89,72,-7.5,Tom O'Neill,Curtis Shaw,Tony Greene
+2008-09,Villanova,W,83,69,-7,Karl Hess,Scott Thornley,Pat Driscoll
+2008-09,Oklahoma,W,72,60,-7,Tom Eades,Verne Harris,John Hughes
+2008-09,Gonzaga,W,98,77,-7.5,Scott Thornley,John Higgins,Mark Whitehead
+2008-09,LSU,W,84,70,-12.5,Karl Hess,Pat Driscoll,Doug Sirmons
+2008-09,Radford,W,101,58,-25,Pat Driscoll,Doug Sirmons,Jeffrey Anderson
+2008-09,Florida State,L,70,73,-9,Jamie Luckie,Bryan Kersey,Sean Hull
+2008-09,Virginia Tech,W,79,76,-11.5,Karl Hess,Ray Natili,Brian Dorsey
+2008-09,Duke,W,79,71,-8.5,Jamie Luckie,Bryan Kersey,Mike Eades
+2008-09,Virginia Tech,W,86,78,-9.5,Ed Corbett,Sean Hull,Ray Natili
+2008-09,Georgia Tech,W,104,74,-23,Karl Hess,Les Jones,Roger Ayers
+2008-09,Maryland,L,85,88,-12,Karl Hess,Gary Maxwell,Brian Dorsey
+2008-09,NC State,W,89,80,-19.5,Jamie Luckie,Ed Corbett,Mike Eades
+2008-09,Miami,W,69,65,-8,John Cahill,Sean Hull,Mike Kitts
+2008-09,Duke,W,101,87,-2,Karl Hess,Tony Greene,Mike Wood
+2008-09,UVA,W,76,61,-24,Bernard Clinton,Ray Natili,Robert Donato
+2008-09,Maryland,W,108,91,-22,John Cahill,Roger Ayers,Tony Greene
+2008-09,NC State,W,93,76,-15,Karl Hess,Mike Eades,Brian Dorsey
+2008-09,Florida State,W,80,77,-11,Karl Hess,Mike Eades,Brian Dorsey
+2008-09,Clemson,W,94,70,-13,Karl Hess,Roger Ayers,Robert Donato
+2008-09,Miami,W,82,65,-17.5,Les Jones,Mike Wood,Mike Eades
+2008-09,UVA,W,83,61,-16.5,Ed Corbett,John Cahill,Tony Greene
+2008-09,Wake Forest,L,89,92,-6.5,Karl Hess,Bernard Clinton,Jamie Luckie
+2008-09,College of Charleston,W,108,70,-27,Karl Hess,Les Jones,Bryan Kersey
+2008-09,Boston College,L,78,85,-23,Gary Maxwell,Mike Eades,Robert Donato
+2008-09,Nevada,W,84,61,-18.5,Randy McCall,Verne Harris,Bruce Hicks
+2008-09,Rutgers,W,97,75,-33,Jamie Luckie,Sean Hull,Robert Donato
+2008-09,Valparaiso,W,85,63,-29,Brian Dorsey,Jim Ferrari,Peter Juzenas
+2008-09,Evansville,W,91,73,-30.5,Karl Hess,Bryan Kersey,Mark Schnur
+2008-09,Oral Roberts,W,100,84,-36,Jamie Luckie,Mike Wood,Brian Dorsey
+2008-09,Michigan State,W,98,63,-10,Ed Hightower,Jim Burr,Steve Welmer
+2008-09,Asheville,W,116,48,,Ray Natili,Tony Greene,Mike Nance
+2008-09,Notre Dame,W,102,87,-10.5,Jamie Luckie,Robert Donato,Verne Harris
+2008-09,Oregon,W,98,69,-17.5,Mike Kitts,J.D. Collins,Bert Smith
+2008-09,Chaminade,W,115,70,,Dwayne Gladden,Tom Defelice,Verne Harris
+2008-09,UC Santa Barbara,W,84,67,-19,Dick Cartmell,Mike Scyphers,Duane Allen
+2008-09,Kentucky,W,77,58,-18.5,Karl Hess,Gary Maxwell,Roger Ayers
+2008-09,Penn,W,86,71,-32.5,Bryan Kersey,Jeff Clark,Tim Kelly
+2007-08,Kansas,L,66,84,-2.5,Tony Greene,Tom Eades,Verne Harris
+2007-08,Louisville,W,83,73,-5.5,Ed Corbett,Scott Thornley,Terry Wymer
+2007-08,Washington State,W,68,47,-8,Tim Higgins,John Hughes,Raymond Perone
+2007-08,Arkansas,W,108,77,-9.5,Ed Corbett,Verne Harris,Dwayne Gladden
+2007-08,Mount St. Mary's,W,113,74,-25,Paul Jenssen,Fred Davis,Gary Prager
+2007-08,Clemson,W,86,81,-5.5,Jamie Luckie,Les Jones,Mike Eades
+2007-08,Virginia Tech,W,68,66,-10.5,Karl Hess,Bryan Kersey,Gary Maxwell
+2007-08,Florida State,W,82,70,-13.5,Bryan Kersey,Tim Nestor,Roger Ayers
+2007-08,Duke,W,76,68,1.5,Karl Hess,Ted Valentine,Roger Ayers
+2007-08,Florida State,W,90,77,-16,Bryan Kersey,Mike Eades,Sean Hull
+2007-08,Boston College,W,90,80,-10.5,Jamie Luckie,Gary Maxwell,Roger Ayers
+2007-08,Wake Forest,W,89,73,-15.5,Les Jones,Robert Donato,Reggie Greenwood
+2007-08,NC State,W,84,70,-8.5,Roger Ayers,John Cahill,J.D. Collins
+2007-08,Virginia Tech,W,92,53,-13,Sean Hull,Brian Dorsey,Ray Perone
+2007-08,UVA,W,75,74,-7.5,Karl Hess,Ed Corbett,Tim Nestor
+2007-08,Clemson,W,103,93,-8.5,Ted Valentine,Bernard Clinton,Tony Greene
+2007-08,Duke,L,78,89,-4.5,Jamie Luckie,Tony Greene,Les Jones
+2007-08,Florida State ,W,84,73,-9.5,Mike Eades,Tim Nestor,Mike Stuart
+2007-08,Boston College,W,91,69,-18.5,Mike Wood,Curtis Shaw,Tony Greene
+2007-08,Miami,W,98,82,-8,Sean Hull,Ray Natili,Tim Kelly
+2007-08,Maryland,L,80,82,-18,Karl Hess,Jamie Luckie,Brian Dorsey
+2007-08,Georgia Tech,W,83,82,-11,Mike Wood,Mike Eades,Roger Ayers
+2007-08,NC State,W,93,62,-18.5,Bryan Kersey,Bernard Clinton,Pat Driscoll
+2007-08,Asheville,W,93,81,,Les Jones,Raymond Styons,Doug Sirmons
+2007-08,Clemson,W,90,88,-5.5,Gary Maxwell,Tony Greene,Ray Natili
+2007-08,Kent State,W,90,61,-19,Sean Hull,Tim Nestor,Mike Kitts
+2007-08,Valparaiso,W,90,58,-22.5,Gary Maxwell,Brian Dorsey,Mike Eades
+2007-08,Nevada,W,106,70,-23,Karl Hess,Mike Wood,Roger Ayers
+2007-08,UC Santa Barbara,W,105,70,-20.5,Ted Valentine,Bryan Kersey,Jerry Heater
+2007-08,Nicholls State,W,88,78,,Les Jones,Jose Carrion,Brian Dorsey
+2007-08,Rutgers,W,93,71,-19,Ed Corbett,Jamie Luckie,J.D. Collins
+2007-08,Penn,W,106,71,-25.5,Jeff Clark,Jeff Nichols,Tim Kelly
+2007-08,Kentucky,W,86,77,-8.5,Mike Stuart,Tom Eades,Karl Hess
+2007-08,Ohio State,W,66,55,-5.5,Ted Hillary,Jim Burr,Ed Corbett
+2007-08,BYU,W,73,63,-8,David Libbey,Tom Spitznagel,Kevin Cutler
+2007-08,Old Dominion,W,99,82,-16.5,Verne Harris,Mike Reed,Mike Scyphers
+2007-08,South Carolina State,W,110,64,,D.J. Carstensen,Frankie Bordeaux,Jay Gwynn
+2007-08,Iona,W,107,72,-34,John Gaffney,Paul Faia,Earl Walton
+2007-08,Davidson,W,72,68,-11,Mike Wood,Zelton Steed,Gary Maxwell
+2006-07,Georgetown ,L,84,96,-3.5,Curtis Shaw,Mike Scyphers,John Higgins
+2006-07,USC,W,74,64,-9,Tom Lopes,Mike Sanzere,Mike Roberts
+2006-07,Michigan State,W,81,67,-10,Randy McCall,Pat Driscoll,Doug Sirmons
+2006-07,EKU,W,86,65,-28,Verne Harris,Bruce Hicks,Steve Welmer
+2006-07,NC State,W,89,80,-14.5,Karl Hess,Bryan Kersey,Gary Maxwell
+2006-07,Boston College,W,71,56,-11,Les Jones,Jamie Luckie,Mike Eades
+2006-07,Florida State,W,73,58,-11.5,Mike Wood,Les Jones,Roger Ayers
+2006-07,Duke,W,86,72,-10,Karl Hess,Jamie Luckie,Les Jones
+2006-07,Georgia Tech,L,77,84,-5.5,Tony Greene,Curtis Shaw,Bryan Kersey
+2006-07,Maryland,L,87,89,-3.5,Gary Maxwell,Tom Lopes,Karl Hess
+2006-07,NC State,W,83,64,-21,Bryan Kersey,Mike Eades,Pat Adams
+2006-07,Boston College,W,77,72,-6.5,Karl Hess,Earl Walton,Ray Natili
+2006-07,Virginia Tech,L,80,81,-15,Jamie Luckie,J.B. Caldwell,Curtis Shaw
+2006-07,Wake Forest,W,104,67,-23.5,Les Jones,Roger Ayers,Bernard Clinton
+2006-07,Duke,W,79,73,-4,Ted Valentine,Gary Maxwell,Reggie Greenwood
+2006-07,NC State,L,79,83,-16.5,Bryan Kersey,Ray Natili,Curtis Shaw
+2006-07,Miami,W,105,64,-24.5,Karl Hess,Mike Kitts,Robert Donato
+2006-07,Arizona,W,92,64,-2.5,Bryan Kersey,Mike Eades,Mike Wood
+2006-07,Wake Forest,W,88,60,-15.5,Gary Maxwell,John Cahill,Brian Dorsey
+2006-07,Georgia Tech,W,77,61,-12.5,Ted Valentine,Les Jones,Ray Natili
+2006-07,Clemson,W,77,55,-4,Mike Eades,Roger Ayers,Duke Edsall
+2006-07,Virginia Tech,L,88,94,-4.5,Mike Wood,Ray Natili,Sean Hull
+2006-07,UVA,W,79,69,-18,Mark Kitts,Curtis Shaw,Earl Walton
+2006-07,Florida State,W,84,58,-15,Ted Valentine,Mike Eades,Gary Maxwell
+2006-07,Penn,W,102,64,-21,Jamie Luckie,Roger Ayers,Earl Walton
+2006-07,Dayton,W,81,51,-22,Karl Hess,Mike Eades,Brian Dorsey
+2006-07,Rutgers,W,87,48,-26.5,Karl Hess,Bernard Clinton,Michael Stephens
+2006-07,Saint Louis,W,69,48,-8.5,Robert Donato,Jim Burr,Ray Perone
+2006-07,Florida Atlantic,W,105,52,-32.5,Les Jones,Tim Nestor,Sean Hull
+2006-07,Asheville,W,93,62,,Mike Wood,Dan Stryffeler,Raymond Styons
+2006-07,High Point,W,94,69,,Manny Upton,Jerry Heater,Roger Ayers
+2006-07,Kentucky,W,75,63,-10.5,Karl Hess,Ted Valentine,Tom Lopes
+2006-07,Ohio State,W,98,89,-8.5,Bryan Kersey,Tony Greene,Les Jones
+2006-07,Tennessee,W,101,87,-9,Joe Lindsay,Jamie Luckie,Doug Shows
+2006-07,Gonzaga,L,74,82,-7.5,Jim Burr,Ed Corbett,Mike Shepherd
+2006-07,Gardner Webb,W,103,50,,Les Jones,Jerry Heater,Mark Schnur
+2006-07,Winthrop,W,73,66,-11.5,Mike Kitts,Tom Lopes,Bernard Clinton
+2006-07,Sacred Heart,W,103,81,-34,Doug Shows,J.B. Caldwell,Tim Clougherty
+2005-06,George Mason,L,60,65,-6,Reggie Greenwood,Ted Hillary,Tom O'Neill
+2005-06,Murray State,W,69,65,-10,Tom O'Neill,Mike Scyphers,Bill Vinovich
+2005-06,Boston College,L,82,85,-3.5,Les Jones,Ray Natili,Mike Eades
+2005-06,UVA,W,79,67,-12,Bryan Kersey,Duke Edsall,Bernard Clinton
+2005-06,Duke,W,83,76,7,Karl Hess,Ted Valentine,Ray Natili
+2005-06,UVA,W,99,54,-13,Gary Maxwell,Roger Ayers,Tim Nestor
+2005-06,Maryland,W,81,57,-8.5,Reggie Greenwood,Tom Lopes,Brian Dorsey
+2005-06,NC State,W,95,71,3,Bryan Kersey,John Cahill,Les Jones
+2005-06,Wake Forest,W,83,72,-3.5,Mike Kitts,Mike Wood,Mike Stuart
+2005-06,Georgia Tech,W,82,75,-11.5,Les Jones,Bernard Clinton,Roger Ayers
+2005-06,Miami,W,80,70,1,Jamie Luckie,Tony Greene,Tim Nestor
+2005-06,Duke,L,83,87,5.5,Jamie Luckie,Jim Burr,Tim Higgins
+2005-06,Clemson,W,76,61,-7.5,Les Jones,Bryan Kersey,Jim Burr
+2005-06,Maryland,W,77,62,4,Karl Hess,Ed Corbett,Mike Kitts
+2005-06,Arizona,W,86,69,-3.5,Bruce Hicks,Mark Reischling,Mike Reed
+2005-06,Boston College,L,74,81,-3,Gary Maxwell,Jamie Luckie,Mike Eades
+2005-06,Florida State,W,81,80,3,Les Jones,Karl Hess,Tim Higgins
+2005-06,UVA,L,68,72,-3,Karl Hess,Les Jones,Bernard Clinton
+2005-06,Miami,L,70,81,-10.5,Gary Maxwell,Duke Edsall,Mike Wood
+2005-06,Virginia Tech,W,64,61,-1,Ed Corbett,Ted Valentine,Tony Greene
+2005-06,NC State,W,82,69,-2.5,Karl Hess,Jamie Luckie,Mike Wood
+2005-06,Davidson,W,82,58,-10.5,Ray Natili,Curtis Blair,Mike Eades
+2005-06,Asheville,W,89,47,,Ted Valentine,Tim Nestor,Roger Ayers
+2005-06,USC,L,59,74,-4.5,Stanley Reynolds,Jim Giron,Martin Cota
+2005-06,Santa Clara,W,76,58,-17.5,Jamie Luckie,Ray Natili,Bryan Kersey
+2005-06,Saint Louis,W,75,63,-13.5,Bryan Kersey,Bernard Clinton,Mike Wood
+2005-06,Kentucky,W,83,79,7,Tony Greene,Karl Hess,Doug Sirmons
+2005-06,Illinois,L,64,68,-1,Jim Burr,Ray Natili,Karl Hess
+2005-06,UC Santa Barbara,W,83,66,-13.5,Gary Maxwell,Mike Wood,Tim Nestor
+2005-06,Cleveland State,W,112,55,-18.5,Gary Maxwell,Doug Sirmons,Dwayne Gladden
+2005-06,Gardner Webb,W,83,80,,Les Jones,Tony Greene,Steve Gordon
+2004-05,Illinois,W,75,70,-2,Ed Corbett,John Cahill,Verne Harris
+2004-05,Michigan State,W,87,71,-4.5,Robert Donato,Reggie Greenwood,Randy McCall
+2004-05,Wisconsin,W,88,82,-9.5,John Cahill,Richard Cartmell,Bruce Hicks
+2004-05,Villanova,W,67,66,-11,Tom O'Neill,David Hall,Gerry Pollard
+2004-05,Iowa State,W,92,65,-15.5,Scott Thornley,Eddie Jackson,Ted Hillary
+2004-05,Oakland,W,96,68,-28,Ted Hillary,Mike Nance,Jim Stupin
+2004-05,Georgia Tech,L,75,78,-8,Karl Hess,Bryan Kersey,Ray Natili
+2004-05,Clemson,W,88,81,-16.5,Les Jones,Jamie Luckie,Tim Nestor
+2004-05,Duke,W,75,73,-7.5,Larry Rose,Reggie Cofer,Gary Maxwell
+2004-05,Florida State,W,91,76,-22,Bryan Kersey,Les Jones,Mike Kitts
+2004-05,Maryland,W,85,83,-6.5,Karl Hess,Mike Wood,Ray Natili
+2004-05,NC State,W,81,71,-7,Les Jones,Ed Corbett,Ted Valentine
+2004-05,Clemson,W,88,56,-22.5,Mike Wood,Gary Maxwell,Mike Eades
+2004-05,UVA,W,85,61,-23,Larry Rose,William Bush,Tim Nestor
+2004-05,Connecticut,W,77,70,-8,Karl Hess,Bryan Kersey,Mike Kitts
+2004-05,Duke,L,70,71,-1.5,Mike Wood,Les Jones,Bryan Kersey
+2004-05,Florida State,W,81,60,-14,Duke Edsall,Steve Gordon,Tony Greene
+2004-05,NC State,W,95,71,-16,Karl Hess,Reggie Cofer,Robert Donato
+2004-05,UVA,W,110,76,-14,Duke Edsall,Ray Natili,Jamie Luckie
+2004-05,Miami,W,87,67,-21,Duke Edsall,Steve Gordon,Roger Ayers
+2004-05,Clemson,W,77,58,-12,Larry Rose,Bryan Kersey,Joe Lindsay
+2004-05,Wake Forest,L,82,95,-2.5,Bernard Clinton,Karl Hess,Mike Wood
+2004-05,Georgia Tech,W,91,69,-11,Larry Rose,Jamie Luckie,Robert Donato
+2004-05,Maryland,W,109,75,-11.5,Larry Rose,Reggie Cofer,Ted Valentine
+2004-05,William & Mary,W,105,66,-40.5,Duke Edsall,Emanuel Upton,Frank Raposo
+2004-05,Cleveland State,W,107,64,-32,Ray Natili,Sean Hull,Raymond Styons
+2004-05,UNC-Wilmington,W,96,75,-31,Duke Edsall,Mike Eades,Alan Spainhour
+2004-05,Vermont,W,93,65,,Robert Donato,Roger Ayers,Dwayne Gladden
+2004-05,Virginia Tech,W,85,51,-14.5,Karl Hess,Edwin Edsall,Bryan Kersey
+2004-05,Loyola Chicago,W,109,60,-29,Reggie Cofer,Tony Greene,David Guthrie
+2004-05,Kentucky,W,91,78,-8.5,Karl Hess,Les Jones,Tony Greene
+2004-05,Indiana,W,70,63,-13,Jim Burr,Donnee Gray,Tim Higgins
+2004-05,USC,W,97,65,-17.5,Mike Wood,Gary Maxwell,Reggie Cofer
+2004-05,Iowa,W,106,92,-11,Robert Donato,Tony Greene,Verne Harris
+2004-05,Tennessee,W,94,81,-10,Verne Harris,Mike Eades,Pat Evans
+2004-05,BYU,W,86,50,-13,Robert Donato,Craig Peterson,J.D. Collins
+2004-05,Santa Clara,L,66,77,-13,David Libbey,Mike Irving,Verne Harris
+2003-04,Texas,L,75,78,-1,John Cahill,Donnee Gray,Rob Staffen
+2003-04,Air Force,W,63,52,-8.5,John Cahill,Robert Adams,John Caldwell
+2003-04,Georgia Tech,L,82,83,-1.5,Duke Edsall,Les Jones,Jamie Luckie
+2003-04,Duke,L,65,70,9.5,Mike Wood,Gary Maxwell,Reggie Cofer
+2003-04,Clemson,W,69,53,-17.5,Mike Kitts,Duke Edsall,Larry Rose
+2003-04,NC State,W,71,64,4,Mike Stuart,Bryan Kersey,Robert Donato
+2003-04,UVA,L,72,74,-5.5,Karl Hess,Ted Valentine,Bernard Clinton
+2003-04,Florida State,W,78,71,-11.5,Mike Wood,Gary Maxwell,Steve Gordon
+2003-04,Maryland,W,97,86,-8,Mike Stuart,Jamie Luckie,Reggie Cofer
+2003-04,Georgia Tech,L,77,88,4.5,Karl Hess,Ray Natili,Mike Eades
+2003-04,Wake Forest,W,79,73,3.5,Reggie Cofer,Jamie Luckie,Mike Wood
+2003-04,Duke,L,81,83,3.5,Karl Hess,Bryan Kersey,Duke Edsall
+2003-04,Clemson,L,72,81,-8.5,Ted Valentine,Ray Natili,Les Jones
+2003-04,NC State,W,68,66,-9,Mike Wood,Robert Donato,William Bush
+2003-04,UVA,W,96,77,-15.5,Jamie Luckie,Les Jones,Larry Rose
+2003-04,Florida State,L,81,90,-4,Ted Valentine,John Cahill,Roger Ayers
+2003-04,Connecticut,W,86,83,-2,Karl Hess,Robert Donato,Les Jones
+2003-04,Maryland,L,84,90,2,Duke Edsall,Mike Wood,Bryan Kersey
+2003-04,Georgia Tech,W,103,88,-4.5,Ed Corbett,Mike Kitts,Steve Gordon
+2003-04,Miami,W,89,64,-17,Bryan Kersey,Lee Jones,Tom Lopes
+2003-04,Kentucky,L,56,61,5,John Clougherty,Tom Lopes,Tom Eades
+2003-04,Coastal Carolina,W,105,72,,Jamie Luckie,Alan Spainhour,Sean Hull
+2003-04,UNC-Wilmington,W,71,54,-14,Mike Wood,Duke Edsall,Reggie Cofer
+2003-04,Wake Forest,L,114,119,-4,Jamie Luckie,Duke Edsall,Reggie Cofer
+2003-04,Akron,W,64,53,-20,Ted Valentine,Ray Natili,Robert Donato
+2003-04,George Mason,W,115,81,-14.5,Les Jones,Larry Rose,Steve Gordon
+2003-04,Illinois,W,88,81,-2,Reggie Cofer,Jamie Luckie,Bryan Kersey
+2003-04,Cleveland State,W,82,76,-16,Gary Maxwell,Everett Summers,Sean Carpenter
+2003-04,Davidson,W,91,68,-17.5,Mike Wood,Tim Nestor,Mike Eades
+2003-04,Old Dominion,W,90,64,-20,Karl Hess,Mike Eades,Jerry Heater
