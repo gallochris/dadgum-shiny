@@ -164,7 +164,7 @@ ui <- dashboardPage(
       menuItem(
         "Point Spreads",
         tabName = "spread",
-        icon = icon("arrow-circle-down")
+        icon = icon("money-check")
       ),
       menuItem("FAQs", tabName = "purpose", icon = icon("question"))
     )
