@@ -122,6 +122,31 @@ spread <- read_csv(
     )
 )
 
+rafters <- read_csv(
+  "data/rafters.csv",
+  col_types =
+    cols(
+      player = col_character(),
+      retired = col_skip(),
+      games = col_number(),
+      fgm = col_number(),
+      fga = col_number(),
+      pct = col_number(),
+      tfgm = col_number(),
+      tfga = col_number(),
+      tfgpct = col_number(),
+      ftm = col_number(),
+      fta = col_number(),
+      ftpct = col_number(),
+      reb = col_number(),
+      pf = col_number(),
+      assists = col_number(),
+      tos = col_number(),
+      blocks = col_number(),
+      stls =  col_number()
+    )
+)
+
 # Load UI -----------------------------------------------------------------------
 ui <- dashboardPage(
   # Add header -------------------------------------------------------------------------------
@@ -166,6 +191,9 @@ ui <- dashboardPage(
         tabName = "spread",
         icon = icon("money-check")
       ),
+      menuItem("Rafters",
+               tabName = "rafters",
+               icon = icon("tshirt")),
       menuItem("FAQs", tabName = "purpose", icon = icon("question"))
     )
   ),
@@ -183,7 +211,7 @@ ui <- dashboardPage(
         fluidRow(width = 12,
                  div(
                    class = "center",
-                   titlePanel("Every UNC Box Score Since 2003-04"),
+                   titlePanel("Box Scores Game-By-Game"),
                    h3("Filter by season, result, opponent, or overtime"),
                    p(class = "d-sm-none", "You're on a mobile screen, flip to landscape or scroll")
                  )),
@@ -477,6 +505,21 @@ ui <- dashboardPage(
         box(width = 12,
             reactableOutput('tablesix'))
       ),
+      # RAFTERS TAB ----------------------------------------------------------------------------------
+      tabItem(
+        tabName = "rafters",
+        # HTML for factors tab -------------------------------------------------------------------------
+        fluidRow(width = 12,
+                 div(
+                   class = "center",
+                   titlePanel("Jerseys in the Rafters"),
+                   h3("List includes retired and honored jerseys."),
+                   p(class = "d-sm-none", "You're on a mobile screen, flip to landscape or scroll")
+                 )),
+        # Reactable for spread tab ----------------------------------------------------------------------
+        box(width = 12,
+            reactableOutput('tableseven'))
+      ),
       # PURPOSE TAB -----------------------------------------------------------------------------------------
       tabItem(tabName = "purpose",
               fluidRow(
@@ -552,13 +595,13 @@ server <- function(input, output, session) {
   output$tableone = renderReactable({
     data <- gumdad
     if (input$season != "All") {
-      data <- data[data$season == input$season, ]
+      data <- data[data$season == input$season,]
     }
     if (input$opponent != "All") {
-      data <- data[data$opponent == input$opponent, ]
+      data <- data[data$opponent == input$opponent,]
     }
     if (!is.null(input$result)) {
-      data <- data[data$result == input$result, ]
+      data <- data[data$result == input$result,]
     }
     reactable(
       data,
@@ -575,7 +618,8 @@ server <- function(input, output, session) {
         location = colDef(name = "Location"),
         type = colDef(name = "Type"),
         result = colDef(
-          name = "Result", maxWidth = 55,
+          name = "Result",
+          maxWidth = 55,
           cell = function(value) {
             class <- paste0("tag status-", tolower(value))
             htmltools::div(class = class, value)
@@ -597,14 +641,14 @@ server <- function(input, output, session) {
   output$tabletwo = renderReactable({
     datatwo <- factors
     if (input$seasonfactors != "All") {
-      datatwo <- datatwo[datatwo$season == input$seasonfactors, ]
+      datatwo <- datatwo[datatwo$season == input$seasonfactors,]
     }
     if (input$opponentfactors != "All") {
-      datatwo <- datatwo[datatwo$opponent == input$opponentfactors, ]
+      datatwo <- datatwo[datatwo$opponent == input$opponentfactors,]
     }
     
     if (!is.null(input$resultfactors)) {
-      datatwo <- datatwo[datatwo$result == input$resultfactors, ]
+      datatwo <- datatwo[datatwo$result == input$resultfactors,]
     }
     
     reactable(
@@ -685,14 +729,14 @@ server <- function(input, output, session) {
   output$tablethree = renderReactable({
     datathree <- refs
     if (input$seasonrefs != "All") {
-      datathree <- datathree[datathree$season == input$seasonrefs, ]
+      datathree <- datathree[datathree$season == input$seasonrefs,]
     }
     if (input$opponentrefs != "All") {
-      datathree <- datathree[datathree$opponent == input$opponentrefs, ]
+      datathree <- datathree[datathree$opponent == input$opponentrefs,]
     }
     
     if (!is.null(input$resultrefs)) {
-      datathree <- datathree[datathree$result == input$resultrefs, ]
+      datathree <- datathree[datathree$result == input$resultrefs,]
     }
     reactable(
       datathree,
@@ -732,17 +776,17 @@ server <- function(input, output, session) {
     if (!is.null(input$efgshots)) {
       datafour <-
         datafour[datafour$efg >= input$efgshots[1] &
-                   datafour$efg <= input$efgshots[2], ]
+                   datafour$efg <= input$efgshots[2],]
     }
     if (input$seasonshots != "All") {
-      datafour <- datafour[datafour$season == input$seasonshots, ]
+      datafour <- datafour[datafour$season == input$seasonshots,]
     }
     if (input$opponentshots != "All") {
-      datafour <- datafour[datafour$opponent == input$opponentshots, ]
+      datafour <- datafour[datafour$opponent == input$opponentshots,]
     }
     
     if (!is.null(input$resultshots)) {
-      datafour <- datafour[datafour$result == input$resultshots, ]
+      datafour <- datafour[datafour$result == input$resultshots,]
     }
     
     reactable(
@@ -806,17 +850,17 @@ server <- function(input, output, session) {
     if (!is.null(input$oefgshots)) {
       datafive <-
         datafive[datafive$oefg >= input$oefgshots[1] &
-                   datafive$oefg <= input$oefgshots[2], ]
+                   datafive$oefg <= input$oefgshots[2],]
     }
     if (input$seasondef != "All") {
-      datafive <- datafive[datafive$season == input$seasondef, ]
+      datafive <- datafive[datafive$season == input$seasondef,]
     }
     if (input$opponentdef != "All") {
-      datafive <- datafive[datafive$opponent == input$opponentdef, ]
+      datafive <- datafive[datafive$opponent == input$opponentdef,]
     }
     
     if (!is.null(input$resultdef)) {
-      datafive <- datafive[datafive$result == input$resultdef, ]
+      datafive <- datafive[datafive$result == input$resultdef,]
     }
     
     reactable(
@@ -872,18 +916,18 @@ server <- function(input, output, session) {
       )
     )
   })
-  # Spread SERVER TAB --------------------------------------------------------------------------------
+  # SPREAD SERVER TAB --------------------------------------------------------------------------------
   output$tablesix = renderReactable({
     datasix <- spread
     if (input$seasonspread != "All") {
-      datasix <- datasix[datasix$season == input$seasonspread, ]
+      datasix <- datasix[datasix$season == input$seasonspread,]
     }
     if (input$opponentspread != "All") {
-      datasix <- datasix[datasix$opponent == input$opponentspread, ]
+      datasix <- datasix[datasix$opponent == input$opponentspread,]
     }
     
     if (!is.null(input$resultspread)) {
-      datasix <- datasix[datasix$result == input$resultspread, ]
+      datasix <- datasix[datasix$result == input$resultspread,]
     }
     reactable(
       datasix,
@@ -927,6 +971,70 @@ server <- function(input, output, session) {
         refone = colDef(name = "Ref 1"),
         reftwo = colDef(name = "Ref 2"),
         refthree = colDef(name = "Ref 3")
+      )
+    )
+  })
+  # RAFTERS SERVER TAB --------------------------------------------------------------------------------
+  output$tableseven = renderReactable({
+    dataseven <- rafters
+    retired <-
+      c(
+        "Jack Cobb",
+        "Lennie Rosenbluth",
+        "Phil Ford",
+        "George Glamack",
+        "Michael Jordan",
+        "Antawn Jamison",
+        "Tyler Hansbrough",
+        "James Worthy"
+      )
+    reactable(
+      dataseven,
+      searchable = TRUE,
+      pagination = FALSE,
+      bordered = TRUE,
+      highlight = TRUE,
+      compact = TRUE,
+      fullWidth = TRUE,
+      columns = list(
+        player = colDef(
+          name = "Player",
+          maxWidth = 250,
+          style = function(value, index, name) {
+            color <- if (is.character(value) && value %in% retired) {
+              list(background = "#ffffa1", fontWeight = 700)
+            }
+          }
+        ),
+        games = colDef(name = "Games", maxWidth = 60),
+        points = colDef(name = "Points", maxWidth = 75),
+        fgm = colDef(name = "FGM", maxWidth = 50),
+        fga = colDef(name = "FGA", maxWidth = 50),
+        pct = colDef(
+          name = "FG%",
+          format = colFormat(digits = 1),
+          maxWidth = 50
+        ),
+        tfgm = colDef(name = "3PM", maxWidth = 60),
+        tfga = colDef(name = "3PA", maxWidth = 50),
+        tfgpct = colDef(
+          name = "3PT%",
+          format = colFormat(digits = 1),
+          maxWidth = 60
+        ),
+        ftm = colDef(name = "FTM", maxWidth = 50),
+        fta = colDef(name = "FTA", maxWidth = 50),
+        ftpct = colDef(
+          name = "FT%",
+          format = colFormat(digits = 1),
+          maxWidth = 75
+        ),
+        reb = colDef(name = "Rebounds", maxWidth = 85),
+        pf = colDef(name = "Fouls", maxWidth = 60),
+        assists = colDef(name = "Assists", maxWidth = 70),
+        tos = colDef(name = "TOs", maxWidth = 60),
+        blocks = colDef(name = "Blocks", maxWidth = 70),
+        stls = colDef(name = "Steals", maxWidth = 70)
       )
     )
   })
