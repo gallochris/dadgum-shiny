@@ -607,11 +607,12 @@ server <- function(input, output, session) {
       data,
       searchable = TRUE,
       resizable = TRUE,
-      pagination = FALSE,
       highlight = TRUE,
       compact = TRUE,
       fullWidth = TRUE,
       bordered = TRUE,
+      minRows = 8,
+      showPageSizeOptions = TRUE,
       columns = list(
         season = colDef(name = "Season"),
         opponent = colDef(name = "Opponent"),
@@ -654,12 +655,12 @@ server <- function(input, output, session) {
     reactable(
       datatwo,
       searchable = TRUE,
-      pagination = FALSE,
       bordered = TRUE,
       highlight = TRUE,
       compact = TRUE,
       fullWidth = TRUE,
       resizable = TRUE,
+      showPageSizeOptions = TRUE,
       columns = list(
         season = colDef(name = "Season", maxWidth = 70),
         opponent = colDef(name = "Opponent", maxWidth = 150),
@@ -741,11 +742,11 @@ server <- function(input, output, session) {
     reactable(
       datathree,
       searchable = TRUE,
-      pagination = FALSE,
       bordered = TRUE,
       highlight = TRUE,
       compact = TRUE,
       fullWidth = TRUE,
+      showPageSizeOptions = TRUE,
       columns = list(
         season = colDef(name = "Season", maxWidth = 75),
         opponent = colDef(name = "Opponent", maxWidth = 150),
@@ -792,11 +793,11 @@ server <- function(input, output, session) {
     reactable(
       datafour,
       searchable = TRUE,
-      pagination = FALSE,
       bordered = TRUE,
       highlight = TRUE,
       compact = TRUE,
       fullWidth = TRUE,
+      showPageSizeOptions = TRUE,
       columns = list(
         season = colDef(name = "Season", maxWidth = 75),
         opponent = colDef(name = "Opponent", maxWidth = 150),
@@ -866,11 +867,11 @@ server <- function(input, output, session) {
     reactable(
       datafive,
       searchable = TRUE,
-      pagination = FALSE,
       bordered = TRUE,
       highlight = TRUE,
       compact = TRUE,
       fullWidth = TRUE,
+      showPageSizeOptions = TRUE,
       columns = list(
         season = colDef(name = "Season", maxWidth = 75),
         opponent = colDef(name = "Opponent", maxWidth = 150),
@@ -932,11 +933,12 @@ server <- function(input, output, session) {
     reactable(
       datasix,
       searchable = TRUE,
-      pagination = FALSE,
       bordered = TRUE,
       highlight = TRUE,
       compact = TRUE,
       fullWidth = TRUE,
+      minRows = 9,
+      showPageSizeOptions = TRUE,
       columns = list(
         season = colDef(name = "Season", maxWidth = 75),
         opponent = colDef(name = "Opponent", maxWidth = 150),
@@ -996,6 +998,7 @@ server <- function(input, output, session) {
       highlight = TRUE,
       compact = TRUE,
       fullWidth = TRUE,
+      minRows = 18,
       columns = list(
         player = colDef(
           name = "Player",
