@@ -686,42 +686,42 @@ server <- function(input, output, session) {
         efg = colDef(
           name = "eFG",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         oefg = colDef(
           name = "D eFG",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         to = colDef(
           name = "TO",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         oto = colDef(
           name = "D TO",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         or = colDef(
           name = "OR",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         oor = colDef(
           name = "DR",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         ft = colDef(
           name = "FT",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         oft = colDef(
           name = "D FT",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         )
       )
     )
