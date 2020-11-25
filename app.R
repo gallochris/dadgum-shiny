@@ -812,33 +812,33 @@ server <- function(input, output, session) {
         efg = colDef(
           name = "eFG",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         pm = colDef(name = "2PTM", maxWidth = 75),
         pa = colDef(name = "2PTA", maxWidth = 75),
         pmp = colDef(
           name = "2PT%",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         tpm = colDef(name = "3PTM", maxWidth = 75),
         tpa = colDef(name = "3PTA", maxWidth = 75),
         tmp = colDef(
           name = "3PT%",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         tmpa = colDef(
           name = "3PTRate",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         fpa = colDef(name = "FTM", maxWidth = 75),
-        fpt = colDef(name = "FTM", maxWidth = 75),
+        fpt = colDef(name = "FTA", maxWidth = 75),
         tft = colDef(
-          name = "FTA",
+          name = "FT%",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         )
       )
     )
@@ -886,33 +886,33 @@ server <- function(input, output, session) {
         oefg = colDef(
           name = "eFG",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         opm = colDef(name = "2PTM", maxWidth = 75),
         opa = colDef(name = "2PTA", maxWidth = 75),
         opmp = colDef(
           name = "2PT%",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         otpm = colDef(name = "3PTM", maxWidth = 75),
         otpa = colDef(name = "3PTA", maxWidth = 75),
         otmp = colDef(
           name = "3PT%",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         otmpa = colDef(
           name = "3PTRate",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         ),
         ofpa = colDef(name = "FTM", maxWidth = 75),
-        ofpt = colDef(name = "FTM", maxWidth = 75),
+        ofpt = colDef(name = "FTA", maxWidth = 75),
         otft = colDef(
-          name = "FTA",
+          name = "FT%",
           maxWidth = 75,
-          format = colFormat(digits = 2)
+          format = colFormat(digits = 1)
         )
       )
     )
