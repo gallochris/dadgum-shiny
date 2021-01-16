@@ -6,6 +6,9 @@ library(shinydashboard)
 library(dplyr)
 library(htmlwidgets)
 library(htmltools)
+library(ggvis)
+library(ggthemes)
+library(ggplot2)
 
 # Load data -----------------------------------------------------------------------
 gumdad <- read_csv(
@@ -146,6 +149,8 @@ rafters <- read_csv(
       stls =  col_number()
     )
 )
+# Load data for plots ----------------------------------------------------------------------
+plot <- read.csv("data/plot.csv")
 
 # Load UI -----------------------------------------------------------------------
 ui <- dashboardPage(
@@ -186,6 +191,11 @@ ui <- dashboardPage(
         tabName = "def",
         icon = icon("arrow-circle-down")
       ),
+      menuItem(
+        "Plot Party", 
+        tabName = "party", 
+        icon = icon("chart-line")
+      ), 
       menuItem(
         "Point Spreads",
         tabName = "spread",
@@ -461,6 +471,91 @@ ui <- dashboardPage(
               reactableOutput('tablefive'))
         )
       ),
+
+      # PLOT PARTY TAB -------------------------------------------------------------------------------------- 
+  tabItem(tabName = "party",
+    fluidRow(column(width=8,
+  h2("Plots using individual game data"),
+  p("Data shows game-by-game numbers for effective field goal (eFG), turnover (TO%), 
+          offensive rebounding (OR%), two-point shots (2PT%), three-point shots (3PT%), 
+          and free throws (FT%). Rates/attempts for three-point shots and free throws."),
+  p(class="d-sm-none", "You're on a mobile screen, these plots will be a bit tougher to use.")
+  )
+),
+    fluidRow(
+     box(title = "The Plot Thickens", solidHeader=TRUE,  ggvisOutput("plot1"),uiOutput("plot1_ui"), width=8),
+     box(title = "Filters", solidHeader=TRUE,  
+         
+         
+         selectInput("yearinput", label = h5("Select Season"), 
+                     choices = c("All", as.list(levels(as.factor(plot$season)))), selected = "All"),
+
+         selectInput("opponentinput", label = h5("Select Opponent"), 
+                     choices = c("All", as.list(levels(as.factor(plot$opponent)))), selected = "All"),
+         
+         selectInput("selectx1", label = h5("X-Axis"), 
+                     choices = list("Pace" = "pace", 
+                                    "UNC PPP" = "ppp", 
+                                    "UNC eFG" = "efg",
+                                    "UNC TO%" = "to", 
+                                    "UNC OR%" = "or", 
+                                    "UNC FTRate" = "ft",
+                                    "UNC 2PT%" = "pmp", 
+                                    "UNC 3PT%" = "tmp", 
+                                    "UNC 3PTRate" = "tmpa",
+                                    "UNC FTM" = "fpa", 
+                                    "UNC FTA" = "fpt",
+                                    "UNC FT%" = "tft", 
+                                    "OPP PPP" = "oppp", 
+                                    "OPP eFG" = "oefg",
+                                    "OPP TO%" = "oto", 
+                                    "OPP OR%" = "oor", 
+                                    "OPP FTRate" = "oft",
+                                    "OPP 2PT%" = "opmp", 
+                                    "OPP 3PT%" = "otmp", 
+                                    "OPP 3PTRate" = "otmpa",
+                                    "OPP FTM" = "ofpa",
+                                    "OPP FTA" = "ofpt",
+                                    "OPP FT%" = "otft"                  
+                     ), 
+                     selected = "efg"),
+         
+         
+         
+         selectInput("selecty1", label = h5("Y-Axis"), 
+                     choices = list("Pace" = "pace", 
+                                    "UNC PPP" = "ppp", 
+                                    "UNC eFG" = "efg",
+                                    "UNC TO%" = "to", 
+                                    "UNC OR%" = "or", 
+                                    "UNC FTRate" = "ft",
+                                    "UNC 2PT%" = "pmp", 
+                                    "UNC 3PT%" = "tmp", 
+                                    "UNC 3PTRate" = "tmpa",
+                                    "UNC FTM" = "fpa", 
+                                    "UNC FTA" = "fpt",
+                                    "UNC FT%" = "tft", 
+                                    "OPP PPP" = "oppp", 
+                                    "OPP eFG" = "oefg",
+                                    "OPP TO%" = "oto", 
+                                    "OPP OR%" = "oor", 
+                                    "OPP FTRate" = "oft",
+                                    "OPP 2PT%" = "opmp", 
+                                    "OPP 3PT%" = "otmp", 
+                                    "OPP 3PTRate" = "otmpa",
+                                    "OPP FTM" = "ofpa",
+                                    "OPP FTA" = "ofpt",
+                                    "OPP FT%" = "otft"  
+                                    
+                     ), 
+                     selected = "or"),
+         
+         width=4)
+    
+          )
+
+      ), 
+
       # SPREAD TAB ----------------------------------------------------------------------------------
       tabItem(
         tabName = "spread",
@@ -917,6 +1012,85 @@ server <- function(input, output, session) {
       )
     )
   })
+
+   # PLOT PARTY SERVER TAB ----------------------------------------------------------------------------------
+
+titledf <- data.frame(var1 = c("pace",  "ppp", "efg", "to", "or", "ft", "pmp", "tmp", "tmpa", "fpa", "fpt", 
+                                  "tft", "oppp", "oefg", "oto", "oor", "oft", "opmp", "otmp", 
+                                  "otmpa", "ofpa", "ofpt", "otft"),
+                        
+                        var2 = c("Pace", "UNC PPP", "UNC eFG", "UNC TO%", "UNC OR%", "UNC FTRate", 
+                                  "UNC 2PT%", "UNC 3PT%", "UNC 3PTRate", "UNC FTM", "UNC FTA", "UNC FT%", "OPP PPP", 
+                                  "OPP eFG", "OPP TO%", "OPP OR%", "OPP FTRate", "OPP 2PT%", "OPP 3PT%", 
+                                  "OPP 3PTRate", "OPP FTM", "OPP FTA", "OPP FT%") 
+  )
+  
+
+# Ensure factor levels are set for color consistency:
+
+
+
+# For Dynamic Titles
+titlex1 <- reactive({  as.character(titledf$var2[match(input$selectx1, titledf$var1)])    })
+titley1 <- reactive({  as.character(titledf$var2[match(input$selecty1, titledf$var1)])    })
+
+### Scatter 1 Get Data
+mydf1 <- reactive({
+  
+  mydf1  <- plot
+  
+  if (input$yearinput=="All") { 
+    mydf1
+  }
+  
+  else
+ 
+    if (input$yearinput!="All"){
+      
+      mydf1 <- mydf1 %>% filter(season %in% input$yearinput)
+      
+    }
+
+
+     if (input$opponentinput=="All") { 
+    mydf1
+  }
+  
+  else
+    
+    if (input$opponentinput!="All"){
+      
+      mydf1 <- mydf1 %>% filter(opponent==input$opponentinput)
+      
+    }
+  
+  mydf1 <-  mydf1 %>% select(x1 = which(colnames(plot)==input$selectx1), y1=which(colnames(plot)==input$selecty1),
+                             label, blind) 
+  
+})
+
+
+
+reactive({
+  mydf1 <- data.frame() 
+    mydf1() %>% 
+    ggvis(~x1, ~y1, key:= ~label,  opacity := 0.65) %>% 
+    layer_points(size.hover := 200, fill := ~blind) %>% 
+    scale_nominal("fill", domain = c("L", "W"), range =  c('lightpink', 'lightgreen')) %>% 
+    add_legend(c("fill"), title="Result") %>%
+    set_options(width = "auto", height = "auto") %>%
+    add_tooltip(function(data) data$label) %>% 
+    add_axis("x", title = titlex1(), 
+             properties = axis_props(
+      title = list(fontSize = 20, dx=-5),
+      labels = list(fontSize = 16)) )  %>% 
+    add_axis("y", title = titley1(), 
+             properties = axis_props(
+               title = list(fontSize = 20, dy=-20),
+               labels = list(fontSize = 16)) )  
+  
+  })  %>%  bind_shiny("plot1", "plot1_ui")
+
   # SPREAD SERVER TAB --------------------------------------------------------------------------------
   output$tablesix = renderReactable({
     datasix <- spread
